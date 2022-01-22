@@ -1,0 +1,332 @@
+<!--link = window.open(url,"Link","toolbar=0,location=1,directories=1,status=0,
+   menubar=1,scrollbars=1,resizable=1,width=200,height=250,left=80,top=180");
+-->
+<HTML>
+<HEAD>
+
+<Script LANGUAGE="JavaScript">
+<!-- Hide this from older browsers
+
+var timer_ID = null;
+var Timer_Running = false;
+var Time_Status = '';
+
+function Sstop(){
+if(Timer_Running)
+clear_Timeout(timer_ID);
+Timer_Running = false;
+}
+
+function display() {
+var thedate = new Date();
+var hours = thedate.getHours();
+var Min = thedate.getMinutes();
+var Sec = thedate.getSeconds();
+var TimeV = "" + ((hours >12) ? hours -12 :hours)
+TimeV += ((Min < 10) ? ":0" : ":") + Min
+TimeV += ((Sec < 10) ? ":0" : ":") + Sec
+TimeV += (hours >= 12) ? " P.M." : " A.M."
+Time_Status = TimeV;
+timer_ID = setTimeout("display()",1000);
+Timer_Running = true;
+}
+
+function Sstart() {
+Sstop();
+display();
+}
+
+Sstart();
+
+
+var Count = 0;
+var Text = 'This Software was designed and developed by Suresh P. Nambiar...';
+var Speed = 90;
+var timerID = null;
+var TimerRunning = false;
+
+var i = 0;
+while (i ++ < 140) Text = " " + Text;
+
+function Scroll(){
+window.status = Text.substring(Count++, Text.length)+'      ('+Time_Status+')';
+if (Count == Text.length)
+Count = 0;
+timerID = setTimeout("Scroll()", Speed);
+TimerRunning = true;
+}
+
+function Start(){
+Stop();
+Scroll();
+}
+
+function Stop(){
+if(TimerRunning)
+clearTimeout(timerID);
+TimerRunning = false;
+}
+
+Start();
+
+// end hide -->
+</Script>
+
+<!-- ************************************ -->
+<SCRIPT LANGUAGE="JAVASCRIPT">
+<!-- hide JavaScript code from browsers that are not JavaScript enabled
+function ayanValid(ayVal) {
+  var dsb = 0;
+  dsb = (ayVal == 3) ? 0 : 1;
+  form1.ayd.disabled = dsb;
+  form1.aym.disabled = dsb;
+  form1.ays.disabled = dsb;
+}
+function popupwin() {
+    var str = '';
+	snPop = window.open('','popup','height=500,width=400,menubar=1,scrollbars=1,status=1,toolbar=1,screenX=100,screenY=0,left=100,top=0,resizable=1,location=1,directories=1');
+	snPop.document.write('<HTML>\n<HEAD>\n');
+	snPop.document.write('<TITLE>This is a popup</TITLE>\n');
+	snPop.document.write('</HEAD>\n');
+	snPop.document.write('<BODY>\n');
+	snPop.document.write('<FORM NAME="FORM2">\n');
+	snPop.document.write('<H3>Thank you, '+ form1.nm.value + ' for choosing snJatakam</H3>\n');
+
+	snPop.document.write('<INPUT TYPE="BUTTON" VALUE="Close Window" ONCLICK="window.close();">\n');
+	snPop.document.write('<APPLET CODE="snJAppl.class" NAME=snApplet LANGUAGE=JAVASCRIPT width=400 height=400>\n');
+
+	snPop.document.write('<PARAM name=snFH value="VH '+ form1.nm.value + '">\n');
+	snPop.document.write('<PARAM name=snName value="' + form1.nm.value + '">\n');
+
+	snPop.document.write('<PARAM name=snSex value="' + form1.sex.value + '">\n');
+	snPop.document.write('<PARAM name=snDD value=' + form1.dd.value + '>\n');
+	snPop.document.write('<PARAM name=snMM value=' + form1.mm.value + '>\n');
+	snPop.document.write('<PARAM name=snYY value=' + form1.yy.value + '>\n');
+	snPop.document.write('<PARAM name=snHH value=' + form1.hh.value + '>\n');
+	snPop.document.write('<PARAM name=snMt value=' + form1.mt.value + '>\n');
+	snPop.document.write('<PARAM name=snSS value=' + form1.ss.value + '>\n');
+	snPop.document.write('<PARAM name=snTimeZone value=' + form1.tmZ.value + '>\n');
+	snPop.document.write('<PARAM name=snPlace value=' + form1.place.value + '>\n');
+	snPop.document.write('<PARAM name=snLongDD value=' + form1.lgd.value + '>\n');
+	snPop.document.write('<PARAM name=snLongMM value=' + form1.lgm.value + '>\n');
+	snPop.document.write('<PARAM name=snLongEW value=' + form1.ew.value + '>\n');
+	snPop.document.write('<PARAM name=snLatDD value=' + form1.ltd.value + '>\n');
+	snPop.document.write('<PARAM name=snLatMM value=' + form1.ltm.value + '>\n');
+	snPop.document.write('<PARAM name=snLatNS value=' + form1.ns.value + '>\n');
+	snPop.document.write('<PARAM name=snAyanamsa value=' + form1.ayan.value + '>\n');
+	snPop.document.write('<PARAM name=snAyaDD value=' + form1.ayd.value + '>\n');
+	snPop.document.write('<PARAM name=snAyaMM value=' + form1.aym.value + '>\n');
+	snPop.document.write('<PARAM name=snAyaSS value=' + form1.ays.value + '>\n');
+	snPop.document.write('<PARAM name=snSummDetl value=' + form1.summdetl.value + '>\n');
+
+	snPop.document.write('</APPLET>\n');
+	snPop.document.write('</FORM>\n');
+	snPop.document.write('</BODY>\n</HTML>\n');
+	snPop.document.close(); //Close the Window to additional writes
+} //end function popupwin()
+//end hiding of JavaScript code -->
+</SCRIPT>
+<!-- ************************************ -->
+<!--
+	snPop.document.bgColor = "#0000FF"; //set the documents background color RRGGBB
+	snPop.document.fgColor = "#FFC814"; //set the documents text color RRGGBB
+	snPop.document.write('<H3>Thank you, '+ form.nm.value + ' for choosing XYZ Product</H3>\n');
+	snPop.document.write('\<!--');
+	snPop.document.write('<APPLET CODE="snJAppl.class" NAME=snApplet LANGUAGE=JAVASCRIPT width=400 height=150>\n');
+	snPop.document.write('<param name=fontName value='+form.nm.value+'>\n');
+	snPop.document.write('<param name=fontSize value='+form.hh.value+'>\n');
+	snPop.document.write('</APPLET>\n');
+	snPop.document.write('--\>');
+-->
+
+<SCRIPT language="JavaScript">
+<!-- Hide JavaScript
+function MsgBox (textstring) {
+alert (textstring)
+}
+function new_window(url) {
+  snWin= window.open(url, "Glossary",
+      "left=0,top=0,width=600,height=600,scrollbars=1,status=0,toolbar=1,menubar=1,\
+      resizable=1,location=1,directories=1");
+  snWin.focus();
+}
+// --- End hide JavaScript - -->
+</SCRIPT>
+<TITLE>
+Horoscope Calculator </TITLE>
+<style>
+<!--
+BODY {
+background: #FFFFFF;
+color: #000000;
+}
+H1 {
+font: 14pt verdana; color: #CCCCCC;
+}
+P {
+font: 13pt times;
+}
+A {
+color: #FF0000; text-decoration: none;
+}
+-->
+</style>
+</HEAD>
+<BODY>
+<TABLE BORDER="0" WIDTH="600" STYLE="filter:glow(color=blue,strength=5)"
+ALIGN="center">
+<TR>
+<BR><BR>
+<H1> Horoscope Calculator </H1>
+</TR></TABLE>
+<TABLE BORDER="0" WIDTH="600"
+STYLE="filter:dropshadow(color=blue,offx=2,positive=1)"
+ALIGN="center">
+<TR>
+<H1> ~~~~~~~~~~~~~</H1><BR>
+</TR></TABLE>
+<A>
+
+<!--
+<FORM method="post" action "/cgi-bin/mailscript">
+-->
+<FORM NAME="form1" METHOD=GET ACTION="http://localhost:8080/servlet/snJ_Srv">
+
+<TABLE border="0" width="585" cellpadding="0" cellspacing="0"
+STYLE="filter:glow(color=green,strength=0">
+<TR><TD width="125" align="left" valign="top">
+Name :
+</TD><TD>
+<INPUT type="text" name="nm" size="25" maxlength="35" value="SureshNambiar">
+<SELECT type="text" name="sex" onChange="MsgBox('OnChange='+form1.sex.value)">
+  <OPTION name="Male" value='M' SELECTED>Male
+  <OPTION name="Female" value='F'>Female
+</SELECT>
+<BR>
+</TD>
+</TR>
+<TR><TD>
+Date of Birth (dd / mm / yyyy) :
+<B>
+</TD><TD>
+<INPUT type="text" name="dd" size=2 maxlength="2" value=01> /
+<INPUT type="text" name="mm" size=2 maxlength="2" value=01> /
+<INPUT type="text" name="yy" size=4 maxlength="4" value=2002>
+</B>
+<BR>
+</TD></TR>
+<TR><TD>
+Time of Birth (hh : mm : ss) :
+</TD><TD>
+<INPUT type="text" name="hh" size=2 maxlength="2" value=11> :
+<INPUT type="text" name="mt" size=2 maxlength="2" value=00> :
+<INPUT type="text" name="ss" size=2 maxlength="2" value=00>
+Time-Zone :
+<SELECT type="text" name="tmZ">
+  <OPTION name="+5.5" value="+5.5" SELECTED>IST (UTC +5:30)
+  <OPTION name="+0.0" value="+0.0">GMT (UTC +0:00)
+  <OPTION name="+5.0" value="+5.0">GMT/UTC  +5:00)
+  <OPTION name="+4.5" value="+4.5">GMT (UTC +4:30)
+  <OPTION name="+4.0" value="+4.0">GMT (UTC +4:00)
+  <OPTION name="+3.0" value="+3.0">GMT (UTC +3:30)
+<BR>
+</TD></TR>
+<TR><TD>
+Place of Birth :
+</TD><TD>
+<INPUT type="text" name="place" size="25" maxlength="35" value=Payyanur>
+<BR>
+</TD></TR>
+<TR><TD>
+Longitude (deg : mm : ss) :
+</TD><TD>
+<INPUT type="text" name="lgd" size=2 maxlength="3" value=76> <SUP>&deg</SUP>
+<INPUT type="text" name="lgm" size=2 maxlength="2" value=15> <SUP>'</SUP>
+<INPUT type="text" name="lgs" size=2 maxlength="2" value=0> <SUP>"</SUP>
+<SELECT name="ew">
+  <OPTION name="East" value="E" SELECTED>East
+  <OPTION name="West" value="W">West
+</SELECT>
+<BR>
+</TD></TR>
+<TR><TD>
+Latitude (deg : mm : ss) :
+</TD><TD>
+<!--
+<INPUT type="text" name="ltd" size=2 maxlength="2"> :
+<INPUT type="text" name="ltm" size=2 maxlength="2"> :
+<INPUT type="text" name="lts" size=2 maxlength="2">
+<SELECT name="ltd" maxlength="2"
+<OPTION ltd=01>01
+<OPTION ltd=01>02
+<OPTION ltd=01>03
+<OPTION ltd=10 SELECTED>10
+<OPTION ltd=90>90
+</SELECT> :
+-->
+
+<INPUT type="text" name="ltd" size=2 maxlength="2" value=10> <SUP>&deg</SUP>
+<INPUT type="text" name="ltm" size=2 maxlength="2" value=0> <SUP>'</SUP>
+<INPUT type="text" name="lts" size=2 maxlength="2" value=0> <SUP>"</SUP>
+<SELECT name="ns">
+  <OPTION name="North" value="N" SELECTED>North
+  <OPTION name="South" value="S">South
+</SELECT>
+</TD></TR><TR><TD><BR><BR></TD></TR>
+<TR><TD>
+Ayanamsa :
+</TD><TD>
+<SELECT name="ayan" onChange="ayanValid(form1.ayan.value)">
+  <OPTION name="Lahiri"      value="0" SELECTED>N.C.Lahiri (Chitra Paksha)
+  <OPTION name="Raman"       value="1">B.V.Raman
+  <OPTION name="ChandraHari" value="2">Chandra Hari K.
+  <OPTION name="Others"      value="3">Any Other (Specify)
+</SELECT>
+<INPUT type="text" name="ayd" size=2 maxlength="2" value=0 disabled=1> <SUP>&deg</SUP>
+<INPUT type="text" name="aym" size=2 maxlength="2" value=0 disabled=1> <SUP>'</SUP>
+<INPUT type="text" name="ays" size=2 maxlength="2" value=0 disabled=1> <SUP>"</SUP>
+</TD></TR>
+<TR><TD>
+Option :
+</TD><TD>
+<SELECT name="summdetl" >
+  <OPTION name="summary" value="0" SELECTED>Horoscope Summary
+  <OPTION name="detail"  value="1">Detail Horoscope
+</SELECT>
+</TD></TR>
+</TABLE>
+<BR><BR><BR>
+
+<INPUT type="SUBMIT" value=" << Generate Horoscope >> ">
+
+<!--
+ONCLICK="javascript:popupwin();new_window('snJatak/'+form1.nm.value+'.htm');">
+<INPUT type="submit" value=" << Generate Horoscope >> "
+onClick="javascript:new_window('../horosnew/snIndex/snIndex.htm');"
+>
+onClick="javascript:var meth=new_window; meth('../horosnew/snIndex/snIndex.htm');"
+onClick="MsgBox('c:/java/applets/xxx.htm')"
+onClick="MsgBox(form1.hh.value)"
+<a href="javascript:var meth=openWin; meth('overriding');" onMouseOver="self.status='Look up override in glossary'; return true;" onMouseOut="self.status=''; return true;"><font color="#00bb00"><em>override</em></font></a><a href="javascript:var meth=openWin; meth('overriding');" onMouseOver="self.status='Look up override in glossary'; return true;" onMouseOut="self.status=''; return true;"><img src="../../images/glossaryIcon.gif" width=11 height=11 border=0 align="ABSMIDDLE" alt="(in the glossary)"></a> inherited
+<p>
+onClick="javascript:var meth=snApplet;"
+
+onClick="new_window(c:/java/applets/xxx.htm)"
+
+<APPLET CODE="c:/java/horosnew/snJAppl.class" NAME=snApplet LANGUAGE=JAVASCRIPT width=400 height=150>
+<param name=fontName value=form1.nm.value>
+<param name=fontSize value=form1.hh.value>
+
+</APPLET>
+	MsgBox(form1.nm.);
+    MsgBox(form1.sex.value+"---"+form1.sex.id);
+	if (form1.sex.value == null) {
+	  MsgBox(form1.sex.value);
+	  str = 'M';
+	  MsgBox(str);
+	} else str = form1.sex.value;
+-->
+</FORM>
+</A>
+</BODY>
+</HTML>
