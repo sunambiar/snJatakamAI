@@ -48,7 +48,7 @@ public class snJDataEx {
     String ayanMin = ""; // = req.getParameter("aym");
     String ayanSec = ""; // = req.getParameter("ays");
 
-    JSONObject jo = new JSONObject();
+    JSONObject jsonObj = new JSONObject();
            
 /*          
         // putting data to JSONObject

@@ -12,6 +12,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Date;
 import java.text.DecimalFormat;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import org.json.JSONObject;
 //import java.util.*;
 //import java.lang.*;
@@ -74,14 +76,15 @@ public class snJatak {
     "Chandra Hari", "User specified"};
   double tob, sun_riseA, sun_setA;  ////, sun_rise, sun_set;
   char outOpt, outType;
-  snPrintWriter pS;
+  snPrintWriter pS = null;
   //static snPrintWriter pS;
   //static snPrintWriter pW;
   boolean html, argsPassed;
   boolean chandraHariAyana;
   static DMS dms = new DMS(false);
   snJDataEx snJx = new snJDataEx();
-  JSONObject jo = new JSONObject();
+  JSONObject jObj = new JSONObject();
+  Map mapJson = null;
 
   /*---------------------------------------------------------------*/
   private static double round(double x, int dec) {
@@ -1043,6 +1046,8 @@ public class snJatak {
     pS.print("Tithi      : ");
     hWrite("</TD><TD>");
     pS.print(round(tt[0], 2));
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", round(tt[0], 2));
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("          \t\t");
@@ -1051,16 +1056,21 @@ public class snJatak {
     pS.print("Tithi Name     : ");
     hWrite("</TD><TD>");
     pS.println(V.tit[ti]);
+    mapJson.put("name", V.tit[ti]);
+    jObj.put("tithi", mapJson);
     hWrite("</TD></TR><TR><TD>");
     pS.print("Nakshatra  : ");
     hWrite("</TD><TD>");
     //pS.print(nakshatra);      hWrite("</TD><TD>");
     pS.print(round(tt[1], 2));
+    mapJson = new LinkedHashMap(3);
+    mapJson.put("val", round(tt[1], 2));
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("\t");
     }
     pS.print("(" + part + " Paada)");
+    mapJson.put("paada", part);
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("\t");
@@ -1068,12 +1078,16 @@ public class snJatak {
     pS.print("Nakshatra Name : ");
     hWrite("</TD><TD>");
     pS.println(V.nak[na]);
+    mapJson.put("name", V.nak[na]);
+    jObj.put("nakshatra", mapJson);
     hWrite("</TD></TR><TR><TD>");
 
     yogam = (short) yo;
     pS.print("Yoga       : ");
     hWrite("</TD><TD>");
     pS.print(round(tt[2], 2));
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", round(tt[2], 2));
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("          \t\t");
@@ -1082,11 +1096,15 @@ public class snJatak {
     pS.print("Yoga Name      : ");
     hWrite("</TD><TD>");
     pS.println(V.yog[yogam]);
+    mapJson.put("name", V.yog[yogam]);
+    jObj.put("yoga", mapJson);
     hWrite("</TD></TR><TR><TD>");
 
     pS.print("Raasi      : ");
     hWrite("</TD><TD>");
     pS.print((int) tt[3] + "S " + DMS.dms((tt[3] - (int) tt[3]) * 30));
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", (int) tt[3] + "S " + DMS.dms((tt[3] - (int) tt[3]) * 30));
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("\t\t");
@@ -1095,12 +1113,19 @@ public class snJatak {
     pS.print("Raasi Name     : ");
     hWrite("</TD><TD>");
     pS.println(V.ras[ra]);
+    mapJson.put("name", V.ras[ra]);
+    jObj.put("raasi", mapJson);
     hWrite("</TD></TR><TR><TD>");
 
     hWrite("</TD></TR><TR><TD>");
     pS.print("Ganam      : ");
     hWrite("</TD><TD>");
     pS.print(V.ganam[V.gnmId[na]]);
+    mapJson = new LinkedHashMap(3);
+    mapJson.put("val", na);
+    mapJson.put("id", V.gnmId[na]);
+    mapJson.put("name", V.ganam[V.gnmId[na]]);
+    jObj.put("ganam", mapJson);
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("\t\t\t");
@@ -1109,10 +1134,18 @@ public class snJatak {
     pS.print("Devata     : ");
     hWrite("</TD><TD>");
     pS.println(V.devata[na]);
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", na);
+    mapJson.put("name", V.devata[na]); 
+    jObj.put("devata", mapJson);
     hWrite("</TD></TR><TR><TD>");
     pS.print("Vriksham   : ");
     hWrite("</TD><TD>");
     pS.print(V.vriksha[na]);
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", na);
+    mapJson.put("name", V.vriksha[na]); 
+    jObj.put("vriksham", mapJson);
     hWrite("</TD><TD>");
     if (!html) {
       pS.print("\t\t\t");
@@ -1122,10 +1155,20 @@ public class snJatak {
     hWrite("</TD><TD>");
     pS.println(V.yoni[V.yonId[na]]);
     hWrite("</TD></TR><TR><TD>");
+    mapJson = new LinkedHashMap(3);
+    mapJson.put("val", na);
+    mapJson.put("id", V.yonId[na]);
+    mapJson.put("name", V.yoni[V.yonId[na]]); 
+    jObj.put("yoni", mapJson);
+
     pS.print("Bhootam    : ");
     hWrite("</TD><TD>");
     pS.print(V.bhootam[bh]);
     hWrite("</TD><TD>");
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", bh); 
+    mapJson.put("name", V.bhootam[bh]); 
+    jObj.put("bhootam", mapJson);
     if (!html) {
       pS.print("\t\t\t");
     }
@@ -1134,10 +1177,19 @@ public class snJatak {
     hWrite("</TD><TD>");
     pS.println(V.mrigam[na]);
     hWrite("</TD></TR><TR><TD>");
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", na); 
+    mapJson.put("name", V.mrigam[na]); 
+    jObj.put("mrigam", mapJson);
+
     pS.print("Pakshi     : ");
     hWrite("</TD><TD>");
     pS.print(V.pakshi[pk]);
     hWrite("</TD><TD>");
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", pk); 
+    mapJson.put("name", V.pakshi[pk]); 
+    jObj.put("pakshi", mapJson);
     if (!html) {
       pS.print("\t\t\t");
     }
@@ -1146,11 +1198,21 @@ public class snJatak {
     hWrite("</TD><TD>");
     pS.println(V.paksham[pak]);
     hWrite("</TD></TR><TR><TD>");
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", pak); 
+    mapJson.put("name", V.paksham[pak]); 
+    jObj.put("paksham", mapJson);
+
     pS.print("Karanam    : ");
     hWrite("</TD><TD>");
     //System.out.println("Kar=" + karanam);
     //System.out.println("Karid["+karanam+"] = " +  V.karId[karanam]);
     pS.println(V.karanam[V.karId[karanam]]);
+    mapJson = new LinkedHashMap(2);
+    mapJson.put("val", karanam); 
+    mapJson.put("id", V.karId[karanam]);
+    mapJson.put("name", V.karanam[V.karId[karanam]]); 
+    jObj.put("karanam", mapJson);
     hWrite("</TD></TR>");
   }
 
