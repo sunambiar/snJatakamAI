@@ -8,12 +8,18 @@ import snJatakamAI.snJatakam.sn_Jatakam.snJatak;
 import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snIO.snIOglobalSetting;
 import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snIO.snPrintWriter;
 
+
+import java.util.LinkedHashMap;
+import java.util.Map; 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 /**
  *
  * @author sureshnambiar
  * @date 2022-01-22 16:30 hrs
  */
-public class snJData {
+public class snJDataEx {
 
     String viewHTML_fileHTML = ""; // = "VH";
     String name = ""; // = req.getParameter("nm");
@@ -42,6 +48,52 @@ public class snJData {
     String ayanMin = ""; // = req.getParameter("aym");
     String ayanSec = ""; // = req.getParameter("ays");
 
+    JSONObject jo = new JSONObject();
+           
+/*          
+        // putting data to JSONObject
+        jo.put("firstName", "John");
+        jo.put("lastName", "Smith");
+        jo.put("age", 25);
+          
+        // for address data, first create LinkedHashMap
+        Map m = new LinkedHashMap(4);
+        m.put("streetAddress", "21 2nd Street");
+        m.put("city", "New York");
+        m.put("state", "NY");
+        m.put("postalCode", 10021);
+          
+        // putting address to JSONObject
+        jo.put("address", m);
+          
+        // for phone numbers, first create JSONArray 
+        JSONArray ja = new JSONArray();
+          
+        m = new LinkedHashMap(2);
+        m.put("type", "home");
+        m.put("number", "212 555-1234");
+          
+        // adding map to list
+        ja.add(m);
+          
+        m = new LinkedHashMap(2);
+        m.put("type", "fax");
+        m.put("number", "212 555-1234");
+          
+        // adding map to list
+        ja.add(m);
+          
+        // putting phoneNumbers to JSONObject
+        jo.put("phoneNumbers", ja);
+          
+        // writing JSON to file:"JSONExample.json" in cwd
+        PrintWriter pw = new PrintWriter("JSONExample.json");
+        pw.write(jo.toJSONString());
+          
+        pw.flush();
+        pw.close();
+*/
+
   /**
    * To get only data for given arguments
    *
@@ -51,7 +103,10 @@ public class snJData {
     // TODO code application logic here
   }
 
-  snJData(String[] args) {
+  snJDataEx() {
+  }
+
+  snJDataEx(String[] args) {
     snIOglobalSetting.usePrintWriterFlag = true;
     snIOglobalSetting.setPrintWriterOn(false);
     int argc = 0; 

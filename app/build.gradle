@@ -33,6 +33,10 @@ dependencies {
     //implementation fileTree(dir: 'lib', include: 'servlet-api.jar')
     //implementation fileTree(dir: 'lib', include: 'servlet-api-6.0.36.jar')
     //implementation fileTree(dir: '/Users/sureshnambiar/NetBeansProjects/libs', include: '*.jar')
+
+    implementation 'org.json:json:20211205'
+    //implementation fileTree(dir: 'lib', include: 'json-20211205.jar')
+    
 }
 
 application {

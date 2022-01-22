@@ -12,6 +12,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Date;
 import java.text.DecimalFormat;
+import org.json.JSONObject;
 //import java.util.*;
 //import java.lang.*;
 
@@ -28,7 +29,7 @@ import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snBasic.*;
 import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snIO.snIOglobalSetting;
 import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snIO.snPrintWriter;
 
-import snJatakamAI.snJatakam.sn_Jatakam.snJData;
+import snJatakamAI.snJatakam.sn_Jatakam.snJDataEx;
 
 /*---------------------------------------------------------------*/
  /*---------------------------------------------------
@@ -79,6 +80,8 @@ public class snJatak {
   boolean html, argsPassed;
   boolean chandraHariAyana;
   static DMS dms = new DMS(false);
+  snJDataEx snJx = new snJDataEx();
+  JSONObject jo = new JSONObject();
 
   /*---------------------------------------------------------------*/
   private static double round(double x, int dec) {
