@@ -43,16 +43,16 @@ public class snJatak {
   static final String sTDj = "<TD align=justify>";
   static final String sTDTDc = "</TD>" + sTDc;
   static final String sTDTDj = "</TD>" + sTDj;
-  static double[][] plnt = new double[3][nplnt + 1];
-  static double[] jupc = new double[4],
+  double[][] plnt = new double[3][nplnt + 1];
+  double[] jupc = new double[4],
       satc = new double[4], tt = new double[4],
       f2 = new double[nplnt], f3 = new double[nplnt];
-  static double ps, pt, z2, b6, s1, lat, longt;
-  static double timeZone = +5.5;
-  static double ayanamsa, obliq, sidtime, h6, lahiri_ayan;
-  static double nakshatra, tithi, yoga;
-  static short karanam, yogam;
-  static short paadaValue;
+  double ps, pt, z2, b6, s1, lat, longt;
+  double timeZone = +5.5;
+  double ayanamsa, obliq, sidtime, h6, lahiri_ayan;
+  double nakshatra, tithi, yoga;
+  short karanam, yogam;
+  short paadaValue;
   String place;
   static snVarsJ V = new snVarsJ();
   snDasa[] dasa_end = new snDasa[nplnt];  //, dasa_start = new snDasa[nplnt];
@@ -62,22 +62,22 @@ public class snJatak {
   static final int npaapCnt = 7;
   int[][] paapCount = new int[npaapFrom][npaapCnt];
   // [][3]-Total & [][6]-GrandTotal
-  static int ret, page, line;
-  static int[] r3 = new int[nrasi + 1], s3 = new int[nrasi + 1];
-  static int saptvarg_sz = 10;
-  static int[][] varga = new int[nplnt + 1][saptvarg_sz];
-  static String sOMKaar = "<H5>" + (char) (92) + "</H5>";
-  static String name, sex;
-  static int ayana_opt;
+  int ret, page, line;
+  int[] r3 = new int[nrasi + 1], s3 = new int[nrasi + 1];
+  int saptvarg_sz = 10;
+  int[][] varga = new int[nplnt + 1][saptvarg_sz];
+  static final String sOMKaar = "<H5>" + (char) (92) + "</H5>";
+  String name, sex;
+  int ayana_opt;
   static final String ayana_opts[] = {"N.C.Lahiri", "B.V.Raman",
     "Chandra Hari", "User specified"};
-  static double tob, sun_riseA, sun_setA;  ////, sun_rise, sun_set;
-  static char outOpt, outType;
+  double tob, sun_riseA, sun_setA;  ////, sun_rise, sun_set;
+  char outOpt, outType;
   snPrintWriter pS;
   //static snPrintWriter pS;
   //static snPrintWriter pW;
-  static boolean html, argsPassed;
-  static boolean chandraHariAyana;
+  boolean html, argsPassed;
+  boolean chandraHariAyana;
   static DMS dms = new DMS(false);
 
   /*---------------------------------------------------------------*/
@@ -135,7 +135,7 @@ public class snJatak {
 	 }
    */
  /*---------------------------------------------------------------*/
-  private static double lagnam(double sb6, double sh6) {
+  private double lagnam(double sb6, double sh6) {
     double a0, b0, c0;
     double sobliq, ssidtime;
     //ayanamsa = plnt[0][0];
@@ -158,7 +158,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double getHour(double sphutam, double ad,
+  private double getHour(double sphutam, double ad,
       long d, long m, long y) {
     double hr, sb6, sh6, sphutnew, time_diff, sphutnxtday, fullcircle;
     double prevhr, ghr, deg_diff, one_sec, ayan_diff;
@@ -369,7 +369,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void init() {
+  private void init() {
     double v0, p0, q0, s0, c0, z0, v1, v2, v3, v4, v5;
     double y1, y2, y3, y4, y5, y6;
     double q1, q2, q3, q4, q5, q6, w2;
@@ -449,7 +449,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double setSayana(double aya_val) {
+  private double setSayana(double aya_val) {
     for (int i = 1; i <= nplnt; i++) {
       plnt[2][i] = plnt[0][i] + aya_val;  // Sayana
       if (plnt[2][i] < 0.0) {
@@ -472,7 +472,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double applyAyan(double aya_val) {
+  private double applyAyan(double aya_val) {
     for (int i = 1; i < nplnt; i++) {
       plnt[0][i] = plnt[2][i] - aya_val;  // Nirayana = Sayana - ayana
       if (plnt[0][i] < 0.0) {
@@ -487,7 +487,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double ayan(int ayan_opt,
+  private double ayan(int ayan_opt,
       long y, long m, long d, long h, long mt, double s, double aya_val) {
     double ret = 0;
     chandraHariAyana = false;
@@ -524,7 +524,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double lat_planet(double obl, double decl,
+  private double lat_planet(double obl, double decl,
       double rtasc, int pno) {
     double po, pd, pr, res = 0.0;
     po = obl * z2;
@@ -557,7 +557,7 @@ public class snJatak {
 		return (res);
      }
      /---------------------------------------------------------------*/
-  private static double long_planet(double pg, double ph, double pp,
+  private double long_planet(double pg, double ph, double pp,
       double pe, double pq, double pa, int pno) {
     double pm, pb, pf, pc, pd, pr, e1, e2, e3, e4;
     double v1, pv, pj, pk, pl, px, py;
@@ -609,7 +609,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double sun(double sb6) {
+  private double sun(double sb6) {
     double g0, h0, p0, e0, q0, a0;
     //int pno;
     g0 = 360 * fract(0.71455 + 99.99826 * sb6);
@@ -624,13 +624,13 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void sun() {
+  private void sun() {
     plnt[ret][1] = sun(b6);
     //System.out.println(" Soorya Sphutam = "+plnt[0][1] + " for Hr="+tob+" "+HMS.hms(tob));
   }
 
   /*---------------------------------------------------------------*/
-  private static void mer() {
+  private void mer() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.43255 + 415.20187 * b6);
@@ -651,7 +651,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void ven() {
+  private void ven() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.88974 + 162.54949 * b6);
@@ -672,7 +672,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void mars() {
+  private void mars() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.75358 + 53.16751 * b6);
@@ -693,7 +693,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void jup() {
+  private void jup() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.59886 + 8.43029 * b6) + jupc[0];
@@ -714,7 +714,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void sat() {
+  private void sat() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.67807 + 3.39476 * b6) + satc[0];
@@ -735,7 +735,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void moon() {
+  private void moon() {
     double g1, h1, a0, b0, c0, g0, e0, d0, f0, l0;
     double r0, d3, d4, d5;
     g1 = 360 * fract(0.71455 + 99.99826 * b6);
@@ -788,7 +788,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void ura() {
+  private void ura() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.61372 + 1.19019 * b6);
@@ -810,7 +810,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void nep() {
+  private void nep() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.17361 + 0.60692 * b6);
@@ -833,7 +833,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void plu() {
+  private void plu() {
     double g0, h0, p0, e0, q0, a0;
     int pno;
     g0 = 360 * fract(0.19434 + 0.40254 * b6);
@@ -855,7 +855,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void gulikan(long d, long m, long y) {
+  private void gulikan(long d, long m, long y) {
     // Gulikan does not move but only rises :-
     // On a 30 nazhika day it rises at 26, 22, 18, 14, 10, 6, 2
     // and on a 30 nazh. night it rises at 10, 6, 2, 26, 22, 18, 14
@@ -1349,7 +1349,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double kunda_lagna_diff(double lag, double moon) {
+  private double kunda_lagna_diff(double lag, double moon) {
     double c1, c2, k1, k2, k3, k4;
     double klag, diff, corr = 0.0;
     System.out.println("Lagn=" + DMS.dms(lag));
@@ -1401,7 +1401,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double kunda_Amsam(double lag) {
+  private double kunda_Amsam(double lag) {
     double m0;
     long i0;
     //System.out.println("Graha="+DMS.dms(lag));
@@ -1416,7 +1416,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void bhavgnl(double j0, double k0, int u) {
+  private void bhavgnl(double j0, double k0, int u) {
     int l, v;
     double m0;
     for (l = 0; l < 3; l++) {
@@ -1430,7 +1430,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double bhavspl(double sobliq, double a0, double c0) {
+  private double bhavspl(double sobliq, double a0, double c0) {
     /*
        double xa, xw, xd, xv, xb, xe, xret;
        xa = (a0 + 90.0) * V.PI / 12.0;
@@ -1522,7 +1522,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static double lagnam() {
+  private double lagnam() {
     //double a0, b0, c0;
     return (lagnam(b6, h6));
     /*
@@ -2078,7 +2078,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void ashtakCalc(long hexval, int n) {
+  private void ashtakCalc(long hexval, int n) {
     int p, q;
     long bit;
     int[] k2 = new int[nrasi + 1];
@@ -2097,7 +2097,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void ashtakTotal() {
+  private void ashtakTotal() {
     for (int q = 1; q <= nrasi; q++) {
       s3[q] += r3[q];
       r3[q] = 0;
