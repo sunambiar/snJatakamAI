@@ -12,6 +12,6 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    snMatch snJM = new snMatch(args);
+    //snMatch snJM = new snMatch(args);
   }
 }
