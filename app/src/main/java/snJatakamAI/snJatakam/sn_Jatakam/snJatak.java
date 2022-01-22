@@ -28,6 +28,8 @@ import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snBasic.*;
 import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snIO.snIOglobalSetting;
 import snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snIO.snPrintWriter;
 
+import snJatakamAI.snJatakam.sn_Jatakam.snJData;
+
 /*---------------------------------------------------------------*/
  /*---------------------------------------------------
         Suresh's Horoscope
@@ -71,7 +73,8 @@ public class snJatak {
     "Chandra Hari", "User specified"};
   static double tob, sun_riseA, sun_setA;  ////, sun_rise, sun_set;
   static char outOpt, outType;
-  static snPrintWriter pS;
+  snPrintWriter pS;
+  //static snPrintWriter pS;
   //static snPrintWriter pW;
   static boolean html, argsPassed;
   static boolean chandraHariAyana;
@@ -970,7 +973,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void misc() {
+  private void misc() {
     int ti, na, yo, ra, i, part;
     double rasi;
     int bh, pk, pak;
@@ -1233,7 +1236,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void prplnt() {
+  private void prplnt() {
     int i, a, b, c;
     double aa, bb, lagn, lagnS, xx, aaS;
     double klagn = 0.0, kmoon = 0.0;
@@ -1493,7 +1496,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void pageHeader() {
+  private void pageHeader() {
     hWrite("<TABLE><TR><TD>");
     pS.println("\f");
     hWrite("</TD></TR><TR><TD width=500 align=left>");
@@ -1546,7 +1549,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void bhav() {
+  private void bhav() {
     String dashL
         = "---------------------------------------------------------";
     double a0, b0, c0, d0, j0, k0;
@@ -1685,7 +1688,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void saptavg() {
+  private void saptavg() {
     int i;
     String dashL
         = "--------------------------------------------------------------------------";
@@ -1858,7 +1861,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void vgcomp(String y1, double x0, int t) {
+  private void vgcomp(String y1, double x0, int t) {
     String delim;
     int q, z;
     int[] j = new int[saptvarg_sz + 1];
@@ -1935,7 +1938,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void vgcalc(int m) {
+  private void vgcalc(int m) {
     String[][] tz = new String[33][8];
     int i, j, z;
     for (i = 0; i < 33; i++) {
@@ -2062,7 +2065,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void vgprint(int detl) {
+  private void vgprint(int detl) {
     if (detl == 0) {
       vgcalc(0);
       vgcalc(3);
@@ -2102,7 +2105,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void ashtakPrint(String x1) {
+  private void ashtakPrint(String x1) {
     int i;
     hWrite("<TR><TD>");
     pS.print(x1 + " ");
@@ -2120,7 +2123,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void ashtak() {
+  private void ashtak() {
     int c, d, e, f, g, h, i, j, k, aaa;
     String dashL
         = "=========================================================";
@@ -2251,7 +2254,7 @@ public class snJatak {
   }
 
   /*---------------------------------------------------------------*/
-  private static void vimsHeading(int detl) {
+  private void vimsHeading(int detl) {
     String dashL = "----------------------------------------------";
     hWrite("<TABLE color=#FCCCCF border=0 width=400><TR>");
     hWrite("<TD align=left><STRONG><font color=\"red\">");
@@ -2594,7 +2597,7 @@ public class snJatak {
      }
    */
  /*---------------------------------------------------------------*/
-  private static void hWrite(String s) {
+  private void hWrite(String s) {
     if (html) {
       pS.println(s);
     }

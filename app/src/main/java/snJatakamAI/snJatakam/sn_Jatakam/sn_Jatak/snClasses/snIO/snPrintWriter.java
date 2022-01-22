@@ -20,6 +20,10 @@ public class snPrintWriter {
   private PrintWriter pW = null;
   private boolean printWriterEnabled = true;
 
+  public snPrintWriter() {
+    pW = new PrintWriter(System.out);
+  }
+
   public snPrintWriter(Writer writer) {
     pW = new PrintWriter(writer);
   }
