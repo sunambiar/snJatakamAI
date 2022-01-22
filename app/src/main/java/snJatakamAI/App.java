@@ -3,12 +3,15 @@
  */
 package snJatakamAI;
 
+import snJatakamAI.snJatakam.sn_Jatakam.snMatch;
 public class App {
-    public String getGreeting() {
-        return "Hello World! This is snJatakam for Analytics using AI";
-    }
 
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
-    }
+  public String getGreeting() {
+    return "Hello World! This is snJatakam for Analytics using AI";
+  }
+
+  public static void main(String[] args) {
+    System.out.println(new App().getGreeting());
+    snMatch snJM = new snMatch(args);
+  }
 }
