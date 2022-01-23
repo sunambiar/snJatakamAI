@@ -36,7 +36,9 @@ dependencies {
 
     implementation 'org.json:json:20211205'
     //implementation fileTree(dir: 'lib', include: 'json-20211205.jar')
-    
+
+    //implementation 'org.jsonex:csv:0.1.21'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.13.1'
 }
 
 application {

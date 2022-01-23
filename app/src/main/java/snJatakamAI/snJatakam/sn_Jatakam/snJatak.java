@@ -86,13 +86,18 @@ public class snJatak {
   snJDataEx snJx = new snJDataEx();
   JSONObject jObj = new JSONObject();
   JSONArray jArr = null, jArr1 = null;
-  Map mapJson = null, mapJsonA = null;
+  Map mapJson = null, mapJsonA = null, mapJsonB = null, mapJsonC = null;
 
   /*---------------------------------------------------------------*/
   private static double round(double x, int dec) {
     double deci;
     deci = (double) Math.pow(10, dec);
     return ((double) Math.round(x * deci) / deci);
+  }
+
+  /*---------------------------------------------------------------*/
+  public JSONObject getDataJSON() {
+    return jObj;
   }
 
   /*---------------------------------------------------------------*/
@@ -1080,7 +1085,7 @@ public class snJatak {
     pS.print("Nakshatra Name : ");
     hWrite("</TD><TD>");
     pS.println(V.nak[na]);
-    mapJson.put("name", V.nak[na]);
+    mapJson.put("name", V.nak[na].trim());
     jObj.put("nakshatra", mapJson);
     hWrite("</TD></TR><TR><TD>");
 
@@ -1115,7 +1120,7 @@ public class snJatak {
     pS.print("Raasi Name     : ");
     hWrite("</TD><TD>");
     pS.println(V.ras[ra]);
-    mapJson.put("name", V.ras[ra]);
+    mapJson.put("name", V.ras[ra].trim());
     jObj.put("raasi", mapJson);
     hWrite("</TD></TR><TR><TD>");
 
@@ -1202,7 +1207,7 @@ public class snJatak {
     hWrite("</TD></TR><TR><TD>");
     mapJson = new LinkedHashMap(2);
     mapJson.put("val", pak);
-    mapJson.put("name", V.paksham[pak]);
+    mapJson.put("name", V.paksham[pak].trim());
     jObj.put("paksham", mapJson);
 
     pS.print("Karanam    : ");
@@ -1213,7 +1218,7 @@ public class snJatak {
     mapJson = new LinkedHashMap(3);
     mapJson.put("val", karanam);
     mapJson.put("id", V.karId[karanam]);
-    mapJson.put("name", V.karanam[V.karId[karanam]]);
+    mapJson.put("name", V.karanam[V.karId[karanam]].trim());
     jObj.put("karanam", mapJson);
     hWrite("</TD></TR>");
   }
@@ -1234,7 +1239,7 @@ public class snJatak {
     mapJson = new LinkedHashMap(2);
     mapJson.put("val", karanam);
     mapJson.put("id", V.karId[karanam]);
-    mapJson.put("name", V.karanam[V.karId[karanam]]);
+    mapJson.put("name", V.karanam[V.karId[karanam]].trim());
     jObj.put("karanam", mapJson);
 
     hWrite("<TABLE border=2>");
@@ -1381,6 +1386,8 @@ public class snJatak {
       lagnS += 360.0;
     }
     for (i = 0; i <= nplnt; i++) {
+      mapJson = new LinkedHashMap(9);
+
       aa = (i > 0 ? plnt[0][i] : lagn);
       aaS = (i > 0 ? plnt[2][i] : lagnS);
       a = (int) (aa / 30);
@@ -1391,9 +1398,11 @@ public class snJatak {
       } else {
         if (plnt[1][i] < aaS) {
           pp = (html ? "<STRONG>RET<STRONG>" : "RET");
+          mapJson.put("transit", "RET");
         } else {
           pp = (html ? "<I>dir</I>" : "dir");
           //pp = ">>+>>";  &uml;&macr;&middot;&shy;&divide;
+          mapJson.put("transit", "DIR");
         }
         /*
            bb = plnt[1][i];    // plnt[i+nplnt+1];
@@ -1403,8 +1412,7 @@ public class snJatak {
       }
       hWrite("<TR><TD>");
       pS.print(V.grahalong[i]);
-
-      mapJson = new LinkedHashMap(8);
+      jObj.put(V.grahalong[i].trim(), mapJson);
       mapJson.put("id", i);
 
       hWrite(sTDTDj);
@@ -1421,7 +1429,7 @@ public class snJatak {
 
         mapJsonA = new LinkedHashMap(4);
         mapJsonA.put("rasi_id", (int) xx);
-        mapJsonA.put("rasi_name", V.ras[(int) xx]);
+        mapJsonA.put("rasi_name", V.ras[(int) xx].trim());
         mapJsonA.put("rasi_deg", 30.0 * fract(xx));
         mapJsonA.put("rasi_deg_dms", DMS.dms(30.0 * fract(xx)));
         mapJson.put("rasi_niryana", mapJsonA);
@@ -1441,7 +1449,7 @@ public class snJatak {
 
         mapJsonA = new LinkedHashMap(4);
         mapJsonA.put("rasi_id", (int) xx);
-        mapJsonA.put("rasi_name", V.ras[(int) xx]);
+        mapJsonA.put("rasi_name", V.ras[(int) xx].trim());
         mapJsonA.put("rasi_deg", 30.0 * fract(xx));
         mapJsonA.put("rasi_deg_dms", DMS.dms(30.0 * fract(xx)));
         mapJson.put("rasi_saayana", mapJsonA);
@@ -1474,19 +1482,20 @@ public class snJatak {
       }
       mapJsonA = new LinkedHashMap(2);
       mapJsonA.put("val", a);
-      mapJsonA.put("name", V.ras[a]);
+      mapJsonA.put("name", V.ras[a].trim());
       mapJson.put("ras", mapJsonA);
       pS.print(" (" + c + ") ");
       hWrite(sTDTDc);
       pS.print(V.nak[b]);
       mapJsonA = new LinkedHashMap(2);
       mapJsonA.put("val", b);
-      mapJsonA.put("name", V.nak[b]);
+      mapJsonA.put("name", V.nak[b].trim());
       mapJson.put("nak", mapJsonA);
       hWrite(sTDTDc);
       pS.println(pp);
+      //mapJson.put("transit", pp);
       hWrite("</TD></TR>");
-      jObj.put(V.grahalong[i], mapJson);
+      //jObj.put(V.grahalong[i].trim(), mapJson);
     }
     hWrite("<TR><TD>");
     pS.print("Kunda Lagnam");
@@ -1684,7 +1693,7 @@ public class snJatak {
     pS.print("Jatakam of ");
     hWrite("&nbsp;<U>");
     pS.print(name);
-    jObj.put("name", name);
+    jObj.put("name", name.trim());
     hWrite("</U></TD><TD width=400 align=right>");
     if (!html) {
       pS.print("\t\t\t ");
@@ -1788,7 +1797,7 @@ public class snJatak {
 
     mapJson = new LinkedHashMap(2);
     mapJson.put("id", ayana_opt);
-    mapJson.put("val", ayana_opts[ayana_opt]);
+    mapJson.put("name", ayana_opts[ayana_opt]);
     jObj.put("ayana_opts", mapJson);
 
     hWrite("</TD></TR><TR><TD>");
@@ -1899,17 +1908,17 @@ public class snJatak {
 
           mapJsonA = new LinkedHashMap(2);
           mapJsonA.put("id", k);
-          mapJsonA.put("name", V.grahalong[k]);
+          mapJsonA.put("name", V.grahalong[k].trim());
           jArr1.put(mapJsonA);
         }
       }
       mapJson.put("graha", jArr1);
-      jObj.put("bhava", jArr);
       if (!html) {
         pS.println();
       }
       hWrite("</TD><TR>");
     }
+    jObj.put("bhava", jArr);
     hWrite("</TABLE>");
     hWrite("<TABLE><TR><TD>");
     if (!html) {
@@ -1952,7 +1961,7 @@ public class snJatak {
     mapJson = new LinkedHashMap(11);
     String xStrArr[] = {"graham", "x1", "x3", "x7", "x9",
       (chandraHariAyana ? "x10" : "Div10"), "x12", "x16", "x30", "x60", "81"
-    }; 
+    };
     mapJson.put("arr_hdg", xStrArr);
     jArr.put(mapJson);
     /*
@@ -2059,6 +2068,8 @@ public class snJatak {
       pS.print("    Count of Paapans for Horoscope Compatibility ");
       hWrite("</a>");
       pS.print(" (for houses :-");
+
+      mapJson = new LinkedHashMap(3);
       //System.out.println(" PaapHouse.length = "+ paapHouse.length);
       for (i = 0; i < paapHouse.length; i++) {
         pS.print(" " + paapHouse[i] + " ");
@@ -2089,6 +2100,7 @@ public class snJatak {
         hWrite("<TR align=center><TD>");
         pS.print(V.grahalong[paapFrom[i]]);
         hWrite("</TD>");
+
         for (j = 0; j <= grndtotidx; j++) {
           hWrite("<TD>");
           if (paapCount[i][j] > 0) {
@@ -2098,8 +2110,20 @@ public class snJatak {
           }
           hWrite("</TD>");
         }
+
+        mapJsonA = new LinkedHashMap(grndtotidx + 1);
+        for (j = 0; j < paapGrahB.length; j++) {
+          mapJsonA.put(V.grahalong[paapGrahA[j]].trim(), paapCount[i][j]);
+        }
+        for (mapJsonA.put("total", paapCount[i][j++]); j < paapGrahB.length; j++) {
+          mapJsonA.put(V.grahalong[paapGrahB[j]].trim(), paapCount[i][j]);
+        }
+        mapJsonA.put("grand_total", paapCount[i][j]);
+        mapJson.put(V.grahalong[paapFrom[i]].trim(), mapJsonA);
+
         hWrite("</TR>");
       }
+      jObj.put("paapas_count", mapJson);
       hWrite("</TABLE><HR>");
     }
   }
@@ -2242,6 +2266,11 @@ public class snJatak {
       }
     } else {
       int rIdx[] = {1, 2, 3, 5, 7, 11, 10, 9, 8, 6, 4, 0};
+      int rasiArrangement[]
+          = {12, 1, 2, 3,
+            11, 4,
+            10, 5,
+            9, 8, 7, 6};
       int[] rItx = new int[nplnt + 1];
       String std = "<TD width=100 align=center>";
       String delm[] = {"..   12    ..", "..    1    ..",
@@ -2266,6 +2295,8 @@ public class snJatak {
       hWrite("<TABLE><TR><TD width=400 align=center font:14pt verdana>");
       hWrite("<STRONG><a name=\"_" + V.vrg[m].trim() + "\"></a><a href=\"#_top\">");
       hWrite(V.vrg[m]);
+      mapJson = new LinkedHashMap(12);
+      jObj.put(V.vrg[m].trim(), mapJson);
       hWrite("</a></STRONG></TD></TR></TABLE>");
       hWrite("<TABLE border=4><TR>");
       for (i = 0; i < 4; i++) {
@@ -2275,8 +2306,10 @@ public class snJatak {
       for (i = 0; i < 12; i++) {
         hWrite(std);
         found = false;
+        jArr = new JSONArray();
         for (j = 0; j < rItx[i]; j++) {
           pS.print(tz[i][j]);
+          jArr.put(tz[i][j]);
           if (j % 2 > 0) {
             pS.println();
             hWrite("<BR>");
@@ -2291,6 +2324,7 @@ public class snJatak {
         for (; j <= maxGrh / 2; j++) {
           hWrite("<BR>");
         }
+        mapJson.put(rasiArrangement[i], jArr);
         if (i == 4) {
           hWrite("</TD><TD align=center colspan=2 rowspan=2>" + sOMKaar);
           //hWrite("<H5>" + (char)92 + "</H5>");
@@ -2358,6 +2392,7 @@ public class snJatak {
   private void ashtakPrint(String x1) {
     int i;
     hWrite("<TR><TD>");
+    mapJsonA = new LinkedHashMap(nrasi);
     pS.print(x1 + " ");
     for (i = 1; i <= nrasi; i++) {
       hWrite("</TD><TD width=30 align=center>");
@@ -2365,10 +2400,12 @@ public class snJatak {
         pS.print("   ");
       }
       pS.print(r3[i]);
+      mapJsonA.put(i, r3[i]);
     }
     if (!html) {
       pS.println();
     }
+    mapJson.put(x1, mapJsonA);
     hWrite("</TD></TR>");
   }
 
@@ -2416,6 +2453,7 @@ public class snJatak {
       s3[q] = 0;
       r3[q] = 0;
     }
+    mapJson = new LinkedHashMap(7);
     ashtakCalc(0xD3E, c);
     ashtakCalc(0x246, d);
     ashtakCalc(0xD3E, e);
@@ -2489,17 +2527,21 @@ public class snJatak {
     if (!html) {
       pS.println(dashL);
     }
+    mapJsonA = new LinkedHashMap(nrasi);
     hWrite("<TR color=#FFFCCC><TD>");
     pS.print(" Total  ");
     for (k = 1; k <= nrasi; k++) {
       hWrite("</TD><TD width=30 align=center>");
       pS.print("  " + s3[k]);
+      mapJsonA.put(k, s3[k]);
     }
     pS.println();
     hWrite("</TD></TR></TABLE><HR>");
     if (!html) {
       pS.println(dashL);
     }
+    mapJson.put("total", mapJsonA);
+    jObj.put("ashtaka_varga", mapJson);
     pageHeader();
   }
 
@@ -2573,8 +2615,13 @@ public class snJatak {
     b0 = a0 - p0;
     vimsHeading(detl);
     line = (detl == 1 ? 23 : 6);
+
+    mapJson = new LinkedHashMap(7);  // 7 Dasas to be listed
+    jObj.put("vimsottari_dasa", mapJson);
     for (c = q; c <= q + 8; c++) {
       c %= 9;       //  if (c > 8) c -= 9;
+      mapJsonA = new LinkedHashMap(7); // 7 Bhuktis to be listed
+      mapJson.put(V.dL[c].trim(), mapJsonA);
       for (d = 0; d <= 8; d++) {
         n = c + d;
         n %= 9;     //  if (n > 8) n -=9;
@@ -2604,8 +2651,13 @@ public class snJatak {
              pS.println(p);     hWrite("</TD></TR>");
            */
           pS.print(fmt.format(t) + "-" + V.mth[r - 1] + "-" + p + " ");
+          mapJsonB = new LinkedHashMap(3);
+          mapJsonA.put(V.dL[n].trim(), mapJsonB);
+          mapJsonB.put("uptoDate", fmt.format(t) + "-" + V.mth[r - 1] + "-" + p);
+          mapJsonB.put("uptoDate_ymd", p + "-" + r + "-" + fmt.format(t));
           hWrite(sTDTDc);
           pS.println(snDate.dateDiff(new snDate(p, r, t), snDOB).ymd());
+          mapJsonB.put("uptoAge", snDate.dateDiff(new snDate(p, r, t), snDOB).ymd());
           hWrite("</TD></TD>");
           line++;
           if (line > 60) {
@@ -2637,16 +2689,23 @@ public class snJatak {
             hWrite("</TD><TD>");
             pS.print("  " + V.dL[n]);
             hWrite("</TD><TD>");
+            mapJsonB = new LinkedHashMap(7);  // 7 AntarDasas 
+            mapJsonA.put(V.dL[n].trim(), mapJsonB);
             pS.print("  " + V.dL[g]);
             hWrite(sTDTDc);
+            mapJsonC = new LinkedHashMap(3);
+            mapJsonB.put(V.dL[g].trim(), mapJsonC);
             /*
                pS.print("   " + fmt.format(t)); hWrite(sTDTDc);
                pS.print("   " + fmt.format(r)); hWrite(sTDTDc);
                pS.println("   " + fmt.format(p)); hWrite("</TD></TR>");
              */
             pS.print(fmt.format(t) + "-" + V.mth[r - 1] + "-" + p + " ");
+            mapJsonC.put("uptoDate", fmt.format(t) + "-" + V.mth[r - 1] + "-" + p);
+            mapJsonC.put("uptoDate_ymd", p + "-" + r + "-" + fmt.format(t));
             hWrite(sTDTDc);
             pS.println(snDate.dateDiff(new snDate(p, r, t), snDOB).ymd());
+            mapJsonC.put("uptoAge", snDate.dateDiff(new snDate(p, r, t), snDOB).ymd());
             hWrite("</TD></TD>");
             line++;
             if (line > 60) {
@@ -2975,6 +3034,7 @@ public class snJatak {
         System.out.println("Output to :- ");
         System.out.println("[ST] Screen-Text / [SH] Screen-HTML / ");
         System.out.println("[FT] File Text   / [FH] File HTML : ");
+        System.out.println("[VH] serVlet-HTML");
         System.out.flush();
         nxtline = dis.readLine();
         nxtline = nxtline.trim();
@@ -3276,7 +3336,6 @@ public class snJatak {
         } else {
           snPrintWriter.disable(pS);
         }
-
       }
       htmlheader = "<HTML><HEAD><TITLE>" + name.trim() + "'s Own Jatakam - by "
           + snExchange.gn() + " {" + versionNo
@@ -3368,6 +3427,7 @@ public class snJatak {
       hWrite("<H2>");
       pS.print("\n\n                Jatakam ");
       pS.println("(" + (detail == 0 ? "Basic" : "Detail") + ")");
+      jObj.put("basic_detail", detail);
       hWrite("</H2>");
       hWrite("</TD><TD width=100 align=center>");
       hWrite(sOMKaar);
@@ -3404,6 +3464,7 @@ public class snJatak {
       hWrite("</TD><TD colspan=2>");
       hWrite("<STRONG>");
       pS.print(name);
+      jObj.put("name", name.trim());
       hWrite("</TD>");
       //hWrite("<TD width=75></TD><TD></TD><TD>");
       hWrite("<TD width=\"1%\"></TD><TD>");
@@ -3411,17 +3472,22 @@ public class snJatak {
       hWrite("</TD><TD>");
       hWrite("<STRONG>");
       pS.println(sex);
+      jObj.put("sex", sex.trim());
       hWrite("</TD></TR><TR><TD>");
       pS.print("Date of Birth  : ");
       hWrite("</TD><TD>");
       hWrite("<STRONG>");
       pS.print("" + d + "-" + V.mth[(int) m - 1] + "-" + y);
+      jObj.put("dob", "" + d + "-" + V.mth[(int) m - 1] + "-" + y);
+      jObj.put("dob_ymd", "" + y + "-" + m + "-" + d);
       hWrite("</TD>");
       hWrite("<TD width=75>");
       hWrite("<STRONG>");
       //d_o_w = V.day[(int)j];
       snE.dow_No = (short) j;
       snE.dow = V.day[(int) j];
+      jObj.put("day_of_week", snE.dow);
+      jObj.put("dow", snE.dow_No);
       //System.out.println("Day of Week " + snE.dow);
       pS.println(" (" + V.day[(int) j] + ") ");
       hWrite("</TD><TD></TD><TD>");
@@ -3429,24 +3495,38 @@ public class snJatak {
       hWrite("</TD><TD>");
       hWrite("<STRONG>");
       pS.print(HMS.hms(tob));
+      jObj.put("tob", tob);
+      jObj.put("time_of_birth", HMS.hms(tob));
       pS.println(" (" + (timeZone >= 0.0 ? "+" : "-")
           + (timeZone >= 0.0 ? timeZone : -timeZone) + " GMT)");
+      jObj.put("timeZoneGMT", timeZone);
       hWrite("</TD></TR></TABLE><TABLE><TR><TD>");
       pS.print("Place of Birth : ");
       hWrite("</TD><TD>");
       hWrite("<STRONG>");
       pS.println(place);
+      jObj.put("place_of_birth", place);
       hWrite("</TD></TR></TABLE><TABLE><TR><TD>");
       pS.print("Latitude       : ");
       hWrite("</TD><TD>");
       hWrite("<STRONG>");
       pS.println(DMS.dms(lat) + " " + ns);
+      mapJson = new LinkedHashMap(3);
+      jObj.put("latitude", mapJson);
+      mapJson.put("deg", lat);
+      mapJson.put("dms", DMS.dms(lat));
+      mapJson.put("ns", ns);
       hWrite("</TD>");
       hWrite("<TD width=75></TD><TD>");
       pS.print("Longitude      : ");
       hWrite("</TD><TD>");
       hWrite("<STRONG>");
       pS.println(DMS.dms(longt) + " " + ew);
+      mapJson = new LinkedHashMap(3);
+      jObj.put("longitude", mapJson);
+      mapJson.put("deg", lat);
+      mapJson.put("dms", DMS.dms(lat));
+      mapJson.put("ew", ew);
       hWrite("</TD></TR>");
       /*
           pS.println("Latitude       : " + latdeg +

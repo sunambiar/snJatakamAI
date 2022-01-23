@@ -3,7 +3,9 @@
  */
 package snJatakamAI;
 
+import snJatakamAI.snJatakam.sn_Jatakam.snJDataEx;
 import snJatakamAI.snJatakam.sn_Jatakam.snMatch;
+
 public class App {
 
   public String getGreeting() {
@@ -12,6 +14,10 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
+    String path = "/Users/sureshnambiar/NetBeansProjects/snJatakamAI/app/src/main/java/snJatakamAI/snJatakam/snDataBank/JSON/";
+    String infile = path + "snJyotish_charts-orig.csv";
+    String outfile = path + "test.json";
+    snJDataEx.main(new String[]{infile, outfile});
     //snMatch snJM = new snMatch(args);
   }
 }
