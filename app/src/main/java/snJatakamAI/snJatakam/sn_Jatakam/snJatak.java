@@ -12,6 +12,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Date;
 import java.text.DecimalFormat;
+import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import org.json.JSONArray;
@@ -1412,7 +1413,7 @@ public class snJatak {
       }
       hWrite("<TR><TD>");
       pS.print(V.grahalong[i]);
-      jObj.put(V.grahalong[i].trim(), mapJson);
+      //jObj.put(V.grahalong[i].trim(), mapJson);
       mapJson.put("id", i);
 
       hWrite(sTDTDj);
@@ -1495,7 +1496,7 @@ public class snJatak {
       pS.println(pp);
       //mapJson.put("transit", pp);
       hWrite("</TD></TR>");
-      //jObj.put(V.grahalong[i].trim(), mapJson);
+      jObj.put(V.grahalong[i].trim(), mapJson);
     }
     hWrite("<TR><TD>");
     pS.print("Kunda Lagnam");
@@ -1854,14 +1855,12 @@ public class snJatak {
     jArr = new JSONArray();
     for (i = 0; i < nrasi; i++) {
       mapJson = new LinkedHashMap(4);
-      jArr.put(mapJson);
 
       hWrite("<TR><TD align=center>");
       if (!html) {
         pS.print("   ");
       }
       pS.print((i + 1));
-
       mapJson.put("id", (i + 1));
 
       hWrite("</TD><TD>");
@@ -1912,11 +1911,12 @@ public class snJatak {
           jArr1.put(mapJsonA);
         }
       }
-      mapJson.put("graha", jArr1);
+      mapJson.put("grahas", jArr1);
       if (!html) {
         pS.println();
       }
       hWrite("</TD><TR>");
+      jArr.put(mapJson);
     }
     jObj.put("bhava", jArr);
     hWrite("</TABLE>");
@@ -2203,8 +2203,8 @@ public class snJatak {
     };
     if (jArr != null) {
       mapJson = new LinkedHashMap(2);
-      mapJson.put("graha", y1);
-      mapJson.put("vargas", varga[t]);
+      mapJson.put("graha", y1.trim());
+      mapJson.put("vargas", Arrays.toString(varga[t]));
       jArr.put(mapJson);
     }
     pS.println();
@@ -2295,8 +2295,7 @@ public class snJatak {
       hWrite("<TABLE><TR><TD width=400 align=center font:14pt verdana>");
       hWrite("<STRONG><a name=\"_" + V.vrg[m].trim() + "\"></a><a href=\"#_top\">");
       hWrite(V.vrg[m]);
-      mapJson = new LinkedHashMap(12);
-      jObj.put(V.vrg[m].trim(), mapJson);
+      mapJson = new LinkedHashMap(12); 
       hWrite("</a></STRONG></TD></TR></TABLE>");
       hWrite("<TABLE border=4><TR>");
       for (i = 0; i < 4; i++) {
@@ -2339,6 +2338,7 @@ public class snJatak {
            if (i==3 || i==5 || i==7) hWrite("</TR><TR>");
          */
       }
+      jObj.put(V.vrg[m].trim(), mapJson);
       hWrite("</TR></TABLE>");
     }
     if (m % 2 == 1) {
@@ -2617,7 +2617,6 @@ public class snJatak {
     line = (detl == 1 ? 23 : 6);
 
     mapJson = new LinkedHashMap(7);  // 7 Dasas to be listed
-    jObj.put("vimsottari_dasa", mapJson);
     for (c = q; c <= q + 8; c++) {
       c %= 9;       //  if (c > 8) c -= 9;
       mapJsonA = new LinkedHashMap(7); // 7 Bhuktis to be listed
@@ -2773,6 +2772,7 @@ public class snJatak {
        */
       line++;
     }
+    jObj.put("vimsottari_dasa", mapJson);
     hWrite("</TABLE><HR><I>");
     if (!html) {
       pS.println("--------------------------------------------");
@@ -3523,10 +3523,10 @@ public class snJatak {
       hWrite("<STRONG>");
       pS.println(DMS.dms(longt) + " " + ew);
       mapJson = new LinkedHashMap(3);
-      jObj.put("longitude", mapJson);
       mapJson.put("deg", lat);
       mapJson.put("dms", DMS.dms(lat));
       mapJson.put("ew", ew);
+      jObj.put("longitude", mapJson);
       hWrite("</TD></TR>");
       /*
           pS.println("Latitude       : " + latdeg +

@@ -60,8 +60,8 @@ public class snVarsJ {
   public static final String grahalong[] = {"Lagna  ", "Soorya ", "Budha  ",
     "Sukra  ", "Kuja   ", "Guru   ", "Sani   ", "Chandra",
     "Rahu   ", "Ketu   ", "Uranus ", "Neptune", "Pluto  ", "Maandi "};
-  public static final String vrg[] = {"   Rasi   ", " Drekkana ", " Sapthamsa",
-    " Navamsa  ", " Dasamsa  ", "Dwadasamsa", "Shodasamsa",
+  public static final String vrg[] = {"   Rasi   ", " Drekkana ", " Saptaamsa",
+    " Navaamsa  ", " Dasaamsa ", "Dwadasaamsa", "Shodasaamsa",
     " 30 amsa  ", " 60 amsa  ", "Kundaamsa "};
   public static final String ganam[] = {"Deva", "Maanusha", "Aasura"};
   public static final int gnmId[] = {0, 1, 2, 1, 0, 1, 0, 0, 2, 2, 1, 1, 0,
