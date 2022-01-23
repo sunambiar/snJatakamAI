@@ -2109,14 +2109,14 @@ public class snJatak {
             pS.print(" - ");
           }
           hWrite("</TD>");
-        }
-
+        } 
         mapJsonA = new LinkedHashMap(grndtotidx + 1);
-        for (j = 0; j < paapGrahB.length; j++) {
+        for (j = 0; j < paapGrahA.length; j++) {
           mapJsonA.put(V.grahalong[paapGrahA[j]].trim(), paapCount[i][j]);
         }
-        for (mapJsonA.put("total", paapCount[i][j++]); j < paapGrahB.length; j++) {
-          mapJsonA.put(V.grahalong[paapGrahB[j]].trim(), paapCount[i][j]);
+        mapJsonA.put("total", paapCount[i][j++]);
+        for (k = 0; k < paapGrahB.length; j++) {
+          mapJsonA.put(V.grahalong[paapGrahB[k++]].trim(), paapCount[i][j]);
         }
         mapJsonA.put("grand_total", paapCount[i][j]);
         mapJson.put(V.grahalong[paapFrom[i]].trim(), mapJsonA);
@@ -3512,10 +3512,10 @@ public class snJatak {
       hWrite("<STRONG>");
       pS.println(DMS.dms(lat) + " " + ns);
       mapJson = new LinkedHashMap(3);
-      jObj.put("latitude", mapJson);
       mapJson.put("deg", lat);
       mapJson.put("dms", DMS.dms(lat));
       mapJson.put("ns", ns);
+      jObj.put("latitude", mapJson);
       hWrite("</TD>");
       hWrite("<TD width=75></TD><TD>");
       pS.print("Longitude      : ");
