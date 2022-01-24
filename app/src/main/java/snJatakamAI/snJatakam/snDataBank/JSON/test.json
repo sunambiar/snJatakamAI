@@ -1,1 +1,5034 @@
-["{\"Shodasamsa\":{\"11\":[],\"12\":[],\"1\":[\"Sani\"],\"2\":[\"Sukr\"],\"3\":[\"Nept\"],\"4\":[],\"5\":[\"Budh\",\"Maan\"],\"6\":[\"Kuja\",\"Uran\"],\"7\":[\"Chan\",\"Rahu\",\"Ketu\"],\"8\":[\"Lagn\",\"Ravi\"],\"9\":[\"Guru\"],\"10\":[\"Plut\"]},\"time_of_birth\":\"10:54:00 AM\",\"paksham\":{\"val\":1,\"name\":\"Shukla\"},\"ayana_opts\":{\"name\":\"N.C.Lahiri\",\"id\":0},\"paapas_count\":{\"Sukra\":{\"Kuja\":1,\"total\":1,\"Soorya\":0,\"Ketu\":0,\"Rahu\":0,\"grand_total\":2,\"Sani\":1},\"Lagna\":{\"Kuja\":1,\"total\":2,\"Soorya\":0,\"Ketu\":1,\"Rahu\":0,\"grand_total\":3,\"Sani\":1},\"Chandra\":{\"Kuja\":0,\"total\":2,\"Soorya\":1,\"Ketu\":1,\"Rahu\":1,\"grand_total\":3,\"Sani\":0}},\"siderial_time\":{\"val\":3.4664317581382225,\"val_hms\":\"3:27:59 AM\"},\"vriksham\":{\"val\":17,\"name\":\"Vetti\"},\"Sani\":{\"rasi_saayana\":{\"rasi_deg\":23.81348269628795,\"rasi_deg_dms\":\"23&deg48'49\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"rasi_niryana\":{\"rasi_deg\":0.704796857207568,\"rasi_deg_dms\":\"0&deg42'17\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":113.81348269628795,\"deg\":113.81348269628795},\"nak\":{\"val\":6,\"name\":\"Punartam\"},\"id\":6,\"pos_nirayana\":{\"deg_dms\":90.70479685720757,\"deg\":90.70479685720757}},\"Pluto\":{\"rasi_saayana\":{\"rasi_deg\":10.005642621216904,\"rasi_deg_dms\":\"10&deg0'20\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":16.896956782136524,\"rasi_deg_dms\":\"16&deg53'49\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":130.0056426212169,\"deg\":130.0056426212169},\"nak\":{\"val\":8,\"name\":\"Aayilyam\"},\"id\":12,\"pos_nirayana\":{\"deg_dms\":106.89695678213653,\"deg\":106.89695678213653}},\"abhijit\":{\"fr_val2\":0.9357838685494034,\"to_val1_hms\":\"0:54:09 AM\",\"fr_val1\":0.5191172018827367,\"fr_val1_hms\":\"0:31:09 AM\",\"to_val1\":0.90245053521607,\"to_val2_hms\":\"1:19:09 AM\",\"fr_val2_hms\":\"0:56:09 AM\",\"to_val2\":1.3191172018827366},\"Neptune\":{\"rasi_saayana\":{\"rasi_deg\":5.865175650886956,\"rasi_deg_dms\":\"5&deg51'55\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"rasi_niryana\":{\"rasi_deg\":12.756489811806562,\"rasi_deg_dms\":\"12&deg45'23\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"ras\":{\"val\":5,\"name\":\"Kanya\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":185.86517565088695,\"deg\":185.86517565088695},\"nak\":{\"val\":12,\"name\":\"Attam\"},\"id\":11,\"pos_nirayana\":{\"deg_dms\":162.75648981180657,\"deg\":162.75648981180657}},\"nakshatra\":{\"val\":17.86,\"name\":\"Trikketta\",\"paada\":4},\"Kundaamsa\":{\"11\":[\"Sukr\"],\"12\":[\"Rahu\"],\"1\":[\"Budh\",\"Plut\",\"Maan\"],\"2\":[],\"3\":[\"Guru\"],\"4\":[\"Uran\"],\"5\":[\"Sani\"],\"6\":[\"Ravi\",\"Ketu\"],\"7\":[\"Lagn\",\"Chan\"],\"8\":[\"Nept\"],\"9\":[],\"10\":[\"Kuja\"]},\"mrigam\":{\"val\":17,\"name\":\"Kezha\"},\"Drekkana\":{\"11\":[],\"12\":[],\"1\":[],\"2\":[\"Guru\"],\"3\":[],\"4\":[\"Sukr\",\"Sani\",\"Chan\",\"Ketu\",\"Maan\"],\"5\":[\"Lagn\",\"Kuja\"],\"6\":[],\"7\":[\"Budh\"],\"8\":[\"Plut\"],\"9\":[],\"10\":[\"Ravi\",\"Rahu\",\"Uran\",\"Nept\"]},\"vimsottari_dasa\":{\"Sukra\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"12 Yrs 9 mths 9 days\",\"uptoDate_ymd\":\"1959-3-17\",\"uptoDate\":\"17-Mar-1959\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"15 Yrs 5 mths 10 days\",\"uptoDate_ymd\":\"1961-11-17\",\"uptoDate\":\"17-Nov-1961\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"16 Yrs 7 mths 11 days\",\"uptoDate_ymd\":\"1963-1-17\",\"uptoDate\":\"17-Jan-1963\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"28 Yrs 3 mths 12 days\",\"uptoDate_ymd\":\"1974-9-17\",\"uptoDate\":\"17-Sep-1974\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"22 Yrs 3 mths 11 days\",\"uptoDate_ymd\":\"1968-9-17\",\"uptoDate\":\"17-Sep-1968\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"13 Yrs 9 mths 10 days\",\"uptoDate_ymd\":\"1960-3-17\",\"uptoDate\":\"17-Mar-1960\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"29 Yrs 5 mths 13 days\",\"uptoDate_ymd\":\"1975-11-17\",\"uptoDate\":\"17-Nov-1975\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"19 Yrs 7 mths 12 days\",\"uptoDate_ymd\":\"1966-1-17\",\"uptoDate\":\"17-Jan-1966\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"25 Yrs 5 mths 12 days\",\"uptoDate_ymd\":\"1971-11-17\",\"uptoDate\":\"17-Nov-1971\"}}},\"Budha\":{\"Sani\":{\"Guru\":{\"uptoAge\":\"2 Yrs 5 mths 7 days\",\"uptoDate_ymd\":\"1948-11-17\",\"uptoDate\":\"17-Nov-1948\"}}},\"Chandra\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"44 Yrs 11 mths 18 days\",\"uptoDate_ymd\":\"1991-5-17\",\"uptoDate\":\"17-May-1991\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"36 Yrs 3 mths 14 days\",\"uptoDate_ymd\":\"1982-9-17\",\"uptoDate\":\"17-Sep-1982\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"36 Yrs 10 mths 16 days\",\"uptoDate_ymd\":\"1983-4-17\",\"uptoDate\":\"17-Apr-1983\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"42 Yrs 8 mths 19 days\",\"uptoDate_ymd\":\"1989-2-17\",\"uptoDate\":\"17-Feb-1989\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"39 Yrs 8 mths 18 days\",\"uptoDate_ymd\":\"1986-2-17\",\"uptoDate\":\"17-Feb-1986\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"45 Yrs 5 mths 17 days\",\"uptoDate_ymd\":\"1991-11-17\",\"uptoDate\":\"17-Nov-1991\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"43 Yrs 3 mths 16 days\",\"uptoDate_ymd\":\"1989-9-17\",\"uptoDate\":\"17-Sep-1989\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"38 Yrs 4 mths 15 days\",\"uptoDate_ymd\":\"1984-10-17\",\"uptoDate\":\"17-Oct-1984\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"41 Yrs 3 mths 15 days\",\"uptoDate_ymd\":\"1987-9-17\",\"uptoDate\":\"17-Sep-1987\"}}},\"Kuja\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"51 Yrs 6 mths 13 days\",\"uptoDate_ymd\":\"1997-12-11\",\"uptoDate\":\"11-Dec-1997\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"45 Yrs 10 mths 16 days\",\"uptoDate_ymd\":\"1992-4-14\",\"uptoDate\":\"14-Apr-1992\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"49 Yrs 11 mths 17 days\",\"uptoDate_ymd\":\"1996-5-14\",\"uptoDate\":\"14-May-1996\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"52 Yrs 5 mths 19 days\",\"uptoDate_ymd\":\"1998-11-17\",\"uptoDate\":\"17-Nov-1998\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"47 Yrs 10 mths 10 days\",\"uptoDate_ymd\":\"1994-4-08\",\"uptoDate\":\"08-Apr-1994\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"51 Yrs 10 mths 20 days\",\"uptoDate_ymd\":\"1998-4-17\",\"uptoDate\":\"17-Apr-1998\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"50 Yrs 4 mths 12 days\",\"uptoDate_ymd\":\"1996-10-11\",\"uptoDate\":\"11-Oct-1996\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"46 Yrs 11 mths 4 days\",\"uptoDate_ymd\":\"1993-5-02\",\"uptoDate\":\"02-May-1993\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"48 Yrs 11 mths 19 days\",\"uptoDate_ymd\":\"1995-5-17\",\"uptoDate\":\"17-May-1995\"}}},\"Guru\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"81 Yrs 0 mths 4 days\",\"uptoDate_ymd\":\"2027-5-29\",\"uptoDate\":\"29-May-2027\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"77 Yrs 5 mths 0 days\",\"uptoDate_ymd\":\"2023-10-23\",\"uptoDate\":\"23-Oct-2023\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"83 Yrs 1 mths 24 days\",\"uptoDate_ymd\":\"2029-7-17\",\"uptoDate\":\"17-Jul-2029\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"84 Yrs 1 mths 0 days\",\"uptoDate_ymd\":\"2030-6-23\",\"uptoDate\":\"23-Jun-2030\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"72 Yrs 7 mths 13 days\",\"uptoDate_ymd\":\"2019-1-05\",\"uptoDate\":\"05-Jan-2019\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"81 Yrs 9 mths 27 days\",\"uptoDate_ymd\":\"2028-3-17\",\"uptoDate\":\"17-Mar-2028\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"78 Yrs 4 mths 7 days\",\"uptoDate_ymd\":\"2024-9-29\",\"uptoDate\":\"29-Sep-2024\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"86 Yrs 5 mths 28 days\",\"uptoDate_ymd\":\"2032-11-17\",\"uptoDate\":\"17-Nov-2032\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"75 Yrs 1 mths 22 days\",\"uptoDate_ymd\":\"2021-7-17\",\"uptoDate\":\"17-Jul-2021\"}}},\"Soorya\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"35 Yrs 5 mths 15 days\",\"uptoDate_ymd\":\"1981-11-17\",\"uptoDate\":\"17-Nov-1981\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"30 Yrs 3 mths 1 days\",\"uptoDate_ymd\":\"1976-9-05\",\"uptoDate\":\"05-Sep-1976\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"30 Yrs 7 mths 9 days\",\"uptoDate_ymd\":\"1977-1-11\",\"uptoDate\":\"11-Jan-1977\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"34 Yrs 1 mths 6 days\",\"uptoDate_ymd\":\"1980-7-11\",\"uptoDate\":\"11-Jul-1980\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"32 Yrs 3 mths 19 days\",\"uptoDate_ymd\":\"1978-9-23\",\"uptoDate\":\"23-Sep-1978\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"29 Yrs 9 mths 2 days\",\"uptoDate_ymd\":\"1976-3-05\",\"uptoDate\":\"05-Mar-1976\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"34 Yrs 5 mths 15 days\",\"uptoDate_ymd\":\"1980-11-17\",\"uptoDate\":\"17-Nov-1980\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"31 Yrs 6 mths 2 days\",\"uptoDate_ymd\":\"1977-12-05\",\"uptoDate\":\"05-Dec-1977\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"33 Yrs 3 mths 1 days\",\"uptoDate_ymd\":\"1979-9-05\",\"uptoDate\":\"05-Sep-1979\"}}},\"Ketu\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"4 Yrs 0 mths 1 days\",\"uptoDate_ymd\":\"1950-6-14\",\"uptoDate\":\"14-Jun-1950\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"4 Yrs 11 mths 11 days\",\"uptoDate_ymd\":\"1951-5-20\",\"uptoDate\":\"20-May-1951\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"5 Yrs 4 mths 6 days\",\"uptoDate_ymd\":\"1951-10-17\",\"uptoDate\":\"17-Oct-1951\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"9 Yrs 5 mths 8 days\",\"uptoDate_ymd\":\"1955-11-17\",\"uptoDate\":\"17-Nov-1955\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"7 Yrs 4 mths 1 days\",\"uptoDate_ymd\":\"1953-10-11\",\"uptoDate\":\"11-Oct-1953\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"4 Yrs 4 mths 9 days\",\"uptoDate_ymd\":\"1950-10-20\",\"uptoDate\":\"20-Oct-1950\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"2 Yrs 10 mths 5 days\",\"uptoDate_ymd\":\"1949-4-14\",\"uptoDate\":\"14-Apr-1949\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"6 Yrs 4 mths 26 days\",\"uptoDate_ymd\":\"1952-11-05\",\"uptoDate\":\"05-Nov-1952\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"8 Yrs 5 mths 11 days\",\"uptoDate_ymd\":\"1954-11-20\",\"uptoDate\":\"20-Nov-1954\"}}},\"Rahu\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"67 Yrs 0 mths 8 days\",\"uptoDate_ymd\":\"2013-6-05\",\"uptoDate\":\"05-Jun-2013\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"62 Yrs 11 mths 23 days\",\"uptoDate_ymd\":\"2009-5-17\",\"uptoDate\":\"17-May-2009\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"69 Yrs 5 mths 4 days\",\"uptoDate_ymd\":\"2015-10-29\",\"uptoDate\":\"29-Oct-2015\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"70 Yrs 5 mths 24 days\",\"uptoDate_ymd\":\"2016-11-17\",\"uptoDate\":\"17-Nov-2016\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"57 Yrs 6 mths 26 days\",\"uptoDate_ymd\":\"2003-12-23\",\"uptoDate\":\"23-Dec-2003\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"67 Yrs 11 mths 6 days\",\"uptoDate_ymd\":\"2014-4-29\",\"uptoDate\":\"29-Apr-2014\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"64 Yrs 0 mths 7 days\",\"uptoDate_ymd\":\"2010-6-05\",\"uptoDate\":\"05-Jun-2010\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"55 Yrs 1 mths 29 days\",\"uptoDate_ymd\":\"2001-7-29\",\"uptoDate\":\"29-Jul-2001\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"60 Yrs 5 mths 2 days\",\"uptoDate_ymd\":\"2006-10-29\",\"uptoDate\":\"29-Oct-2006\"}}}},\"raasi\":{\"val\":\"7S 28&deg6'0\\\"\",\"name\":\"Vriscika\"},\"longitude\":{\"ew\":\"W\",\"deg\":40.68333333333333,\"dms\":\"40&deg41'0\\\"\"},\"actual_lagnam\":{\"val\":127.38395112885622,\"val_dms\":\"127&deg23'2\\\"\"},\"sun_set\":{\"val\":-3.545866648484533,\"val_hms\":\"-3:32:45 AM\"},\"Chandra\":{\"rasi_saayana\":{\"rasi_deg\":21.20872727643439,\"rasi_deg_dms\":\"21&deg12'31\\\"\",\"rasi_name\":\"Dhanus\",\"rasi_id\":8},\"rasi_niryana\":{\"rasi_deg\":28.100041437353998,\"rasi_deg_dms\":\"28&deg6'0\\\"\",\"rasi_name\":\"Vriscika\",\"rasi_id\":7},\"ras\":{\"val\":7,\"name\":\"Vriscika\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":261.2087272764344,\"deg\":261.2087272764344},\"nak\":{\"val\":17,\"name\":\"Trikketta\"},\"id\":7,\"pos_nirayana\":{\"deg_dms\":238.100041437354,\"deg\":238.100041437354}},\"kunda_lagnam\":{\"val\":195.39435007315296,\"val_dms\":\"195&deg23'40\\\"\"},\"dob_ymd\":\"1946-6-14\",\"noonA\":{\"val\":12.922777777777778,\"val_hms\":\"12:55:22 PM\"},\"basic_detail\":1,\"Sapthamsa\":{\"11\":[\"Maan\"],\"12\":[],\"1\":[\"Uran\",\"Plut\"],\"2\":[\"Ravi\",\"Rahu\",\"Nept\"],\"3\":[],\"4\":[],\"5\":[\"Kuja\",\"Guru\"],\"6\":[\"Lagn\",\"Budh\"],\"7\":[],\"8\":[\"Chan\",\"Ketu\"],\"9\":[],\"10\":[\"Sukr\",\"Sani\"]},\"Navamsa\":{\"11\":[\"Budh\"],\"12\":[\"Chan\",\"Ketu\"],\"1\":[\"Nept\"],\"2\":[\"Kuja\"],\"3\":[\"Lagn\"],\"4\":[\"Sukr\",\"Sani\"],\"5\":[\"Guru\",\"Uran\"],\"6\":[\"Ravi\",\"Rahu\",\"Maan\"],\"7\":[],\"8\":[],\"9\":[\"Plut\"],\"10\":[]},\"timeZoneGMT\":-4,\"devata\":{\"val\":17,\"name\":\"Indra\"},\"dob\":\"14-Jun-1946\",\"sun_setA\":{\"val\":20.369722222222222,\"val_hms\":\"8:22:11 PM\"},\"name\":\"Donald Trump\",\"dina_maanamA\":{\"val\":14.893888888888888,\"val_hms\":\"2:53:38 PM\"},\"Rahu\":{\"rasi_saayana\":{\"rasi_deg\":20.75910230088724,\"rasi_deg_dms\":\"20&deg45'33\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"rasi_niryana\":{\"rasi_deg\":27.650416461806852,\"rasi_deg_dms\":\"27&deg39'1\\\"\",\"rasi_name\":\"Vrisha\",\"rasi_id\":1},\"ras\":{\"val\":1,\"name\":\"Vrisha\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":80.75910230088724,\"deg\":80.75910230088724},\"nak\":{\"val\":4,\"name\":\"Makayiryam\"},\"id\":8,\"pos_nirayana\":{\"deg_dms\":57.650416461806856,\"deg\":57.650416461806856}},\"ayanamsa\":{\"val\":23.108685839080376,\"val_dms\":\"23&deg6'31\\\"\"},\"karanam\":{\"val\":29,\"name\":\"Vishti\",\"id\":10},\"Dasamsa\":{\"11\":[],\"12\":[\"Sukr\",\"Sani\"],\"1\":[\"Chan\",\"Ketu\"],\"2\":[\"Maan\"],\"3\":[],\"4\":[],\"5\":[\"Plut\"],\"6\":[\"Kuja\",\"Uran\",\"Nept\"],\"7\":[\"Lagn\",\"Ravi\",\"Rahu\"],\"8\":[\"Budh\"],\"9\":[],\"10\":[\"Guru\"]},\"Rasi\":{\"11\":[],\"12\":[],\"1\":[],\"2\":[\"Ravi\",\"Rahu\",\"Uran\"],\"3\":[\"Budh\"],\"4\":[\"Sukr\",\"Sani\",\"Plut\",\"Maan\"],\"5\":[\"Lagn\",\"Kuja\"],\"6\":[\"Guru\",\"Nept\"],\"7\":[],\"8\":[\"Chan\",\"Ketu\"],\"9\":[],\"10\":[]},\"tob\":10.9,\"latitude\":{\"ns\":\"N\",\"deg\":40.68333333333333,\"dms\":\"40&deg41'0\\\"\"},\"yoga\":{\"val\":22.35,\"name\":\"Subha\"},\"abhijitA\":{\"fr_val2\":12.939444444444446,\"to_val1_hms\":\"12:54:22 PM\",\"fr_val1\":12.522777777777778,\"fr_val1_hms\":\"12:31:22 PM\",\"to_val1\":12.90611111111111,\"to_val2_hms\":\"1:19:22 PM\",\"fr_val2_hms\":\"12:56:22 PM\",\"to_val2\":13.322777777777778},\"Uranus\":{\"rasi_saayana\":{\"rasi_deg\":17.913030643413332,\"rasi_deg_dms\":\"17&deg54'47\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"rasi_niryana\":{\"rasi_deg\":24.80434480433296,\"rasi_deg_dms\":\"24&deg48'16\\\"\",\"rasi_name\":\"Vrisha\",\"rasi_id\":1},\"ras\":{\"val\":1,\"name\":\"Vrisha\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":77.91303064341334,\"deg\":77.91303064341334},\"nak\":{\"val\":4,\"name\":\"Makayiryam\"},\"id\":10,\"pos_nirayana\":{\"deg_dms\":54.804344804332956,\"deg\":54.804344804332956}},\"ashtaka_varga\":{\"Chandra\":{\"11\":1,\"1\":5,\"12\":4,\"2\":5,\"3\":4,\"4\":2,\"5\":3,\"6\":6,\"7\":5,\"8\":4,\"9\":5,\"10\":5},\"Guru   \":{\"11\":4,\"1\":4,\"12\":6,\"2\":5,\"3\":6,\"4\":4,\"5\":4,\"6\":6,\"7\":2,\"8\":7,\"9\":6,\"10\":2},\"total\":{\"11\":28,\"1\":31,\"12\":30,\"2\":34,\"3\":30,\"4\":21,\"5\":29,\"6\":28,\"7\":26,\"8\":30,\"9\":23,\"10\":27},\"Kuja   \":{\"11\":5,\"1\":3,\"12\":3,\"2\":4,\"3\":4,\"4\":3,\"5\":4,\"6\":3,\"7\":4,\"8\":2,\"9\":1,\"10\":3},\"Soorya \":{\"11\":5,\"1\":4,\"12\":4,\"2\":6,\"3\":4,\"4\":3,\"5\":5,\"6\":2,\"7\":3,\"8\":4,\"9\":2,\"10\":6},\"Sukra  \":{\"11\":4,\"1\":7,\"12\":5,\"2\":3,\"3\":4,\"4\":4,\"5\":3,\"6\":4,\"7\":6,\"8\":5,\"9\":4,\"10\":3},\"Budha  \":{\"11\":6,\"1\":6,\"12\":6,\"2\":5,\"3\":4,\"4\":3,\"5\":7,\"6\":5,\"7\":4,\"8\":4,\"9\":1,\"10\":3},\"Sani   \":{\"11\":3,\"1\":2,\"12\":2,\"2\":6,\"3\":4,\"4\":2,\"5\":3,\"6\":2,\"7\":2,\"8\":4,\"9\":4,\"10\":5}},\"sun_riseA\":{\"val\":5.475833333333333,\"val_hms\":\"5:28:33 AM\"},\"dow\":5,\"Maandi\":{\"rasi_saayana\":{\"rasi_deg\":1.1316895996492526,\"rasi_deg_dms\":\"1&deg7'54\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":8.023003760568885,\"rasi_deg_dms\":\"8&deg1'23\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":121.13168959964926,\"deg\":121.13168959964926},\"nak\":{\"val\":7,\"name\":\"Pooyam\"},\"id\":13,\"pos_nirayana\":{\"deg_dms\":98.02300376056888,\"deg\":98.02300376056888}},\"Sukra\":{\"rasi_saayana\":{\"rasi_deg\":25.754137042061792,\"rasi_deg_dms\":\"25&deg45'15\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"rasi_niryana\":{\"rasi_deg\":2.645451202981426,\"rasi_deg_dms\":\"2&deg38'44\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":115.7541370420618,\"deg\":115.7541370420618},\"nak\":{\"val\":6,\"name\":\"Punartam\"},\"id\":3,\"pos_nirayana\":{\"deg_dms\":92.64545120298142,\"deg\":92.64545120298142}},\"bhootam\":{\"val\":3,\"name\":\"Vayu\"},\"Budha\":{\"rasi_saayana\":{\"rasi_deg\":8.879796173770513,\"rasi_deg_dms\":\"8&deg52'47\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"rasi_niryana\":{\"rasi_deg\":15.771110334690132,\"rasi_deg_dms\":\"15&deg46'16\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"ras\":{\"val\":2,\"name\":\"Mithuna\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":98.87979617377052,\"deg\":98.87979617377052},\"nak\":{\"val\":5,\"name\":\"Tiruvatira\"},\"id\":2,\"pos_nirayana\":{\"deg_dms\":75.77111033469014,\"deg\":75.77111033469014}},\"noon\":{\"val\":0.9191172018827367,\"val_hms\":\"0:55:09 AM\"},\"bhava\":[{\"mid\":{\"val\":126.8567203712735,\"val_dms\":\"126&deg51'24\\\"\"},\"id\":1,\"grahas\":[{\"name\":\"Kuja\",\"id\":4}],\"begin\":{\"val\":110.92325059846152,\"val_dms\":\"110&deg55'24\\\"\"}},{\"mid\":{\"val\":154.98978082564955,\"val_dms\":\"154&deg59'23\\\"\"},\"id\":2,\"grahas\":[{\"name\":\"Neptune\",\"id\":11}],\"begin\":{\"val\":140.92325059846152,\"val_dms\":\"140&deg55'24\\\"\"}},{\"mid\":{\"val\":183.1228412800256,\"val_dms\":\"183&deg7'22\\\"\"},\"id\":3,\"grahas\":[{\"name\":\"Guru\",\"id\":5}],\"begin\":{\"val\":169.05631105283757,\"val_dms\":\"169&deg3'23\\\"\"}},{\"mid\":{\"val\":211.25590173440165,\"val_dms\":\"211&deg15'21\\\"\"},\"id\":4,\"grahas\":[],\"begin\":{\"val\":197.18937150721362,\"val_dms\":\"197&deg11'22\\\"\"}},{\"mid\":{\"val\":243.1228412800256,\"val_dms\":\"243&deg7'22\\\"\"},\"id\":5,\"grahas\":[{\"name\":\"Chandra\",\"id\":7},{\"name\":\"Ketu\",\"id\":9}],\"begin\":{\"val\":227.18937150721362,\"val_dms\":\"227&deg11'22\\\"\"}},{\"mid\":{\"val\":274.9897808256495,\"val_dms\":\"274&deg59'23\\\"\"},\"id\":6,\"grahas\":[],\"begin\":{\"val\":259.05631105283754,\"val_dms\":\"259&deg3'23\\\"\"}},{\"mid\":{\"val\":306.85672037127347,\"val_dms\":\"306&deg51'24\\\"\"},\"id\":7,\"grahas\":[],\"begin\":{\"val\":290.9232505984615,\"val_dms\":\"290&deg55'24\\\"\"}},{\"mid\":{\"val\":334.9897808256495,\"val_dms\":\"334&deg59'23\\\"\"},\"id\":8,\"grahas\":[],\"begin\":{\"val\":320.9232505984615,\"val_dms\":\"320&deg55'24\\\"\"}},{\"mid\":{\"val\":3.1228412800255683,\"val_dms\":\"3&deg7'22\\\"\"},\"id\":9,\"grahas\":[],\"begin\":{\"val\":349.05631105283754,\"val_dms\":\"349&deg3'23\\\"\"}},{\"mid\":{\"val\":31.255901734401657,\"val_dms\":\"31&deg15'21\\\"\"},\"id\":10,\"grahas\":[],\"begin\":{\"val\":17.189371507213615,\"val_dms\":\"17&deg11'22\\\"\"}},{\"mid\":{\"val\":63.12284128002561,\"val_dms\":\"63&deg7'22\\\"\"},\"id\":11,\"grahas\":[{\"name\":\"Soorya\",\"id\":1},{\"name\":\"Budha\",\"id\":2},{\"name\":\"Rahu\",\"id\":8},{\"name\":\"Uranus\",\"id\":10}],\"begin\":{\"val\":47.189371507213636,\"val_dms\":\"47&deg11'22\\\"\"}},{\"mid\":{\"val\":94.98978082564956,\"val_dms\":\"94&deg59'23\\\"\"},\"id\":12,\"grahas\":[{\"name\":\"Sukra\",\"id\":3},{\"name\":\"Sani\",\"id\":6},{\"name\":\"Pluto\",\"id\":12},{\"name\":\"Maandi\",\"id\":13}],\"begin\":{\"val\":79.05631105283759,\"val_dms\":\"79&deg3'23\\\"\"}}],\"kunda_lagn_diff\":{\"val\":0.527230757582729,\"val_dms\":\"0&deg31'38\\\"\"},\"Soorya\":{\"rasi_saayana\":{\"rasi_deg\":22.944404397625323,\"rasi_deg_dms\":\"22&deg56'40\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"rasi_niryana\":{\"rasi_deg\":29.835718558544936,\"rasi_deg_dms\":\"29&deg50'9\\\"\",\"rasi_name\":\"Vrisha\",\"rasi_id\":1},\"ras\":{\"val\":1,\"name\":\"Vrisha\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":82.94440439762532,\"deg\":82.94440439762532},\"nak\":{\"val\":4,\"name\":\"Makayiryam\"},\"id\":1,\"pos_nirayana\":{\"deg_dms\":59.83571855854494,\"deg\":59.83571855854494}},\"Ketu\":{\"rasi_saayana\":{\"rasi_deg\":20.7591023008872,\"rasi_deg_dms\":\"20&deg45'33\\\"\",\"rasi_name\":\"Dhanus\",\"rasi_id\":8},\"rasi_niryana\":{\"rasi_deg\":27.650416461806834,\"rasi_deg_dms\":\"27&deg39'1\\\"\",\"rasi_name\":\"Vriscika\",\"rasi_id\":7},\"ras\":{\"val\":7,\"name\":\"Vriscika\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":260.7591023008872,\"deg\":260.7591023008872},\"nak\":{\"val\":17,\"name\":\"Trikketta\"},\"id\":9,\"pos_nirayana\":{\"deg_dms\":237.65041646180683,\"deg\":237.65041646180683}},\"ganam\":{\"val\":17,\"name\":\"Aasura\",\"id\":2},\"sun_rise\":{\"val\":5.384101052250006,\"val_hms\":\"5:23:03 AM\"},\"Dwadasamsa\":{\"11\":[\"Uran\",\"Nept\"],\"12\":[],\"1\":[\"Ravi\",\"Rahu\"],\"2\":[],\"3\":[\"Guru\"],\"4\":[\"Sani\"],\"5\":[\"Sukr\"],\"6\":[\"Kuja\"],\"7\":[\"Lagn\",\"Chan\",\"Ketu\",\"Maan\"],\"8\":[],\"9\":[\"Budh\"],\"10\":[\"Plut\"]},\"day_of_week\":\"Friday\",\"sapta_varga\":[{\"arr_hdg\":[\"graham\",\"x1\",\"x3\",\"x7\",\"x9\",\"Div10\",\"x12\",\"x16\",\"x30\",\"x60\",\"81\"]},{\"vargas\":\"[5, 5, 6, 3, 7, 7, 8, 7, 6, 7]\",\"graha\":\"Lagna\"},{\"vargas\":\"[2, 10, 2, 6, 7, 1, 8, 12, 1, 6]\",\"graha\":\"Soorya\"},{\"vargas\":\"[3, 7, 6, 11, 8, 9, 5, 4, 10, 1]\",\"graha\":\"Budha\"},{\"vargas\":\"[4, 4, 10, 4, 12, 5, 2, 9, 9, 11]\",\"graha\":\"Sukra\"},{\"vargas\":\"[5, 5, 5, 2, 6, 6, 6, 4, 12, 10]\",\"graha\":\"Kuja\"},{\"vargas\":\"[6, 2, 5, 5, 10, 3, 9, 7, 6, 3]\",\"graha\":\"Guru\"},{\"vargas\":\"[4, 4, 10, 4, 12, 4, 1, 7, 5, 5]\",\"graha\":\"Sani\"},{\"vargas\":\"[8, 4, 8, 12, 1, 7, 7, 11, 4, 7]\",\"graha\":\"Chandra\"},{\"vargas\":\"[2, 10, 2, 6, 7, 1, 7, 10, 9, 12]\",\"graha\":\"Rahu\"},{\"vargas\":\"[8, 4, 8, 12, 1, 7, 7, 10, 3, 6]\",\"graha\":\"Ketu\"},{\"vargas\":\"[2, 10, 1, 5, 6, 11, 6, 7, 3, 4]\",\"graha\":\"Uranus\"},{\"vargas\":\"[6, 10, 2, 1, 6, 11, 3, 7, 7, 8]\",\"graha\":\"Neptune\"},{\"vargas\":\"[4, 8, 1, 9, 5, 10, 10, 11, 1, 1]\",\"graha\":\"Pluto\"},{\"vargas\":\"[4, 4, 11, 6, 2, 7, 5, 3, 8, 1]\",\"graha\":\"Maandi\"}],\"Kuja\":{\"rasi_saayana\":{\"rasi_deg\":26.787714676970992,\"rasi_deg_dms\":\"26&deg47'16\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":3.6790288378905966,\"rasi_deg_dms\":\"3&deg40'45\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"ras\":{\"val\":4,\"name\":\"Simha\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":146.78771467697098,\"deg\":146.78771467697098},\"nak\":{\"val\":9,\"name\":\"Makam\"},\"id\":4,\"pos_nirayana\":{\"deg_dms\":123.6790288378906,\"deg\":123.6790288378906}},\"hindu_day\":{\"val\":5,\"day\":\"Friday\"},\"obliquity\":{\"val\":23.446933697071266,\"val_dms\":\"23&deg26'49\\\"\"},\"sex\":\"M\",\"yoni\":{\"val\":17,\"name\":\"Purusha\",\"id\":1},\"place_of_birth\":\"Jamaica\",\"pakshi\":{\"val\":3,\"name\":\"Kozhi\"},\"Guru\":{\"rasi_saayana\":{\"rasi_deg\":17.433879434202186,\"rasi_deg_dms\":\"17&deg26'2\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"rasi_niryana\":{\"rasi_deg\":24.325193595121817,\"rasi_deg_dms\":\"24&deg19'31\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"ras\":{\"val\":5,\"name\":\"Kanya\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":197.4338794342022,\"deg\":197.4338794342022},\"nak\":{\"val\":13,\"name\":\"Chitra\"},\"id\":5,\"pos_nirayana\":{\"deg_dms\":174.32519359512182,\"deg\":174.32519359512182}},\"tithi\":{\"val\":14.86,\"name\":\"Purnima\"},\"dina_maanam\":{\"val\":-8.92996770073454,\"val_hms\":\"-8:55:48 AM\"},\"Lagna\":{\"rasi_saayana\":{\"rasi_deg\":29.96540621035387,\"rasi_deg_dms\":\"29&deg57'55\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":6.856720371273504,\"rasi_deg_dms\":\"6&deg51'24\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"ras\":{\"val\":4,\"name\":\"Simha\"},\"pos_saayana\":{\"deg_dms\":149.96540621035388,\"deg\":149.96540621035388},\"nak\":{\"val\":9,\"name\":\"Makam\"},\"id\":0,\"pos_nirayana\":{\"deg_dms\":126.8567203712735,\"deg\":126.8567203712735}}}","{\"Shodasamsa\":{\"11\":[\"Chan\",\"Nept\"],\"12\":[],\"1\":[\"Plut\"],\"2\":[],\"3\":[],\"4\":[\"Rahu\",\"Ketu\"],\"5\":[],\"6\":[\"Budh\",\"Kuja\"],\"7\":[\"Lagn\"],\"8\":[\"Ravi\",\"Maan\"],\"9\":[\"Sukr\",\"Guru\"],\"10\":[\"Sani\",\"Uran\"]},\"time_of_birth\":\"0:00:00 AM\",\"paksham\":{\"val\":1,\"name\":\"Shukla\"},\"ayana_opts\":{\"name\":\"N.C.Lahiri\",\"id\":0},\"paapas_count\":{\"Sukra\":{\"Kuja\":0,\"total\":2,\"Soorya\":1,\"Ketu\":1,\"Rahu\":0,\"grand_total\":3,\"Sani\":1},\"Lagna\":{\"Kuja\":1,\"total\":3,\"Soorya\":1,\"Ketu\":1,\"Rahu\":0,\"grand_total\":4,\"Sani\":1},\"Chandra\":{\"Kuja\":1,\"total\":1,\"Soorya\":0,\"Ketu\":0,\"Rahu\":1,\"grand_total\":2,\"Sani\":0}},\"siderial_time\":{\"val\":18.614575531005997,\"val_hms\":\"6:36:52 PM\"},\"vriksham\":{\"val\":13,\"name\":\"Koovalam\"},\"Sani\":{\"rasi_saayana\":{\"rasi_deg\":26.998043903803858,\"rasi_deg_dms\":\"26&deg59'53\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"rasi_niryana\":{\"rasi_deg\":3.5114323405142223,\"rasi_deg_dms\":\"3&deg30'41\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"ras\":{\"val\":2,\"name\":\"Mithuna\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":86.99804390380386,\"deg\":86.99804390380386},\"nak\":{\"val\":4,\"name\":\"Makayiryam\"},\"id\":6,\"pos_nirayana\":{\"deg_dms\":63.511432340514226,\"deg\":63.511432340514226}},\"Pluto\":{\"rasi_saayana\":{\"rasi_deg\":1.8469378535702674,\"rasi_deg_dms\":\"1&deg50'49\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"rasi_niryana\":{\"rasi_deg\":8.36032629028062,\"rasi_deg_dms\":\"8&deg21'37\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"ras\":{\"val\":5,\"name\":\"Kanya\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":181.84693785357027,\"deg\":181.84693785357027},\"nak\":{\"val\":11,\"name\":\"Uttram\"},\"id\":12,\"pos_nirayana\":{\"deg_dms\":158.36032629028063,\"deg\":158.36032629028063}},\"abhijit\":{\"fr_val2\":12.521632848674352,\"to_val1_hms\":\"12:29:18 PM\",\"fr_val1\":12.104966182007685,\"fr_val1_hms\":\"12:06:18 PM\",\"to_val1\":12.488299515341017,\"to_val2_hms\":\"12:54:18 PM\",\"fr_val2_hms\":\"12:31:18 PM\",\"to_val2\":12.904966182007685},\"Neptune\":{\"rasi_saayana\":{\"rasi_deg\":5.031275184558499,\"rasi_deg_dms\":\"5&deg1'53\\\"\",\"rasi_name\":\"Dhanus\",\"rasi_id\":8},\"rasi_niryana\":{\"rasi_deg\":11.544663621268878,\"rasi_deg_dms\":\"11&deg32'41\\\"\",\"rasi_name\":\"Vriscika\",\"rasi_id\":7},\"ras\":{\"val\":7,\"name\":\"Vriscika\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":245.03127518455852,\"deg\":245.03127518455852},\"nak\":{\"val\":16,\"name\":\"Anizham\"},\"id\":11,\"pos_nirayana\":{\"deg_dms\":221.54466362126888,\"deg\":221.54466362126888}},\"nakshatra\":{\"val\":13.27,\"name\":\"Chitra\",\"paada\":2},\"Kundaamsa\":{\"11\":[\"Nept\"],\"12\":[],\"1\":[],\"2\":[\"Kuja\",\"Rahu\"],\"3\":[],\"4\":[\"Sani\",\"Maan\"],\"5\":[],\"6\":[\"Ravi\",\"Budh\",\"Guru\",\"Uran\"],\"7\":[\"Lagn\"],\"8\":[\"Ketu\",\"Plut\"],\"9\":[\"Sukr\"],\"10\":[\"Chan\"]},\"mrigam\":{\"val\":13,\"name\":\"Aalpuli\"},\"Drekkana\":{\"11\":[\"Ravi\"],\"12\":[\"Nept\"],\"1\":[\"Rahu\"],\"2\":[\"Guru\",\"Chan\",\"Uran\"],\"3\":[\"Sani\"],\"4\":[\"Lagn\",\"Budh\",\"Kuja\"],\"5\":[],\"6\":[\"Plut\"],\"7\":[\"Ketu\"],\"8\":[\"Sukr\",\"Maan\"],\"9\":[],\"10\":[]},\"vimsottari_dasa\":{\"Kuja\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"4 Yrs 2 mths 18 days\",\"uptoDate_ymd\":\"1977-9-23\",\"uptoDate\":\"23-Sep-1977\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"2 Yrs 7 mths 23 days\",\"uptoDate_ymd\":\"1976-2-26\",\"uptoDate\":\"26-Feb-1976\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"5 Yrs 1 mths 23 days\",\"uptoDate_ymd\":\"1978-8-29\",\"uptoDate\":\"29-Aug-1978\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"0 Yrs 6 mths 16 days\",\"uptoDate_ymd\":\"1974-1-20\",\"uptoDate\":\"20-Jan-1974\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"4 Yrs 6 mths 26 days\",\"uptoDate_ymd\":\"1978-1-29\",\"uptoDate\":\"29-Jan-1978\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"3 Yrs 0 mths 16 days\",\"uptoDate_ymd\":\"1976-7-23\",\"uptoDate\":\"23-Jul-1976\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"1 Yrs 7 mths 26 days\",\"uptoDate_ymd\":\"1975-3-01\",\"uptoDate\":\"01-Mar-1975\"}}},\"Rahu\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"19 Yrs 8 mths 17 days\",\"uptoDate_ymd\":\"1993-3-17\",\"uptoDate\":\"17-Mar-1993\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"15 Yrs 8 mths 0 days\",\"uptoDate_ymd\":\"1989-3-01\",\"uptoDate\":\"01-Mar-1989\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"22 Yrs 1 mths 9 days\",\"uptoDate_ymd\":\"1995-8-11\",\"uptoDate\":\"11-Aug-1995\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"23 Yrs 1 mths 28 days\",\"uptoDate_ymd\":\"1996-8-29\",\"uptoDate\":\"29-Aug-1996\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"10 Yrs 3 mths 1 days\",\"uptoDate_ymd\":\"1983-10-05\",\"uptoDate\":\"05-Oct-1983\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"20 Yrs 7 mths 13 days\",\"uptoDate_ymd\":\"1994-2-11\",\"uptoDate\":\"11-Feb-1994\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"16 Yrs 8 mths 16 days\",\"uptoDate_ymd\":\"1990-3-17\",\"uptoDate\":\"17-Mar-1990\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"7 Yrs 10 mths 9 days\",\"uptoDate_ymd\":\"1981-5-11\",\"uptoDate\":\"11-May-1981\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"13 Yrs 1 mths 7 days\",\"uptoDate_ymd\":\"1986-8-11\",\"uptoDate\":\"11-Aug-1986\"}}},\"Budha\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"64 Yrs 5 mths 4 days\",\"uptoDate_ymd\":\"2037-11-23\",\"uptoDate\":\"23-Nov-2037\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"60 Yrs 7 mths 7 days\",\"uptoDate_ymd\":\"2034-1-26\",\"uptoDate\":\"26-Jan-2034\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"66 Yrs 8 mths 13 days\",\"uptoDate_ymd\":\"2040-3-01\",\"uptoDate\":\"01-Mar-2040\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"67 Yrs 8 mths 10 days\",\"uptoDate_ymd\":\"2041-2-26\",\"uptoDate\":\"26-Feb-2041\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"72 Yrs 6 mths 3 days\",\"uptoDate_ymd\":\"2045-12-20\",\"uptoDate\":\"20-Dec-2045\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"65 Yrs 3 mths 9 days\",\"uptoDate_ymd\":\"2038-9-29\",\"uptoDate\":\"29-Sep-2038\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"61 Yrs 7 mths 4 days\",\"uptoDate_ymd\":\"2035-1-23\",\"uptoDate\":\"23-Jan-2035\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"70 Yrs 2 mths 25 days\",\"uptoDate_ymd\":\"2043-9-14\",\"uptoDate\":\"14-Sep-2043\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"75 Yrs 2 mths 11 days\",\"uptoDate_ymd\":\"2048-8-29\",\"uptoDate\":\"29-Aug-2048\"}}},\"Guru\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"33 Yrs 8 mths 14 days\",\"uptoDate_ymd\":\"2007-3-11\",\"uptoDate\":\"11-Mar-2007\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"30 Yrs 1 mths 5 days\",\"uptoDate_ymd\":\"2003-8-05\",\"uptoDate\":\"05-Aug-2003\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"35 Yrs 10 mths 4 days\",\"uptoDate_ymd\":\"2009-4-29\",\"uptoDate\":\"29-Apr-2009\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"36 Yrs 9 mths 10 days\",\"uptoDate_ymd\":\"2010-4-05\",\"uptoDate\":\"05-Apr-2010\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"25 Yrs 3 mths 17 days\",\"uptoDate_ymd\":\"1998-10-17\",\"uptoDate\":\"17-Oct-1998\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"34 Yrs 6 mths 2 days\",\"uptoDate_ymd\":\"2007-12-29\",\"uptoDate\":\"29-Dec-2007\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"31 Yrs 0 mths 11 days\",\"uptoDate_ymd\":\"2004-7-11\",\"uptoDate\":\"11-Jul-2004\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"39 Yrs 2 mths 2 days\",\"uptoDate_ymd\":\"2012-8-29\",\"uptoDate\":\"29-Aug-2012\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"27 Yrs 10 mths 2 days\",\"uptoDate_ymd\":\"2001-4-29\",\"uptoDate\":\"29-Apr-2001\"}}},\"Sani\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"49 Yrs 1 mths 25 days\",\"uptoDate_ymd\":\"2022-8-20\",\"uptoDate\":\"20-Aug-2022\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"44 Yrs 10 mths 18 days\",\"uptoDate_ymd\":\"2018-5-11\",\"uptoDate\":\"11-May-2018\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"51 Yrs 8 mths 10 days\",\"uptoDate_ymd\":\"2025-3-02\",\"uptoDate\":\"02-Mar-2025\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"52 Yrs 9 mths 20 days\",\"uptoDate_ymd\":\"2026-4-11\",\"uptoDate\":\"11-Apr-2026\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"58 Yrs 2 mths 6 days\",\"uptoDate_ymd\":\"2031-8-29\",\"uptoDate\":\"29-Aug-2031\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"50 Yrs 1 mths 7 days\",\"uptoDate_ymd\":\"2023-8-02\",\"uptoDate\":\"02-Aug-2023\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"45 Yrs 11 mths 28 days\",\"uptoDate_ymd\":\"2019-6-20\",\"uptoDate\":\"20-Jun-2019\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"55 Yrs 7 mths 28 days\",\"uptoDate_ymd\":\"2029-2-17\",\"uptoDate\":\"17-Feb-2029\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"42 Yrs 2 mths 6 days\",\"uptoDate_ymd\":\"2015-9-02\",\"uptoDate\":\"02-Sep-2015\"}}}},\"raasi\":{\"val\":\"5S 26&deg52'34\\\"\",\"name\":\"Kanya\"},\"longitude\":{\"ew\":\"E\",\"deg\":25.966666666666665,\"dms\":\"25&deg58'0\\\"\"},\"actual_lagnam\":{\"val\":348.85032244088126,\"val_dms\":\"348&deg51'1\\\"\"},\"sun_set\":{\"val\":19.349464610764304,\"val_hms\":\"7:20:58 PM\"},\"Chandra\":{\"rasi_saayana\":{\"rasi_deg\":20.36272927467237,\"rasi_deg_dms\":\"20&deg21'46\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"rasi_niryana\":{\"rasi_deg\":26.876117711382747,\"rasi_deg_dms\":\"26&deg52'34\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"ras\":{\"val\":5,\"name\":\"Kanya\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":200.36272927467238,\"deg\":200.36272927467238},\"nak\":{\"val\":13,\"name\":\"Chitra\"},\"id\":7,\"pos_nirayana\":{\"deg_dms\":176.87611771138273,\"deg\":176.87611771138273}},\"kunda_lagnam\":{\"val\":204.91683554781775,\"val_dms\":\"204&deg55'1\\\"\"},\"dob_ymd\":\"1973-7-8\",\"noonA\":{\"val\":12.505416666666665,\"val_hms\":\"12:30:19 PM\"},\"basic_detail\":1,\"Sapthamsa\":{\"11\":[\"Maan\"],\"12\":[\"Budh\",\"Rahu\"],\"1\":[\"Sukr\",\"Plut\"],\"2\":[],\"3\":[\"Sani\"],\"4\":[\"Nept\"],\"5\":[\"Uran\"],\"6\":[\"Chan\",\"Ketu\"],\"7\":[\"Guru\"],\"8\":[\"Ravi\"],\"9\":[],\"10\":[\"Lagn\",\"Kuja\"]},\"Navamsa\":{\"11\":[\"Ketu\"],\"12\":[\"Plut\"],\"1\":[\"Ravi\"],\"2\":[\"Guru\"],\"3\":[],\"4\":[],\"5\":[\"Rahu\",\"Uran\"],\"6\":[\"Budh\",\"Chan\"],\"7\":[\"Nept\"],\"8\":[\"Sukr\",\"Sani\"],\"9\":[\"Lagn\",\"Kuja\"],\"10\":[\"Maan\"]},\"timeZoneGMT\":5.5,\"devata\":{\"val\":13,\"name\":\"Twashtav\"},\"dob\":\"8-Jul-1973\",\"sun_setA\":{\"val\":19.281388888888888,\"val_hms\":\"7:16:53 PM\"},\"name\":\"Vijay Shekhar Sharma\",\"dina_maanamA\":{\"val\":13.551944444444443,\"val_hms\":\"1:33:07 PM\"},\"Rahu\":{\"rasi_saayana\":{\"rasi_deg\":7.301697765548276,\"rasi_deg_dms\":\"7&deg18'6\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"rasi_niryana\":{\"rasi_deg\":13.815086202258655,\"rasi_deg_dms\":\"13&deg48'54\\\"\",\"rasi_name\":\"Dhanus\",\"rasi_id\":8},\"ras\":{\"val\":8,\"name\":\"Dhanus\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":277.3016977655483,\"deg\":277.3016977655483},\"nak\":{\"val\":19,\"name\":\"Pooraadam\"},\"id\":8,\"pos_nirayana\":{\"deg_dms\":253.81508620225864,\"deg\":253.81508620225864}},\"ayanamsa\":{\"val\":23.486611563289635,\"val_dms\":\"23&deg29'12\\\"\"},\"karanam\":{\"val\":15,\"name\":\"Vishti\",\"id\":10},\"Dasamsa\":{\"11\":[\"Guru\"],\"12\":[],\"1\":[\"Kuja\",\"Rahu\"],\"2\":[\"Lagn\"],\"3\":[\"Budh\",\"Maan\"],\"4\":[\"Sani\",\"Plut\"],\"5\":[\"Sukr\"],\"6\":[],\"7\":[\"Ketu\",\"Nept\"],\"8\":[],\"9\":[],\"10\":[\"Ravi\",\"Chan\",\"Uran\"]},\"Rasi\":{\"11\":[],\"12\":[\"Lagn\",\"Kuja\",\"Maan\"],\"1\":[],\"2\":[],\"3\":[\"Ravi\",\"Sani\",\"Ketu\"],\"4\":[\"Budh\",\"Sukr\"],\"5\":[],\"6\":[\"Chan\",\"Uran\",\"Plut\"],\"7\":[],\"8\":[\"Nept\"],\"9\":[\"Rahu\"],\"10\":[\"Guru\"]},\"tob\":0,\"latitude\":{\"ns\":\"N\",\"deg\":25.966666666666665,\"dms\":\"25&deg58'0\\\"\"},\"yoga\":{\"val\":19.42,\"name\":\"Siva\"},\"abhijitA\":{\"fr_val2\":12.522083333333333,\"to_val1_hms\":\"12:29:19 PM\",\"fr_val1\":12.105416666666665,\"fr_val1_hms\":\"12:06:19 PM\",\"to_val1\":12.488749999999998,\"to_val2_hms\":\"12:54:19 PM\",\"fr_val2_hms\":\"12:31:19 PM\",\"to_val2\":12.905416666666666},\"Uranus\":{\"rasi_saayana\":{\"rasi_deg\":18.948838105390333,\"rasi_deg_dms\":\"18&deg56'56\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"rasi_niryana\":{\"rasi_deg\":25.462226542100687,\"rasi_deg_dms\":\"25&deg27'44\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"ras\":{\"val\":5,\"name\":\"Kanya\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":198.94883810539034,\"deg\":198.94883810539034},\"nak\":{\"val\":13,\"name\":\"Chitra\"},\"id\":10,\"pos_nirayana\":{\"deg_dms\":175.4622265421007,\"deg\":175.4622265421007}},\"ashtaka_varga\":{\"Chandra\":{\"11\":2,\"1\":6,\"12\":3,\"2\":4,\"3\":1,\"4\":4,\"5\":5,\"6\":3,\"7\":4,\"8\":7,\"9\":4,\"10\":6},\"Guru   \":{\"11\":2,\"1\":6,\"12\":7,\"2\":4,\"3\":3,\"4\":5,\"5\":6,\"6\":3,\"7\":5,\"8\":5,\"9\":5,\"10\":5},\"total\":{\"11\":21,\"1\":33,\"12\":30,\"2\":29,\"3\":28,\"4\":24,\"5\":25,\"6\":24,\"7\":24,\"8\":34,\"9\":35,\"10\":30},\"Kuja   \":{\"11\":3,\"1\":3,\"12\":4,\"2\":3,\"3\":4,\"4\":1,\"5\":2,\"6\":3,\"7\":3,\"8\":4,\"9\":6,\"10\":3},\"Soorya \":{\"11\":4,\"1\":4,\"12\":4,\"2\":3,\"3\":8,\"4\":3,\"5\":1,\"6\":5,\"7\":1,\"8\":4,\"9\":6,\"10\":5},\"Sukra  \":{\"11\":3,\"1\":5,\"12\":4,\"2\":7,\"3\":1,\"4\":4,\"5\":5,\"6\":5,\"7\":5,\"8\":6,\"9\":2,\"10\":5},\"Budha  \":{\"11\":4,\"1\":6,\"12\":5,\"2\":3,\"3\":6,\"4\":4,\"5\":3,\"6\":4,\"7\":5,\"8\":5,\"9\":6,\"10\":3},\"Sani   \":{\"11\":3,\"1\":3,\"12\":3,\"2\":5,\"3\":5,\"4\":3,\"5\":3,\"6\":1,\"7\":1,\"8\":3,\"9\":6,\"10\":3}},\"sun_riseA\":{\"val\":5.729444444444445,\"val_hms\":\"5:43:46 AM\"},\"dow\":0,\"Maandi\":{\"rasi_saayana\":{\"rasi_deg\":15.917023439113276,\"rasi_deg_dms\":\"15&deg55'1\\\"\",\"rasi_name\":\"Mesha\",\"rasi_id\":0},\"rasi_niryana\":{\"rasi_deg\":22.430411875823655,\"rasi_deg_dms\":\"22&deg25'49\\\"\",\"rasi_name\":\"Meena\",\"rasi_id\":11},\"ras\":{\"val\":11,\"name\":\"Meena\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":15.91702343911328,\"deg\":15.91702343911328},\"nak\":{\"val\":26,\"name\":\"Revati\"},\"id\":13,\"pos_nirayana\":{\"deg_dms\":352.43041187582367,\"deg\":352.43041187582367}},\"Sukra\":{\"rasi_saayana\":{\"rasi_deg\":9.011371012094394,\"rasi_deg_dms\":\"9&deg0'41\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":15.524759448804758,\"rasi_deg_dms\":\"15&deg31'29\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":129.0113710120944,\"deg\":129.0113710120944},\"nak\":{\"val\":7,\"name\":\"Pooyam\"},\"id\":3,\"pos_nirayana\":{\"deg_dms\":105.52475944880476,\"deg\":105.52475944880476}},\"bhootam\":{\"val\":2,\"name\":\"Agni\"},\"Budha\":{\"rasi_saayana\":{\"rasi_deg\":3.3018121703035863,\"rasi_deg_dms\":\"3&deg18'7\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":9.815200607013939,\"rasi_deg_dms\":\"9&deg48'55\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":123.30181217030358,\"deg\":123.30181217030358},\"nak\":{\"val\":7,\"name\":\"Pooyam\"},\"id\":2,\"pos_nirayana\":{\"deg_dms\":99.81520060701394,\"deg\":99.81520060701394}},\"noon\":{\"val\":12.504966182007685,\"val_hms\":\"12:30:18 PM\"},\"bhava\":[{\"mid\":{\"val\":349.19650414256563,\"val_dms\":\"349&deg11'47\\\"\"},\"id\":1,\"grahas\":[{\"name\":\"Kuja\",\"id\":4},{\"name\":\"Maandi\",\"id\":13}],\"begin\":{\"val\":333.49418413697936,\"val_dms\":\"333&deg29'39\\\"\"}},{\"mid\":{\"val\":17.79186413139297,\"val_dms\":\"17&deg47'31\\\"\"},\"id\":2,\"grahas\":[],\"begin\":{\"val\":3.4941841369792996,\"val_dms\":\"3&deg29'39\\\"\"}},{\"mid\":{\"val\":46.38722412022037,\"val_dms\":\"46&deg23'14\\\"\"},\"id\":3,\"grahas\":[],\"begin\":{\"val\":32.08954412580667,\"val_dms\":\"32&deg5'22\\\"\"}},{\"mid\":{\"val\":74.9825841090477,\"val_dms\":\"74&deg58'57\\\"\"},\"id\":4,\"grahas\":[{\"name\":\"Soorya\",\"id\":1},{\"name\":\"Sani\",\"id\":6},{\"name\":\"Ketu\",\"id\":9}],\"begin\":{\"val\":60.68490411463404,\"val_dms\":\"60&deg41'6\\\"\"}},{\"mid\":{\"val\":106.38722412022037,\"val_dms\":\"106&deg23'14\\\"\"},\"id\":5,\"grahas\":[{\"name\":\"Budha\",\"id\":2},{\"name\":\"Sukra\",\"id\":3}],\"begin\":{\"val\":90.68490411463404,\"val_dms\":\"90&deg41'6\\\"\"}},{\"mid\":{\"val\":137.79186413139297,\"val_dms\":\"137&deg47'31\\\"\"},\"id\":6,\"grahas\":[],\"begin\":{\"val\":122.08954412580667,\"val_dms\":\"122&deg5'22\\\"\"}},{\"mid\":{\"val\":169.19650414256557,\"val_dms\":\"169&deg11'47\\\"\"},\"id\":7,\"grahas\":[{\"name\":\"Chandra\",\"id\":7},{\"name\":\"Uranus\",\"id\":10},{\"name\":\"Pluto\",\"id\":12}],\"begin\":{\"val\":153.49418413697927,\"val_dms\":\"153&deg29'39\\\"\"}},{\"mid\":{\"val\":197.7918641313929,\"val_dms\":\"197&deg47'31\\\"\"},\"id\":8,\"grahas\":[],\"begin\":{\"val\":183.49418413697924,\"val_dms\":\"183&deg29'39\\\"\"}},{\"mid\":{\"val\":226.38722412022025,\"val_dms\":\"226&deg23'14\\\"\"},\"id\":9,\"grahas\":[{\"name\":\"Neptune\",\"id\":11}],\"begin\":{\"val\":212.08954412580658,\"val_dms\":\"212&deg5'22\\\"\"}},{\"mid\":{\"val\":254.98258410904774,\"val_dms\":\"254&deg58'57\\\"\"},\"id\":10,\"grahas\":[{\"name\":\"Rahu\",\"id\":8}],\"begin\":{\"val\":240.68490411463398,\"val_dms\":\"240&deg41'6\\\"\"}},{\"mid\":{\"val\":286.38722412022037,\"val_dms\":\"286&deg23'14\\\"\"},\"id\":11,\"grahas\":[{\"name\":\"Guru\",\"id\":5}],\"begin\":{\"val\":270.68490411463404,\"val_dms\":\"270&deg41'6\\\"\"}},{\"mid\":{\"val\":317.791864131393,\"val_dms\":\"317&deg47'31\\\"\"},\"id\":12,\"grahas\":[],\"begin\":{\"val\":302.0895441258067,\"val_dms\":\"302&deg5'22\\\"\"}}],\"kunda_lagn_diff\":{\"val\":-0.346181701684383,\"val_dms\":\"-0&deg20'46\\\"\"},\"Soorya\":{\"rasi_saayana\":{\"rasi_deg\":15.480950654705502,\"rasi_deg_dms\":\"15&deg28'51\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"rasi_niryana\":{\"rasi_deg\":21.994339091415867,\"rasi_deg_dms\":\"21&deg59'40\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"ras\":{\"val\":2,\"name\":\"Mithuna\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":105.48095065470551,\"deg\":105.48095065470551},\"nak\":{\"val\":6,\"name\":\"Punartam\"},\"id\":1,\"pos_nirayana\":{\"deg_dms\":81.99433909141587,\"deg\":81.99433909141587}},\"Ketu\":{\"rasi_saayana\":{\"rasi_deg\":7.301697765548316,\"rasi_deg_dms\":\"7&deg18'6\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"rasi_niryana\":{\"rasi_deg\":13.81508620225867,\"rasi_deg_dms\":\"13&deg48'54\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"ras\":{\"val\":2,\"name\":\"Mithuna\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":97.30169776554831,\"deg\":97.30169776554831},\"nak\":{\"val\":5,\"name\":\"Tiruvatira\"},\"id\":9,\"pos_nirayana\":{\"deg_dms\":73.81508620225867,\"deg\":73.81508620225867}},\"ganam\":{\"val\":13,\"name\":\"Aasura\",\"id\":2},\"sun_rise\":{\"val\":5.6604677532510665,\"val_hms\":\"5:39:38 AM\"},\"Dwadasamsa\":{\"11\":[\"Ravi\"],\"12\":[\"Nept\"],\"1\":[],\"2\":[\"Rahu\"],\"3\":[],\"4\":[\"Guru\",\"Sani\",\"Chan\",\"Uran\"],\"5\":[],\"6\":[\"Kuja\"],\"7\":[\"Lagn\",\"Budh\"],\"8\":[\"Ketu\",\"Maan\"],\"9\":[\"Plut\"],\"10\":[\"Sukr\"]},\"day_of_week\":\"Sunday\",\"sapta_varga\":[{\"arr_hdg\":[\"graham\",\"x1\",\"x3\",\"x7\",\"x9\",\"Div10\",\"x12\",\"x16\",\"x30\",\"x60\",\"81\"]},{\"vargas\":\"[12, 4, 10, 9, 2, 7, 7, 2, 2, 7]\",\"graha\":\"Lagna\"},{\"vargas\":\"[3, 11, 8, 1, 10, 11, 8, 10, 10, 6]\",\"graha\":\"Soorya\"},{\"vargas\":\"[4, 4, 12, 6, 3, 7, 6, 4, 11, 6]\",\"graha\":\"Budha\"},{\"vargas\":\"[4, 8, 1, 8, 5, 10, 9, 10, 11, 9]\",\"graha\":\"Sukra\"},{\"vargas\":\"[12, 4, 10, 9, 1, 6, 6, 12, 10, 2]\",\"graha\":\"Kuja\"},{\"vargas\":\"[10, 2, 7, 2, 11, 4, 9, 11, 7, 6]\",\"graha\":\"Guru\"},{\"vargas\":\"[3, 3, 3, 8, 4, 4, 10, 4, 10, 4]\",\"graha\":\"Sani\"},{\"vargas\":\"[6, 2, 6, 6, 10, 4, 11, 9, 11, 10]\",\"graha\":\"Chandra\"},{\"vargas\":\"[9, 1, 12, 5, 1, 2, 4, 2, 12, 2]\",\"graha\":\"Rahu\"},{\"vargas\":\"[3, 7, 6, 11, 7, 8, 4, 2, 6, 8]\",\"graha\":\"Ketu\"},{\"vargas\":\"[6, 2, 5, 5, 10, 4, 10, 8, 8, 6]\",\"graha\":\"Uranus\"},{\"vargas\":\"[8, 12, 4, 7, 7, 12, 11, 6, 7, 11]\",\"graha\":\"Neptune\"},{\"vargas\":\"[6, 6, 1, 12, 4, 9, 1, 3, 10, 8]\",\"graha\":\"Pluto\"},{\"vargas\":\"[12, 8, 11, 10, 3, 8, 8, 5, 8, 4]\",\"graha\":\"Maandi\"}],\"Kuja\":{\"rasi_saayana\":{\"rasi_deg\":10.753817167371711,\"rasi_deg_dms\":\"10&deg45'14\\\"\",\"rasi_name\":\"Mesha\",\"rasi_id\":0},\"rasi_niryana\":{\"rasi_deg\":17.26720560408209,\"rasi_deg_dms\":\"17&deg16'2\\\"\",\"rasi_name\":\"Meena\",\"rasi_id\":11},\"ras\":{\"val\":11,\"name\":\"Meena\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":10.753817167371722,\"deg\":10.753817167371722},\"nak\":{\"val\":26,\"name\":\"Revati\"},\"id\":4,\"pos_nirayana\":{\"deg_dms\":347.2672056040821,\"deg\":347.2672056040821}},\"hindu_day\":{\"val\":6,\"day\":\"Saturday\"},\"obliquity\":{\"val\":23.44326931060497,\"val_dms\":\"23&deg26'36\\\"\"},\"sex\":\"M\",\"yoni\":{\"val\":13,\"name\":\"Stree\",\"id\":0},\"place_of_birth\":\"Aligarh\",\"pakshi\":{\"val\":2,\"name\":\"Kaakka\"},\"Guru\":{\"rasi_saayana\":{\"rasi_deg\":9.988733572816457,\"rasi_deg_dms\":\"9&deg59'19\\\"\",\"rasi_name\":\"Kumbha\",\"rasi_id\":10},\"rasi_niryana\":{\"rasi_deg\":16.502122009526836,\"rasi_deg_dms\":\"16&deg30'8\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"ras\":{\"val\":9,\"name\":\"Makara\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":309.98873357281644,\"deg\":309.98873357281644},\"nak\":{\"val\":21,\"name\":\"Tiruvonam\"},\"id\":5,\"pos_nirayana\":{\"deg_dms\":286.50212200952683,\"deg\":286.50212200952683}},\"tithi\":{\"val\":7.91,\"name\":\"Ashtami\"},\"dina_maanam\":{\"val\":13.688996857513239,\"val_hms\":\"1:41:20 PM\"},\"Lagna\":{\"rasi_saayana\":{\"rasi_deg\":12.683115705855226,\"rasi_deg_dms\":\"12&deg40'59\\\"\",\"rasi_name\":\"Mesha\",\"rasi_id\":0},\"rasi_niryana\":{\"rasi_deg\":19.196504142565605,\"rasi_deg_dms\":\"19&deg11'47\\\"\",\"rasi_name\":\"Meena\",\"rasi_id\":11},\"ras\":{\"val\":11,\"name\":\"Meena\"},\"pos_saayana\":{\"deg_dms\":12.683115705855244,\"deg\":12.683115705855244},\"nak\":{\"val\":26,\"name\":\"Revati\"},\"id\":0,\"pos_nirayana\":{\"deg_dms\":349.19650414256563,\"deg\":349.19650414256563}}}","{\"Shodasamsa\":{\"11\":[],\"12\":[\"Sani\",\"Plut\"],\"1\":[\"Kuja\",\"Rahu\",\"Ketu\"],\"2\":[],\"3\":[\"Ravi\"],\"4\":[\"Sukr\"],\"5\":[\"Uran\"],\"6\":[],\"7\":[\"Budh\"],\"8\":[],\"9\":[\"Chan\",\"Maan\"],\"10\":[\"Lagn\",\"Guru\",\"Nept\"]},\"time_of_birth\":\"0:00:00 AM\",\"paksham\":{\"val\":1,\"name\":\"Shukla\"},\"ayana_opts\":{\"name\":\"N.C.Lahiri\",\"id\":0},\"paapas_count\":{\"Sukra\":{\"Kuja\":0,\"total\":2,\"Soorya\":1,\"Ketu\":1,\"Rahu\":1,\"grand_total\":3,\"Sani\":0},\"Lagna\":{\"Kuja\":0,\"total\":0,\"Soorya\":0,\"Ketu\":0,\"Rahu\":1,\"grand_total\":2,\"Sani\":1},\"Chandra\":{\"Kuja\":0,\"total\":2,\"Soorya\":1,\"Ketu\":1,\"Rahu\":1,\"grand_total\":4,\"Sani\":1}},\"siderial_time\":{\"val\":7.416476691672164,\"val_hms\":\"7:24:59 AM\"},\"vriksham\":{\"val\":21,\"name\":\"Erukku\"},\"Sani\":{\"rasi_saayana\":{\"rasi_deg\":21.558365428959743,\"rasi_deg_dms\":\"21&deg33'30\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"rasi_niryana\":{\"rasi_deg\":28.245866464407516,\"rasi_deg_dms\":\"28&deg14'45\\\"\",\"rasi_name\":\"Dhanus\",\"rasi_id\":8},\"ras\":{\"val\":8,\"name\":\"Dhanus\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":291.55836542895975,\"deg\":291.55836542895975},\"nak\":{\"val\":20,\"name\":\"Utraadam\"},\"id\":6,\"pos_nirayana\":{\"deg_dms\":268.2458664644075,\"deg\":268.2458664644075}},\"Pluto\":{\"rasi_saayana\":{\"rasi_deg\":7.7310228626852595,\"rasi_deg_dms\":\"7&deg43'52\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"rasi_niryana\":{\"rasi_deg\":14.418523898133033,\"rasi_deg_dms\":\"14&deg25'7\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"ras\":{\"val\":4,\"name\":\"Simha\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":157.73102286268525,\"deg\":157.73102286268525},\"nak\":{\"val\":10,\"name\":\"Pooram\"},\"id\":12,\"pos_nirayana\":{\"deg_dms\":134.41852389813303,\"deg\":134.41852389813303}},\"abhijit\":{\"fr_val2\":12.572514973112026,\"to_val1_hms\":\"12:32:21 PM\",\"fr_val1\":12.155848306445359,\"fr_val1_hms\":\"12:09:21 PM\",\"to_val1\":12.539181639778691,\"to_val2_hms\":\"12:57:21 PM\",\"fr_val2_hms\":\"12:34:21 PM\",\"to_val2\":12.95584830644536},\"Neptune\":{\"rasi_saayana\":{\"rasi_deg\":11.131120734049604,\"rasi_deg_dms\":\"11&deg7'52\\\"\",\"rasi_name\":\"Vriscika\",\"rasi_id\":7},\"rasi_niryana\":{\"rasi_deg\":17.818621769497376,\"rasi_deg_dms\":\"17&deg49'7\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"ras\":{\"val\":6,\"name\":\"Tula\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":221.1311207340496,\"deg\":221.1311207340496},\"nak\":{\"val\":14,\"name\":\"Choti\"},\"id\":11,\"pos_nirayana\":{\"deg_dms\":197.81862176949738,\"deg\":197.81862176949738}},\"nakshatra\":{\"val\":21.49,\"name\":\"Tiruvonam\",\"paada\":2},\"Kundaamsa\":{\"11\":[\"Ketu\"],\"12\":[],\"1\":[],\"2\":[\"Sukr\"],\"3\":[\"Plut\"],\"4\":[\"Uran\"],\"5\":[\"Lagn\",\"Budh\",\"Sani\",\"Rahu\"],\"6\":[\"Chan\"],\"7\":[\"Kuja\",\"Guru\",\"Nept\"],\"8\":[],\"9\":[\"Ravi\",\"Maan\"],\"10\":[]},\"mrigam\":{\"val\":21,\"name\":\"Vaanaram\"},\"Drekkana\":{\"11\":[\"Nept\"],\"12\":[],\"1\":[],\"2\":[\"Lagn\",\"Budh\",\"Chan\"],\"3\":[\"Kuja\",\"Ketu\"],\"4\":[],\"5\":[\"Guru\",\"Sani\",\"Uran\"],\"6\":[],\"7\":[\"Sukr\"],\"8\":[\"Maan\"],\"9\":[\"Rahu\",\"Plut\"],\"10\":[\"Ravi\"]},\"vimsottari_dasa\":{\"Chandra\":{\"Ketu\":{\"Budha\":{\"uptoAge\":\"2 Yrs 10 mths 25 days\",\"uptoDate_ymd\":\"1963-12-09\",\"uptoDate\":\"09-Dec-1963\"}},\"Sukra\":{\"Ketu\":{\"uptoAge\":\"4 Yrs 6 mths 24 days\",\"uptoDate_ymd\":\"1965-8-09\",\"uptoDate\":\"09-Aug-1965\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"2 Yrs 3 mths 21 days\",\"uptoDate_ymd\":\"1963-5-09\",\"uptoDate\":\"09-May-1963\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"5 Yrs 0 mths 23 days\",\"uptoDate_ymd\":\"1966-2-09\",\"uptoDate\":\"09-Feb-1966\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"0 Yrs 10 mths 25 days\",\"uptoDate_ymd\":\"1961-12-09\",\"uptoDate\":\"09-Dec-1961\"}}},\"Kuja\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"11 Yrs 1 mths 17 days\",\"uptoDate_ymd\":\"1972-3-03\",\"uptoDate\":\"03-Mar-1972\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"5 Yrs 5 mths 20 days\",\"uptoDate_ymd\":\"1966-7-06\",\"uptoDate\":\"06-Jul-1966\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"9 Yrs 6 mths 22 days\",\"uptoDate_ymd\":\"1970-8-06\",\"uptoDate\":\"06-Aug-1970\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"12 Yrs 0 mths 25 days\",\"uptoDate_ymd\":\"1973-2-09\",\"uptoDate\":\"09-Feb-1973\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"7 Yrs 5 mths 15 days\",\"uptoDate_ymd\":\"1968-6-30\",\"uptoDate\":\"30-Jun-1968\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"11 Yrs 5 mths 25 days\",\"uptoDate_ymd\":\"1972-7-09\",\"uptoDate\":\"09-Jul-1972\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"9 Yrs 11 mths 22 days\",\"uptoDate_ymd\":\"1971-1-03\",\"uptoDate\":\"03-Jan-1971\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"6 Yrs 6 mths 8 days\",\"uptoDate_ymd\":\"1967-7-24\",\"uptoDate\":\"24-Jul-1967\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"8 Yrs 6 mths 25 days\",\"uptoDate_ymd\":\"1969-8-09\",\"uptoDate\":\"09-Aug-1969\"}}},\"Rahu\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"26 Yrs 7 mths 17 days\",\"uptoDate_ymd\":\"1987-8-27\",\"uptoDate\":\"27-Aug-1987\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"22 Yrs 6 mths 28 days\",\"uptoDate_ymd\":\"1983-8-09\",\"uptoDate\":\"09-Aug-1983\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"29 Yrs 0 mths 10 days\",\"uptoDate_ymd\":\"1990-1-21\",\"uptoDate\":\"21-Jan-1990\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"30 Yrs 0 mths 29 days\",\"uptoDate_ymd\":\"1991-2-09\",\"uptoDate\":\"09-Feb-1991\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"17 Yrs 2 mths 0 days\",\"uptoDate_ymd\":\"1978-3-15\",\"uptoDate\":\"15-Mar-1978\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"27 Yrs 6 mths 11 days\",\"uptoDate_ymd\":\"1988-7-21\",\"uptoDate\":\"21-Jul-1988\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"23 Yrs 7 mths 17 days\",\"uptoDate_ymd\":\"1984-8-27\",\"uptoDate\":\"27-Aug-1984\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"14 Yrs 9 mths 9 days\",\"uptoDate_ymd\":\"1975-10-21\",\"uptoDate\":\"21-Oct-1975\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"20 Yrs 0 mths 8 days\",\"uptoDate_ymd\":\"1981-1-21\",\"uptoDate\":\"21-Jan-1981\"}}},\"Budha\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"71 Yrs 4 mths 3 days\",\"uptoDate_ymd\":\"2032-5-03\",\"uptoDate\":\"03-May-2032\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"67 Yrs 6 mths 6 days\",\"uptoDate_ymd\":\"2028-7-06\",\"uptoDate\":\"06-Jul-2028\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"73 Yrs 7 mths 11 days\",\"uptoDate_ymd\":\"2034-8-09\",\"uptoDate\":\"09-Aug-2034\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"74 Yrs 7 mths 8 days\",\"uptoDate_ymd\":\"2035-8-06\",\"uptoDate\":\"06-Aug-2035\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"79 Yrs 5 mths 2 days\",\"uptoDate_ymd\":\"2040-5-30\",\"uptoDate\":\"30-May-2040\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"72 Yrs 2 mths 8 days\",\"uptoDate_ymd\":\"2033-3-09\",\"uptoDate\":\"09-Mar-2033\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"68 Yrs 6 mths 3 days\",\"uptoDate_ymd\":\"2029-7-03\",\"uptoDate\":\"03-Jul-2029\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"77 Yrs 1 mths 26 days\",\"uptoDate_ymd\":\"2038-2-24\",\"uptoDate\":\"24-Feb-2038\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"82 Yrs 1 mths 12 days\",\"uptoDate_ymd\":\"2043-2-09\",\"uptoDate\":\"09-Feb-2043\"}}},\"Guru\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"40 Yrs 7 mths 15 days\",\"uptoDate_ymd\":\"2001-8-21\",\"uptoDate\":\"21-Aug-2001\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"37 Yrs 0 mths 6 days\",\"uptoDate_ymd\":\"1998-1-15\",\"uptoDate\":\"15-Jan-1998\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"42 Yrs 9 mths 4 days\",\"uptoDate_ymd\":\"2003-10-09\",\"uptoDate\":\"09-Oct-2003\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"43 Yrs 8 mths 11 days\",\"uptoDate_ymd\":\"2004-9-15\",\"uptoDate\":\"15-Sep-2004\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"32 Yrs 2 mths 16 days\",\"uptoDate_ymd\":\"1993-3-27\",\"uptoDate\":\"27-Mar-1993\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"41 Yrs 5 mths 2 days\",\"uptoDate_ymd\":\"2002-6-09\",\"uptoDate\":\"09-Jun-2002\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"37 Yrs 11 mths 16 days\",\"uptoDate_ymd\":\"1998-12-21\",\"uptoDate\":\"21-Dec-1998\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"46 Yrs 1 mths 3 days\",\"uptoDate_ymd\":\"2007-2-09\",\"uptoDate\":\"09-Feb-2007\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"34 Yrs 9 mths 2 days\",\"uptoDate_ymd\":\"1995-10-09\",\"uptoDate\":\"09-Oct-1995\"}}},\"Sani\":{\"Sukra\":{\"Ketu\":{\"uptoAge\":\"56 Yrs 0 mths 26 days\",\"uptoDate_ymd\":\"2017-1-30\",\"uptoDate\":\"30-Jan-2017\"}},\"Budha\":{\"Sani\":{\"uptoAge\":\"51 Yrs 9 mths 19 days\",\"uptoDate_ymd\":\"2012-10-21\",\"uptoDate\":\"21-Oct-2012\"}},\"Chandra\":{\"Soorya\":{\"uptoAge\":\"58 Yrs 7 mths 10 days\",\"uptoDate_ymd\":\"2019-8-12\",\"uptoDate\":\"12-Aug-2019\"}},\"Kuja\":{\"Chandra\":{\"uptoAge\":\"59 Yrs 8 mths 21 days\",\"uptoDate_ymd\":\"2020-9-21\",\"uptoDate\":\"21-Sep-2020\"}},\"Guru\":{\"Rahu\":{\"uptoAge\":\"65 Yrs 1 mths 8 days\",\"uptoDate_ymd\":\"2026-2-09\",\"uptoDate\":\"09-Feb-2026\"}},\"Soorya\":{\"Sukra\":{\"uptoAge\":\"57 Yrs 0 mths 8 days\",\"uptoDate_ymd\":\"2018-1-12\",\"uptoDate\":\"12-Jan-2018\"}},\"Ketu\":{\"Budha\":{\"uptoAge\":\"52 Yrs 10 mths 29 days\",\"uptoDate_ymd\":\"2013-11-30\",\"uptoDate\":\"30-Nov-2013\"}},\"Rahu\":{\"Kuja\":{\"uptoAge\":\"62 Yrs 6 mths 25 days\",\"uptoDate_ymd\":\"2023-7-27\",\"uptoDate\":\"27-Jul-2023\"}},\"Sani\":{\"Guru\":{\"uptoAge\":\"49 Yrs 1 mths 7 days\",\"uptoDate_ymd\":\"2010-2-12\",\"uptoDate\":\"12-Feb-2010\"}}}},\"raasi\":{\"val\":\"9S 16&deg35'20\\\"\",\"name\":\"Makara\"},\"longitude\":{\"ew\":\"E\",\"deg\":30.316666666666666,\"dms\":\"30&deg19'0\\\"\"},\"actual_lagnam\":{\"val\":176.87146938604684,\"val_dms\":\"176&deg52'17\\\"\"},\"sun_set\":{\"val\":17.7826626610491,\"val_hms\":\"5:46:58 PM\"},\"Chandra\":{\"rasi_saayana\":{\"rasi_deg\":9.901519234346328,\"rasi_deg_dms\":\"9&deg54'5\\\"\",\"rasi_name\":\"Kumbha\",\"rasi_id\":10},\"rasi_niryana\":{\"rasi_deg\":16.5890202697941,\"rasi_deg_dms\":\"16&deg35'20\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"ras\":{\"val\":9,\"name\":\"Makara\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":309.9015192343463,\"deg\":309.9015192343463},\"nak\":{\"val\":21,\"name\":\"Tiruvonam\"},\"id\":7,\"pos_nirayana\":{\"deg_dms\":286.5890202697941,\"deg\":286.5890202697941}},\"kunda_lagnam\":{\"val\":144.22386101321536,\"val_dms\":\"144&deg13'26\\\"\"},\"dob_ymd\":\"1961-1-18\",\"noonA\":{\"val\":12.555555555555555,\"val_hms\":\"12:33:20 PM\"},\"basic_detail\":1,\"Sapthamsa\":{\"11\":[\"Nept\"],\"12\":[],\"1\":[\"Maan\"],\"2\":[\"Guru\",\"Ketu\"],\"3\":[\"Sukr\",\"Sani\"],\"4\":[\"Ravi\"],\"5\":[\"Lagn\",\"Kuja\",\"Uran\"],\"6\":[\"Budh\"],\"7\":[\"Chan\"],\"8\":[\"Rahu\",\"Plut\"],\"9\":[],\"10\":[]},\"Navamsa\":{\"11\":[\"Ravi\",\"Ketu\"],\"12\":[\"Nept\"],\"1\":[\"Budh\",\"Sukr\",\"Uran\"],\"2\":[\"Chan\"],\"3\":[],\"4\":[],\"5\":[\"Lagn\",\"Rahu\",\"Plut\"],\"6\":[],\"7\":[],\"8\":[\"Guru\",\"Maan\"],\"9\":[\"Kuja\",\"Sani\"],\"10\":[]},\"timeZoneGMT\":5.5,\"devata\":{\"val\":21,\"name\":\"Vishnu\"},\"dob\":\"18-Jan-1961\",\"sun_setA\":{\"val\":17.711666666666666,\"val_hms\":\"5:42:42 PM\"},\"name\":\"Jay Mehta\",\"dina_maanamA\":{\"val\":10.312222222222221,\"val_hms\":\"10:18:44 AM\"},\"Rahu\":{\"rasi_saayana\":{\"rasi_deg\":8.45382644812517,\"rasi_deg_dms\":\"8&deg27'14\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"rasi_niryana\":{\"rasi_deg\":15.141327483572944,\"rasi_deg_dms\":\"15&deg8'29\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"ras\":{\"val\":4,\"name\":\"Simha\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":158.45382644812517,\"deg\":158.45382644812517},\"nak\":{\"val\":10,\"name\":\"Pooram\"},\"id\":8,\"pos_nirayana\":{\"deg_dms\":135.14132748357295,\"deg\":135.14132748357295}},\"ayanamsa\":{\"val\":23.312498964552216,\"val_dms\":\"23&deg18'45\\\"\"},\"karanam\":{\"val\":2,\"name\":\"Simham\",\"id\":4},\"Dasamsa\":{\"11\":[\"Chan\"],\"12\":[\"Nept\"],\"1\":[],\"2\":[],\"3\":[],\"4\":[\"Ketu\"],\"5\":[\"Sukr\",\"Guru\",\"Uran\",\"Maan\"],\"6\":[\"Kuja\",\"Sani\"],\"7\":[\"Ravi\"],\"8\":[],\"9\":[\"Budh\",\"Plut\"],\"10\":[\"Lagn\",\"Rahu\"]},\"Rasi\":{\"11\":[\"Sukr\",\"Ketu\"],\"12\":[],\"1\":[],\"2\":[],\"3\":[\"Kuja\"],\"4\":[\"Maan\"],\"5\":[\"Rahu\",\"Uran\",\"Plut\"],\"6\":[\"Lagn\"],\"7\":[\"Nept\"],\"8\":[],\"9\":[\"Guru\",\"Sani\"],\"10\":[\"Ravi\",\"Budh\",\"Chan\"]},\"tob\":0,\"latitude\":{\"ns\":\"N\",\"deg\":30.316666666666666,\"dms\":\"30&deg19'0\\\"\"},\"yoga\":{\"val\":15.05,\"name\":\"Siddhi\"},\"abhijitA\":{\"fr_val2\":12.572222222222223,\"to_val1_hms\":\"12:32:20 PM\",\"fr_val1\":12.155555555555555,\"fr_val1_hms\":\"12:09:20 PM\",\"to_val1\":12.538888888888888,\"to_val2_hms\":\"12:57:20 PM\",\"fr_val2_hms\":\"12:34:20 PM\",\"to_val2\":12.955555555555556},\"Uranus\":{\"rasi_saayana\":{\"rasi_deg\":24.759373973783738,\"rasi_deg_dms\":\"24&deg45'34\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":1.446875009231512,\"rasi_deg_dms\":\"1&deg26'49\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"ras\":{\"val\":4,\"name\":\"Simha\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":144.75937397378374,\"deg\":144.75937397378374},\"nak\":{\"val\":9,\"name\":\"Makam\"},\"id\":10,\"pos_nirayana\":{\"deg_dms\":121.44687500923152,\"deg\":121.44687500923152}},\"ashtaka_varga\":{\"Chandra\":{\"11\":3,\"1\":4,\"12\":5,\"2\":3,\"3\":5,\"4\":6,\"5\":4,\"6\":1,\"7\":7,\"8\":7,\"9\":2,\"10\":2},\"Guru   \":{\"11\":6,\"1\":4,\"12\":5,\"2\":4,\"3\":5,\"4\":6,\"5\":1,\"6\":6,\"7\":5,\"8\":5,\"9\":4,\"10\":5},\"total\":{\"11\":24,\"1\":26,\"12\":29,\"2\":24,\"3\":33,\"4\":31,\"5\":21,\"6\":30,\"7\":36,\"8\":37,\"9\":26,\"10\":20},\"Kuja   \":{\"11\":1,\"1\":1,\"12\":5,\"2\":3,\"3\":6,\"4\":4,\"5\":1,\"6\":5,\"7\":3,\"8\":5,\"9\":3,\"10\":2},\"Soorya \":{\"11\":3,\"1\":3,\"12\":4,\"2\":2,\"3\":5,\"4\":5,\"5\":5,\"6\":4,\"7\":5,\"8\":4,\"9\":4,\"10\":4},\"Sukra  \":{\"11\":4,\"1\":6,\"12\":4,\"2\":5,\"3\":2,\"4\":3,\"5\":5,\"6\":6,\"7\":5,\"8\":6,\"9\":4,\"10\":2},\"Budha  \":{\"11\":4,\"1\":4,\"12\":4,\"2\":4,\"3\":7,\"4\":4,\"5\":2,\"6\":6,\"7\":6,\"8\":4,\"9\":6,\"10\":3},\"Sani   \":{\"11\":3,\"1\":4,\"12\":2,\"2\":3,\"3\":3,\"4\":3,\"5\":3,\"6\":2,\"7\":5,\"8\":6,\"9\":3,\"10\":2}},\"sun_riseA\":{\"val\":7.399444444444445,\"val_hms\":\"7:23:58 AM\"},\"dow\":3,\"Maandi\":{\"rasi_saayana\":{\"rasi_deg\":8.753861752910872,\"rasi_deg_dms\":\"8&deg45'14\\\"\",\"rasi_name\":\"Simha\",\"rasi_id\":4},\"rasi_niryana\":{\"rasi_deg\":15.441362788358646,\"rasi_deg_dms\":\"15&deg26'29\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"ras\":{\"val\":3,\"name\":\"Karkata\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":128.75386175291086,\"deg\":128.75386175291086},\"nak\":{\"val\":7,\"name\":\"Pooyam\"},\"id\":13,\"pos_nirayana\":{\"deg_dms\":105.44136278835865,\"deg\":105.44136278835865}},\"Sukra\":{\"rasi_saayana\":{\"rasi_deg\":13.994599985205216,\"rasi_deg_dms\":\"13&deg59'41\\\"\",\"rasi_name\":\"Meena\",\"rasi_id\":11},\"rasi_niryana\":{\"rasi_deg\":20.682101020653043,\"rasi_deg_dms\":\"20&deg40'56\\\"\",\"rasi_name\":\"Kumbha\",\"rasi_id\":10},\"ras\":{\"val\":10,\"name\":\"Kumbha\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":343.99459998520524,\"deg\":343.99459998520524},\"nak\":{\"val\":24,\"name\":\"Puroruttati\"},\"id\":3,\"pos_nirayana\":{\"deg_dms\":320.682101020653,\"deg\":320.682101020653}},\"bhootam\":{\"val\":3,\"name\":\"Vayu\"},\"Budha\":{\"rasi_saayana\":{\"rasi_deg\":5.061914145812256,\"rasi_deg_dms\":\"5&deg3'43\\\"\",\"rasi_name\":\"Kumbha\",\"rasi_id\":10},\"rasi_niryana\":{\"rasi_deg\":11.74941518126003,\"rasi_deg_dms\":\"11&deg44'58\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"ras\":{\"val\":9,\"name\":\"Makara\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":305.06191414581224,\"deg\":305.06191414581224},\"nak\":{\"val\":21,\"name\":\"Tiruvonam\"},\"id\":2,\"pos_nirayana\":{\"deg_dms\":281.74941518126,\"deg\":281.74941518126}},\"noon\":{\"val\":12.555848306445359,\"val_hms\":\"12:33:21 PM\"},\"bhava\":[{\"mid\":{\"val\":175.11387482732366,\"val_dms\":\"175&deg6'50\\\"\"},\"id\":1,\"grahas\":[],\"begin\":{\"val\":160.3149848300386,\"val_dms\":\"160&deg18'54\\\"\"}},{\"mid\":{\"val\":205.51609483275357,\"val_dms\":\"205&deg30'58\\\"\"},\"id\":2,\"grahas\":[{\"name\":\"Neptune\",\"id\":11}],\"begin\":{\"val\":190.3149848300386,\"val_dms\":\"190&deg18'54\\\"\"}},{\"mid\":{\"val\":235.9183148381835,\"val_dms\":\"235&deg55'6\\\"\"},\"id\":3,\"grahas\":[],\"begin\":{\"val\":220.71720483546852,\"val_dms\":\"220&deg43'2\\\"\"}},{\"mid\":{\"val\":266.3205348436134,\"val_dms\":\"266&deg19'14\\\"\"},\"id\":4,\"grahas\":[{\"name\":\"Soorya\",\"id\":1},{\"name\":\"Guru\",\"id\":5},{\"name\":\"Sani\",\"id\":6}],\"begin\":{\"val\":251.11942484089846,\"val_dms\":\"251&deg7'10\\\"\"}},{\"mid\":{\"val\":295.9183148381835,\"val_dms\":\"295&deg55'6\\\"\"},\"id\":5,\"grahas\":[{\"name\":\"Budha\",\"id\":2},{\"name\":\"Chandra\",\"id\":7}],\"begin\":{\"val\":281.11942484089843,\"val_dms\":\"281&deg7'10\\\"\"}},{\"mid\":{\"val\":325.5160948327536,\"val_dms\":\"325&deg30'58\\\"\"},\"id\":6,\"grahas\":[{\"name\":\"Sukra\",\"id\":3},{\"name\":\"Ketu\",\"id\":9}],\"begin\":{\"val\":310.7172048354686,\"val_dms\":\"310&deg43'2\\\"\"}},{\"mid\":{\"val\":355.1138748273237,\"val_dms\":\"355&deg6'50\\\"\"},\"id\":7,\"grahas\":[],\"begin\":{\"val\":340.3149848300386,\"val_dms\":\"340&deg18'54\\\"\"}},{\"mid\":{\"val\":25.516094832753595,\"val_dms\":\"25&deg30'58\\\"\"},\"id\":8,\"grahas\":[],\"begin\":{\"val\":10.314984830038611,\"val_dms\":\"10&deg18'54\\\"\"}},{\"mid\":{\"val\":55.918314838183505,\"val_dms\":\"55&deg55'6\\\"\"},\"id\":9,\"grahas\":[{\"name\":\"Kuja\",\"id\":4}],\"begin\":{\"val\":40.71720483546855,\"val_dms\":\"40&deg43'2\\\"\"}},{\"mid\":{\"val\":86.3205348436134,\"val_dms\":\"86&deg19'14\\\"\"},\"id\":10,\"grahas\":[],\"begin\":{\"val\":71.11942484089846,\"val_dms\":\"71&deg7'10\\\"\"}},{\"mid\":{\"val\":115.91831483818348,\"val_dms\":\"115&deg55'6\\\"\"},\"id\":11,\"grahas\":[{\"name\":\"Uranus\",\"id\":10},{\"name\":\"Maandi\",\"id\":13}],\"begin\":{\"val\":101.11942484089843,\"val_dms\":\"101&deg7'10\\\"\"}},{\"mid\":{\"val\":145.51609483275357,\"val_dms\":\"145&deg30'58\\\"\"},\"id\":12,\"grahas\":[{\"name\":\"Rahu\",\"id\":8},{\"name\":\"Pluto\",\"id\":12}],\"begin\":{\"val\":130.71720483546852,\"val_dms\":\"130&deg43'2\\\"\"}}],\"kunda_lagn_diff\":{\"val\":1.7575945587231945,\"val_dms\":\"1&deg45'27\\\"\"},\"Soorya\":{\"rasi_saayana\":{\"rasi_deg\":27.439818359933188,\"rasi_deg_dms\":\"27&deg26'23\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"rasi_niryana\":{\"rasi_deg\":4.127319395381015,\"rasi_deg_dms\":\"4&deg7'38\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"ras\":{\"val\":9,\"name\":\"Makara\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":297.4398183599332,\"deg\":297.4398183599332},\"nak\":{\"val\":20,\"name\":\"Utraadam\"},\"id\":1,\"pos_nirayana\":{\"deg_dms\":274.127319395381,\"deg\":274.127319395381}},\"Ketu\":{\"rasi_saayana\":{\"rasi_deg\":8.453826448125117,\"rasi_deg_dms\":\"8&deg27'14\\\"\",\"rasi_name\":\"Meena\",\"rasi_id\":11},\"rasi_niryana\":{\"rasi_deg\":15.141327483572944,\"rasi_deg_dms\":\"15&deg8'29\\\"\",\"rasi_name\":\"Kumbha\",\"rasi_id\":10},\"ras\":{\"val\":10,\"name\":\"Kumbha\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":338.45382644812514,\"deg\":338.45382644812514},\"nak\":{\"val\":23,\"name\":\"Chatayam\"},\"id\":9,\"pos_nirayana\":{\"deg_dms\":315.1413274835729,\"deg\":315.1413274835729}},\"ganam\":{\"val\":21,\"name\":\"Deva\",\"id\":0},\"sun_rise\":{\"val\":7.329033951841618,\"val_hms\":\"7:19:45 AM\"},\"Dwadasamsa\":{\"11\":[\"Ravi\",\"Rahu\"],\"12\":[],\"1\":[],\"2\":[\"Budh\",\"Nept\"],\"3\":[],\"4\":[\"Lagn\",\"Chan\"],\"5\":[\"Ketu\",\"Uran\"],\"6\":[\"Kuja\",\"Guru\"],\"7\":[\"Sukr\"],\"8\":[\"Sani\"],\"9\":[],\"10\":[\"Plut\",\"Maan\"]},\"day_of_week\":\"Wednesday\",\"sapta_varga\":[{\"arr_hdg\":[\"graham\",\"x1\",\"x3\",\"x7\",\"x9\",\"Div10\",\"x12\",\"x16\",\"x30\",\"x60\",\"81\"]},{\"vargas\":\"[6, 2, 5, 5, 10, 4, 10, 8, 8, 5]\",\"graha\":\"Lagna\"},{\"vargas\":\"[10, 10, 4, 11, 7, 11, 3, 11, 6, 9]\",\"graha\":\"Soorya\"},{\"vargas\":\"[10, 2, 6, 1, 9, 2, 7, 6, 9, 5]\",\"graha\":\"Budha\"},{\"vargas\":\"[11, 7, 3, 1, 5, 7, 4, 9, 4, 2]\",\"graha\":\"Sukra\"},{\"vargas\":\"[3, 3, 5, 9, 6, 6, 1, 10, 9, 7]\",\"graha\":\"Kuja\"},{\"vargas\":\"[9, 5, 2, 8, 5, 6, 10, 1, 10, 7]\",\"graha\":\"Guru\"},{\"vargas\":\"[9, 5, 3, 9, 6, 8, 12, 5, 5, 5]\",\"graha\":\"Sani\"},{\"vargas\":\"[10, 2, 7, 2, 11, 4, 9, 11, 7, 6]\",\"graha\":\"Chandra\"},{\"vargas\":\"[5, 9, 8, 5, 10, 11, 1, 4, 11, 5]\",\"graha\":\"Rahu\"},{\"vargas\":\"[11, 3, 2, 11, 4, 5, 1, 4, 5, 11]\",\"graha\":\"Ketu\"},{\"vargas\":\"[5, 5, 5, 1, 5, 5, 5, 2, 7, 4]\",\"graha\":\"Uranus\"},{\"vargas\":\"[7, 11, 11, 12, 12, 2, 10, 6, 6, 7]\",\"graha\":\"Neptune\"},{\"vargas\":\"[5, 9, 8, 5, 9, 10, 12, 3, 9, 3]\",\"graha\":\"Pluto\"},{\"vargas\":\"[4, 8, 1, 8, 5, 10, 9, 10, 10, 9]\",\"graha\":\"Maandi\"}],\"Kuja\":{\"rasi_saayana\":{\"rasi_deg\":2.4511564768080207,\"rasi_deg_dms\":\"2&deg27'4\\\"\",\"rasi_name\":\"Karkata\",\"rasi_id\":3},\"rasi_niryana\":{\"rasi_deg\":9.138657512255808,\"rasi_deg_dms\":\"9&deg8'19\\\"\",\"rasi_name\":\"Mithuna\",\"rasi_id\":2},\"ras\":{\"val\":2,\"name\":\"Mithuna\"},\"transit\":\"RET\",\"pos_saayana\":{\"deg_dms\":92.45115647680802,\"deg\":92.45115647680802},\"nak\":{\"val\":5,\"name\":\"Tiruvatira\"},\"id\":4,\"pos_nirayana\":{\"deg_dms\":69.1386575122558,\"deg\":69.1386575122558}},\"hindu_day\":{\"val\":2,\"day\":\"Tuesday\"},\"obliquity\":{\"val\":23.440387991774394,\"val_dms\":\"23&deg26'25\\\"\"},\"sex\":\"M\",\"yoni\":{\"val\":21,\"name\":\"Purusha\",\"id\":1},\"place_of_birth\":\"Ambala\",\"pakshi\":{\"val\":3,\"name\":\"Kozhi\"},\"Guru\":{\"rasi_saayana\":{\"rasi_deg\":18.021519598735605,\"rasi_deg_dms\":\"18&deg1'17\\\"\",\"rasi_name\":\"Makara\",\"rasi_id\":9},\"rasi_niryana\":{\"rasi_deg\":24.70902063418338,\"rasi_deg_dms\":\"24&deg42'32\\\"\",\"rasi_name\":\"Dhanus\",\"rasi_id\":8},\"ras\":{\"val\":8,\"name\":\"Dhanus\"},\"transit\":\"DIR\",\"pos_saayana\":{\"deg_dms\":288.0215195987356,\"deg\":288.0215195987356},\"nak\":{\"val\":19,\"name\":\"Pooraadam\"},\"id\":5,\"pos_nirayana\":{\"deg_dms\":264.7090206341834,\"deg\":264.7090206341834}},\"tithi\":{\"val\":1.04,\"name\":\"Dvitiya\"},\"dina_maanam\":{\"val\":10.45362870920748,\"val_hms\":\"10:27:13 AM\"},\"Lagna\":{\"rasi_saayana\":{\"rasi_deg\":18.42637379187589,\"rasi_deg_dms\":\"18&deg25'35\\\"\",\"rasi_name\":\"Tula\",\"rasi_id\":6},\"rasi_niryana\":{\"rasi_deg\":25.113874827323663,\"rasi_deg_dms\":\"25&deg6'50\\\"\",\"rasi_name\":\"Kanya\",\"rasi_id\":5},\"ras\":{\"val\":5,\"name\":\"Kanya\"},\"pos_saayana\":{\"deg_dms\":198.42637379187587,\"deg\":198.42637379187587},\"nak\":{\"val\":13,\"name\":\"Chitra\"},\"id\":0,\"pos_nirayana\":{\"deg_dms\":175.11387482732366,\"deg\":175.11387482732366}}}"]
+[
+  {
+    "Navaamsa": {
+      "11": ["Budh"],
+      "12": [
+        "Chan",
+        "Ketu"
+      ],
+      "1": ["Nept"],
+      "2": ["Kuja"],
+      "3": ["Lagn"],
+      "4": [
+        "Sukr",
+        "Sani"
+      ],
+      "5": [
+        "Guru",
+        "Uran"
+      ],
+      "6": [
+        "Ravi",
+        "Rahu",
+        "Maan"
+      ],
+      "7": [],
+      "8": [],
+      "9": ["Plut"],
+      "10": []
+    },
+    "time_of_birth": "10:54:00 AM",
+    "paksham": {
+      "val": 1,
+      "name": "Shukla"
+    },
+    "ayana_opts": {
+      "name": "N.C.Lahiri",
+      "id": 0
+    },
+    "paapas_count": {
+      "Sukra": {
+        "Kuja": 1,
+        "total": 1,
+        "Soorya": 0,
+        "Ketu": 0,
+        "Rahu": 0,
+        "grand_total": 2,
+        "Sani": 1
+      },
+      "Lagna": {
+        "Kuja": 1,
+        "total": 2,
+        "Soorya": 0,
+        "Ketu": 1,
+        "Rahu": 0,
+        "grand_total": 3,
+        "Sani": 1
+      },
+      "Chandra": {
+        "Kuja": 0,
+        "total": 2,
+        "Soorya": 1,
+        "Ketu": 1,
+        "Rahu": 1,
+        "grand_total": 3,
+        "Sani": 0
+      }
+    },
+    "Shodasaamsa": {
+      "11": [],
+      "12": [],
+      "1": ["Sani"],
+      "2": ["Sukr"],
+      "3": ["Nept"],
+      "4": [],
+      "5": [
+        "Budh",
+        "Maan"
+      ],
+      "6": [
+        "Kuja",
+        "Uran"
+      ],
+      "7": [
+        "Chan",
+        "Rahu",
+        "Ketu"
+      ],
+      "8": [
+        "Lagn",
+        "Ravi"
+      ],
+      "9": ["Guru"],
+      "10": ["Plut"]
+    },
+    "siderial_time": {
+      "val": 3.4664317581382225,
+      "val_hms": "3:27:59 AM"
+    },
+    "vriksham": {
+      "val": 17,
+      "name": "Vetti"
+    },
+    "Sani": {
+      "rasi_saayana": {
+        "rasi_deg": 23.81348269628795,
+        "rasi_deg_dms": "23:48:49",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "rasi_niryana": {
+        "rasi_deg": 0.704796857207568,
+        "rasi_deg_dms": "0:42:17",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 113.81348269628795,
+        "deg": 113.81348269628795
+      },
+      "nak": {
+        "val": 6,
+        "name": "Punartam"
+      },
+      "id": 6,
+      "pos_nirayana": {
+        "deg_dms": 90.70479685720757,
+        "deg": 90.70479685720757
+      }
+    },
+    "Pluto": {
+      "rasi_saayana": {
+        "rasi_deg": 10.005642621216904,
+        "rasi_deg_dms": "10:0:20",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 16.896956782136524,
+        "rasi_deg_dms": "16:53:49",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 130.0056426212169,
+        "deg": 130.0056426212169
+      },
+      "nak": {
+        "val": 8,
+        "name": "Aayilyam"
+      },
+      "id": 12,
+      "pos_nirayana": {
+        "deg_dms": 106.89695678213653,
+        "deg": 106.89695678213653
+      }
+    },
+    "abhijit": {
+      "fr_val2": 12.935783868549404,
+      "to_val1_hms": "12:54:09 PM",
+      "fr_val1": 12.519117201882736,
+      "fr_val1_hms": "12:31:09 PM",
+      "to_val1": 12.902450535216069,
+      "to_val2_hms": "1:19:09 PM",
+      "fr_val2_hms": "12:56:09 PM",
+      "to_val2": 13.319117201882737
+    },
+    "Neptune": {
+      "rasi_saayana": {
+        "rasi_deg": 5.865175650886956,
+        "rasi_deg_dms": "5:51:55",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "rasi_niryana": {
+        "rasi_deg": 12.756489811806562,
+        "rasi_deg_dms": "12:45:23",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "ras": {
+        "val": 5,
+        "name": "Kanya"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 185.86517565088695,
+        "deg": 185.86517565088695
+      },
+      "nak": {
+        "val": 12,
+        "name": "Attam"
+      },
+      "id": 11,
+      "pos_nirayana": {
+        "deg_dms": 162.75648981180657,
+        "deg": 162.75648981180657
+      }
+    },
+    "nakshatra": {
+      "val": 17.86,
+      "name": "Trikketta",
+      "paada": 4
+    },
+    "Kundaamsa": {
+      "11": ["Sukr"],
+      "12": ["Rahu"],
+      "1": [
+        "Budh",
+        "Plut",
+        "Maan"
+      ],
+      "2": [],
+      "3": ["Guru"],
+      "4": ["Uran"],
+      "5": ["Sani"],
+      "6": [
+        "Ravi",
+        "Ketu"
+      ],
+      "7": [
+        "Lagn",
+        "Chan"
+      ],
+      "8": ["Nept"],
+      "9": [],
+      "10": ["Kuja"]
+    },
+    "mrigam": {
+      "val": 17,
+      "name": "Kezha"
+    },
+    "Drekkana": {
+      "11": [],
+      "12": [],
+      "1": [],
+      "2": ["Guru"],
+      "3": [],
+      "4": [
+        "Sukr",
+        "Sani",
+        "Chan",
+        "Ketu",
+        "Maan"
+      ],
+      "5": [
+        "Lagn",
+        "Kuja"
+      ],
+      "6": [],
+      "7": ["Budh"],
+      "8": ["Plut"],
+      "9": [],
+      "10": [
+        "Ravi",
+        "Rahu",
+        "Uran",
+        "Nept"
+      ]
+    },
+    "Saptaamsa": {
+      "11": ["Maan"],
+      "12": [],
+      "1": [
+        "Uran",
+        "Plut"
+      ],
+      "2": [
+        "Ravi",
+        "Rahu",
+        "Nept"
+      ],
+      "3": [],
+      "4": [],
+      "5": [
+        "Kuja",
+        "Guru"
+      ],
+      "6": [
+        "Lagn",
+        "Budh"
+      ],
+      "7": [],
+      "8": [
+        "Chan",
+        "Ketu"
+      ],
+      "9": [],
+      "10": [
+        "Sukr",
+        "Sani"
+      ]
+    },
+    "vimsottari_dasa": {
+      "Sukra": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "12 Yrs 9 mths 9 days",
+          "uptoDate_ymd": "1959-03-17",
+          "uptoDate": "17-Mar-1959"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "15 Yrs 5 mths 10 days",
+          "uptoDate_ymd": "1961-11-17",
+          "uptoDate": "17-Nov-1961"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "16 Yrs 7 mths 11 days",
+          "uptoDate_ymd": "1963-01-17",
+          "uptoDate": "17-Jan-1963"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "28 Yrs 3 mths 12 days",
+          "uptoDate_ymd": "1974-09-17",
+          "uptoDate": "17-Sep-1974"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "22 Yrs 3 mths 11 days",
+          "uptoDate_ymd": "1968-09-17",
+          "uptoDate": "17-Sep-1968"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "13 Yrs 9 mths 10 days",
+          "uptoDate_ymd": "1960-03-17",
+          "uptoDate": "17-Mar-1960"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "29 Yrs 5 mths 13 days",
+          "uptoDate_ymd": "1975-11-17",
+          "uptoDate": "17-Nov-1975"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "19 Yrs 7 mths 12 days",
+          "uptoDate_ymd": "1966-01-17",
+          "uptoDate": "17-Jan-1966"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "25 Yrs 5 mths 12 days",
+          "uptoDate_ymd": "1971-11-17",
+          "uptoDate": "17-Nov-1971"
+        }}
+      },
+      "Budha": {"Sani": {"Guru": {
+        "uptoAge": "2 Yrs 5 mths 7 days",
+        "uptoDate_ymd": "1948-11-17",
+        "uptoDate": "17-Nov-1948"
+      }}},
+      "Chandra": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "44 Yrs 11 mths 18 days",
+          "uptoDate_ymd": "1991-05-17",
+          "uptoDate": "17-May-1991"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "36 Yrs 3 mths 14 days",
+          "uptoDate_ymd": "1982-09-17",
+          "uptoDate": "17-Sep-1982"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "36 Yrs 10 mths 16 days",
+          "uptoDate_ymd": "1983-04-17",
+          "uptoDate": "17-Apr-1983"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "42 Yrs 8 mths 19 days",
+          "uptoDate_ymd": "1989-02-17",
+          "uptoDate": "17-Feb-1989"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "39 Yrs 8 mths 18 days",
+          "uptoDate_ymd": "1986-02-17",
+          "uptoDate": "17-Feb-1986"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "45 Yrs 5 mths 17 days",
+          "uptoDate_ymd": "1991-11-17",
+          "uptoDate": "17-Nov-1991"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "43 Yrs 3 mths 16 days",
+          "uptoDate_ymd": "1989-09-17",
+          "uptoDate": "17-Sep-1989"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "38 Yrs 4 mths 15 days",
+          "uptoDate_ymd": "1984-10-17",
+          "uptoDate": "17-Oct-1984"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "41 Yrs 3 mths 15 days",
+          "uptoDate_ymd": "1987-09-17",
+          "uptoDate": "17-Sep-1987"
+        }}
+      },
+      "Kuja": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "51 Yrs 6 mths 13 days",
+          "uptoDate_ymd": "1997-12-11",
+          "uptoDate": "11-Dec-1997"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "45 Yrs 10 mths 16 days",
+          "uptoDate_ymd": "1992-04-14",
+          "uptoDate": "14-Apr-1992"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "49 Yrs 11 mths 17 days",
+          "uptoDate_ymd": "1996-05-14",
+          "uptoDate": "14-May-1996"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "52 Yrs 5 mths 19 days",
+          "uptoDate_ymd": "1998-11-17",
+          "uptoDate": "17-Nov-1998"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "47 Yrs 10 mths 10 days",
+          "uptoDate_ymd": "1994-04-08",
+          "uptoDate": "08-Apr-1994"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "51 Yrs 10 mths 20 days",
+          "uptoDate_ymd": "1998-04-17",
+          "uptoDate": "17-Apr-1998"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "50 Yrs 4 mths 12 days",
+          "uptoDate_ymd": "1996-10-11",
+          "uptoDate": "11-Oct-1996"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "46 Yrs 11 mths 4 days",
+          "uptoDate_ymd": "1993-05-02",
+          "uptoDate": "02-May-1993"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "48 Yrs 11 mths 19 days",
+          "uptoDate_ymd": "1995-05-17",
+          "uptoDate": "17-May-1995"
+        }}
+      },
+      "Guru": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "81 Yrs 0 mths 4 days",
+          "uptoDate_ymd": "2027-05-29",
+          "uptoDate": "29-May-2027"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "77 Yrs 5 mths 0 days",
+          "uptoDate_ymd": "2023-10-23",
+          "uptoDate": "23-Oct-2023"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "83 Yrs 1 mths 24 days",
+          "uptoDate_ymd": "2029-07-17",
+          "uptoDate": "17-Jul-2029"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "84 Yrs 1 mths 0 days",
+          "uptoDate_ymd": "2030-06-23",
+          "uptoDate": "23-Jun-2030"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "72 Yrs 7 mths 13 days",
+          "uptoDate_ymd": "2019-01-05",
+          "uptoDate": "05-Jan-2019"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "81 Yrs 9 mths 27 days",
+          "uptoDate_ymd": "2028-03-17",
+          "uptoDate": "17-Mar-2028"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "78 Yrs 4 mths 7 days",
+          "uptoDate_ymd": "2024-09-29",
+          "uptoDate": "29-Sep-2024"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "86 Yrs 5 mths 28 days",
+          "uptoDate_ymd": "2032-11-17",
+          "uptoDate": "17-Nov-2032"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "75 Yrs 1 mths 22 days",
+          "uptoDate_ymd": "2021-07-17",
+          "uptoDate": "17-Jul-2021"
+        }}
+      },
+      "Soorya": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "35 Yrs 5 mths 15 days",
+          "uptoDate_ymd": "1981-11-17",
+          "uptoDate": "17-Nov-1981"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "30 Yrs 3 mths 1 days",
+          "uptoDate_ymd": "1976-09-05",
+          "uptoDate": "05-Sep-1976"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "30 Yrs 7 mths 9 days",
+          "uptoDate_ymd": "1977-01-11",
+          "uptoDate": "11-Jan-1977"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "34 Yrs 1 mths 6 days",
+          "uptoDate_ymd": "1980-07-11",
+          "uptoDate": "11-Jul-1980"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "32 Yrs 3 mths 19 days",
+          "uptoDate_ymd": "1978-09-23",
+          "uptoDate": "23-Sep-1978"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "29 Yrs 9 mths 2 days",
+          "uptoDate_ymd": "1976-03-05",
+          "uptoDate": "05-Mar-1976"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "34 Yrs 5 mths 15 days",
+          "uptoDate_ymd": "1980-11-17",
+          "uptoDate": "17-Nov-1980"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "31 Yrs 6 mths 2 days",
+          "uptoDate_ymd": "1977-12-05",
+          "uptoDate": "05-Dec-1977"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "33 Yrs 3 mths 1 days",
+          "uptoDate_ymd": "1979-09-05",
+          "uptoDate": "05-Sep-1979"
+        }}
+      },
+      "Ketu": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "4 Yrs 0 mths 1 days",
+          "uptoDate_ymd": "1950-06-14",
+          "uptoDate": "14-Jun-1950"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "4 Yrs 11 mths 11 days",
+          "uptoDate_ymd": "1951-05-20",
+          "uptoDate": "20-May-1951"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "5 Yrs 4 mths 6 days",
+          "uptoDate_ymd": "1951-10-17",
+          "uptoDate": "17-Oct-1951"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "9 Yrs 5 mths 8 days",
+          "uptoDate_ymd": "1955-11-17",
+          "uptoDate": "17-Nov-1955"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "7 Yrs 4 mths 1 days",
+          "uptoDate_ymd": "1953-10-11",
+          "uptoDate": "11-Oct-1953"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "4 Yrs 4 mths 9 days",
+          "uptoDate_ymd": "1950-10-20",
+          "uptoDate": "20-Oct-1950"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "2 Yrs 10 mths 5 days",
+          "uptoDate_ymd": "1949-04-14",
+          "uptoDate": "14-Apr-1949"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "6 Yrs 4 mths 26 days",
+          "uptoDate_ymd": "1952-11-05",
+          "uptoDate": "05-Nov-1952"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "8 Yrs 5 mths 11 days",
+          "uptoDate_ymd": "1954-11-20",
+          "uptoDate": "20-Nov-1954"
+        }}
+      },
+      "Rahu": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "67 Yrs 0 mths 8 days",
+          "uptoDate_ymd": "2013-06-05",
+          "uptoDate": "05-Jun-2013"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "62 Yrs 11 mths 23 days",
+          "uptoDate_ymd": "2009-05-17",
+          "uptoDate": "17-May-2009"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "69 Yrs 5 mths 4 days",
+          "uptoDate_ymd": "2015-10-29",
+          "uptoDate": "29-Oct-2015"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "70 Yrs 5 mths 24 days",
+          "uptoDate_ymd": "2016-11-17",
+          "uptoDate": "17-Nov-2016"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "57 Yrs 6 mths 26 days",
+          "uptoDate_ymd": "2003-12-23",
+          "uptoDate": "23-Dec-2003"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "67 Yrs 11 mths 6 days",
+          "uptoDate_ymd": "2014-04-29",
+          "uptoDate": "29-Apr-2014"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "64 Yrs 0 mths 7 days",
+          "uptoDate_ymd": "2010-06-05",
+          "uptoDate": "05-Jun-2010"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "55 Yrs 1 mths 29 days",
+          "uptoDate_ymd": "2001-07-29",
+          "uptoDate": "29-Jul-2001"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "60 Yrs 5 mths 2 days",
+          "uptoDate_ymd": "2006-10-29",
+          "uptoDate": "29-Oct-2006"
+        }}
+      }
+    },
+    "raasi": {
+      "val": "7S 28:6:0",
+      "name": "Vriscika"
+    },
+    "longitude": {
+      "ew": "W",
+      "deg": 40.68333333333333,
+      "dms": "40:41:0"
+    },
+    "actual_lagnam": {
+      "val": 127.38395112885622,
+      "val_dms": "127:23:2"
+    },
+    "sun_set": {
+      "val": 20.454133351515466,
+      "val_hms": "8:27:15 PM"
+    },
+    "Chandra": {
+      "rasi_saayana": {
+        "rasi_deg": 21.20872727643439,
+        "rasi_deg_dms": "21:12:31",
+        "rasi_name": "Dhanus",
+        "rasi_id": 9
+      },
+      "rasi_niryana": {
+        "rasi_deg": 28.100041437353998,
+        "rasi_deg_dms": "28:6:0",
+        "rasi_name": "Vriscika",
+        "rasi_id": 8
+      },
+      "ras": {
+        "val": 7,
+        "name": "Vriscika"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 261.2087272764344,
+        "deg": 261.2087272764344
+      },
+      "nak": {
+        "val": 17,
+        "name": "Trikketta"
+      },
+      "id": 7,
+      "pos_nirayana": {
+        "deg_dms": 238.100041437354,
+        "deg": 238.100041437354
+      }
+    },
+    "kunda_lagnam": {
+      "val": 195.39435007315296,
+      "val_dms": "195:23:40"
+    },
+    "dob_ymd": "1946-06-14",
+    "noonA": {
+      "val": 12.922777777777778,
+      "val_hms": "12:55:22 PM"
+    },
+    "basic_detail": 1,
+    "timeZoneGMT": -4,
+    "devata": {
+      "val": 17,
+      "name": "Indra"
+    },
+    "dob": "14-Jun-1946",
+    "sun_setA": {
+      "val": 20.369722222222222,
+      "val_hms": "8:22:11 PM"
+    },
+    "name": "Donald Trump",
+    "dina_maanamA": {
+      "val": 14.893888888888888,
+      "val_hms": "2:53:38 PM"
+    },
+    "Rahu": {
+      "rasi_saayana": {
+        "rasi_deg": 20.75910230088724,
+        "rasi_deg_dms": "20:45:33",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "rasi_niryana": {
+        "rasi_deg": 27.650416461806852,
+        "rasi_deg_dms": "27:39:1",
+        "rasi_name": "Vrisha",
+        "rasi_id": 2
+      },
+      "ras": {
+        "val": 1,
+        "name": "Vrisha"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 80.75910230088724,
+        "deg": 80.75910230088724
+      },
+      "nak": {
+        "val": 4,
+        "name": "Makayiryam"
+      },
+      "id": 8,
+      "pos_nirayana": {
+        "deg_dms": 57.650416461806856,
+        "deg": 57.650416461806856
+      }
+    },
+    "ayanamsa": {
+      "val": 23.108685839080376,
+      "val_dms": "23:6:31"
+    },
+    "karanam": {
+      "val": 29,
+      "name": "Vishti",
+      "id": 10
+    },
+    "Rasi": {
+      "11": [],
+      "12": [],
+      "1": [],
+      "2": [
+        "Ravi",
+        "Rahu",
+        "Uran"
+      ],
+      "3": ["Budh"],
+      "4": [
+        "Sukr",
+        "Sani",
+        "Plut",
+        "Maan"
+      ],
+      "5": [
+        "Lagn",
+        "Kuja"
+      ],
+      "6": [
+        "Guru",
+        "Nept"
+      ],
+      "7": [],
+      "8": [
+        "Chan",
+        "Ketu"
+      ],
+      "9": [],
+      "10": []
+    },
+    "tob": 10.9,
+    "latitude": {
+      "ns": "N",
+      "deg": 40.68333333333333,
+      "dms": "40:41:0"
+    },
+    "yoga": {
+      "val": 22.35,
+      "name": "Subha"
+    },
+    "abhijitA": {
+      "fr_val2": 12.939444444444446,
+      "to_val1_hms": "12:54:22 PM",
+      "fr_val1": 12.522777777777778,
+      "fr_val1_hms": "12:31:22 PM",
+      "to_val1": 12.90611111111111,
+      "to_val2_hms": "1:19:22 PM",
+      "fr_val2_hms": "12:56:22 PM",
+      "to_val2": 13.322777777777778
+    },
+    "Uranus": {
+      "rasi_saayana": {
+        "rasi_deg": 17.913030643413332,
+        "rasi_deg_dms": "17:54:47",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "rasi_niryana": {
+        "rasi_deg": 24.80434480433296,
+        "rasi_deg_dms": "24:48:16",
+        "rasi_name": "Vrisha",
+        "rasi_id": 2
+      },
+      "ras": {
+        "val": 1,
+        "name": "Vrisha"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 77.91303064341334,
+        "deg": 77.91303064341334
+      },
+      "nak": {
+        "val": 4,
+        "name": "Makayiryam"
+      },
+      "id": 10,
+      "pos_nirayana": {
+        "deg_dms": 54.804344804332956,
+        "deg": 54.804344804332956
+      }
+    },
+    "ashtaka_varga": {
+      "Chandra": {
+        "11": 1,
+        "1": 5,
+        "12": 4,
+        "2": 5,
+        "3": 4,
+        "4": 2,
+        "5": 3,
+        "6": 6,
+        "7": 5,
+        "8": 4,
+        "9": 5,
+        "10": 5
+      },
+      "Guru   ": {
+        "11": 4,
+        "1": 4,
+        "12": 6,
+        "2": 5,
+        "3": 6,
+        "4": 4,
+        "5": 4,
+        "6": 6,
+        "7": 2,
+        "8": 7,
+        "9": 6,
+        "10": 2
+      },
+      "total": {
+        "11": 28,
+        "1": 31,
+        "12": 30,
+        "2": 34,
+        "3": 30,
+        "4": 21,
+        "5": 29,
+        "6": 28,
+        "7": 26,
+        "8": 30,
+        "9": 23,
+        "10": 27
+      },
+      "Kuja   ": {
+        "11": 5,
+        "1": 3,
+        "12": 3,
+        "2": 4,
+        "3": 4,
+        "4": 3,
+        "5": 4,
+        "6": 3,
+        "7": 4,
+        "8": 2,
+        "9": 1,
+        "10": 3
+      },
+      "Soorya ": {
+        "11": 5,
+        "1": 4,
+        "12": 4,
+        "2": 6,
+        "3": 4,
+        "4": 3,
+        "5": 5,
+        "6": 2,
+        "7": 3,
+        "8": 4,
+        "9": 2,
+        "10": 6
+      },
+      "Sukra  ": {
+        "11": 4,
+        "1": 7,
+        "12": 5,
+        "2": 3,
+        "3": 4,
+        "4": 4,
+        "5": 3,
+        "6": 4,
+        "7": 6,
+        "8": 5,
+        "9": 4,
+        "10": 3
+      },
+      "Budha  ": {
+        "11": 6,
+        "1": 6,
+        "12": 6,
+        "2": 5,
+        "3": 4,
+        "4": 3,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 1,
+        "10": 3
+      },
+      "Sani   ": {
+        "11": 3,
+        "1": 2,
+        "12": 2,
+        "2": 6,
+        "3": 4,
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 4,
+        "9": 4,
+        "10": 5
+      }
+    },
+    "sun_riseA": {
+      "val": 5.475833333333333,
+      "val_hms": "5:28:33 AM"
+    },
+    "dow": 5,
+    "Maandi": {
+      "rasi_saayana": {
+        "rasi_deg": 1.1316895996492526,
+        "rasi_deg_dms": "1:7:54",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 8.023003760568885,
+        "rasi_deg_dms": "8:1:23",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 121.13168959964926,
+        "deg": 121.13168959964926
+      },
+      "nak": {
+        "val": 7,
+        "name": "Pooyam"
+      },
+      "id": 13,
+      "pos_nirayana": {
+        "deg_dms": 98.02300376056888,
+        "deg": 98.02300376056888
+      }
+    },
+    "Sukra": {
+      "rasi_saayana": {
+        "rasi_deg": 25.754137042061792,
+        "rasi_deg_dms": "25:45:15",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "rasi_niryana": {
+        "rasi_deg": 2.645451202981426,
+        "rasi_deg_dms": "2:38:44",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 115.7541370420618,
+        "deg": 115.7541370420618
+      },
+      "nak": {
+        "val": 6,
+        "name": "Punartam"
+      },
+      "id": 3,
+      "pos_nirayana": {
+        "deg_dms": 92.64545120298142,
+        "deg": 92.64545120298142
+      }
+    },
+    "bhootam": {
+      "val": 3,
+      "name": "Vayu"
+    },
+    "Budha": {
+      "rasi_saayana": {
+        "rasi_deg": 8.879796173770513,
+        "rasi_deg_dms": "8:52:47",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "rasi_niryana": {
+        "rasi_deg": 15.771110334690132,
+        "rasi_deg_dms": "15:46:16",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "ras": {
+        "val": 2,
+        "name": "Mithuna"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 98.87979617377052,
+        "deg": 98.87979617377052
+      },
+      "nak": {
+        "val": 5,
+        "name": "Tiruvatira"
+      },
+      "id": 2,
+      "pos_nirayana": {
+        "deg_dms": 75.77111033469014,
+        "deg": 75.77111033469014
+      }
+    },
+    "noon": {
+      "val": 12.919117201882736,
+      "val_hms": "12:55:09 PM"
+    },
+    "bhava": [
+      {
+        "mid": {
+          "val": 126.8567203712735,
+          "val_dms": "126:51:24"
+        },
+        "id": 1,
+        "grahas": [{
+          "name": "Kuja",
+          "id": 4
+        }],
+        "begin": {
+          "val": 110.92325059846152,
+          "val_dms": "110:55:24"
+        }
+      },
+      {
+        "mid": {
+          "val": 154.98978082564955,
+          "val_dms": "154:59:23"
+        },
+        "id": 2,
+        "grahas": [{
+          "name": "Neptune",
+          "id": 11
+        }],
+        "begin": {
+          "val": 140.92325059846152,
+          "val_dms": "140:55:24"
+        }
+      },
+      {
+        "mid": {
+          "val": 183.1228412800256,
+          "val_dms": "183:7:22"
+        },
+        "id": 3,
+        "grahas": [{
+          "name": "Guru",
+          "id": 5
+        }],
+        "begin": {
+          "val": 169.05631105283757,
+          "val_dms": "169:3:23"
+        }
+      },
+      {
+        "mid": {
+          "val": 211.25590173440165,
+          "val_dms": "211:15:21"
+        },
+        "id": 4,
+        "grahas": [],
+        "begin": {
+          "val": 197.18937150721362,
+          "val_dms": "197:11:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 243.1228412800256,
+          "val_dms": "243:7:22"
+        },
+        "id": 5,
+        "grahas": [
+          {
+            "name": "Chandra",
+            "id": 7
+          },
+          {
+            "name": "Ketu",
+            "id": 9
+          }
+        ],
+        "begin": {
+          "val": 227.18937150721362,
+          "val_dms": "227:11:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 274.9897808256495,
+          "val_dms": "274:59:23"
+        },
+        "id": 6,
+        "grahas": [],
+        "begin": {
+          "val": 259.05631105283754,
+          "val_dms": "259:3:23"
+        }
+      },
+      {
+        "mid": {
+          "val": 306.85672037127347,
+          "val_dms": "306:51:24"
+        },
+        "id": 7,
+        "grahas": [],
+        "begin": {
+          "val": 290.9232505984615,
+          "val_dms": "290:55:24"
+        }
+      },
+      {
+        "mid": {
+          "val": 334.9897808256495,
+          "val_dms": "334:59:23"
+        },
+        "id": 8,
+        "grahas": [],
+        "begin": {
+          "val": 320.9232505984615,
+          "val_dms": "320:55:24"
+        }
+      },
+      {
+        "mid": {
+          "val": 3.1228412800255683,
+          "val_dms": "3:7:22"
+        },
+        "id": 9,
+        "grahas": [],
+        "begin": {
+          "val": 349.05631105283754,
+          "val_dms": "349:3:23"
+        }
+      },
+      {
+        "mid": {
+          "val": 31.255901734401657,
+          "val_dms": "31:15:21"
+        },
+        "id": 10,
+        "grahas": [],
+        "begin": {
+          "val": 17.189371507213615,
+          "val_dms": "17:11:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 63.12284128002561,
+          "val_dms": "63:7:22"
+        },
+        "id": 11,
+        "grahas": [
+          {
+            "name": "Soorya",
+            "id": 1
+          },
+          {
+            "name": "Budha",
+            "id": 2
+          },
+          {
+            "name": "Rahu",
+            "id": 8
+          },
+          {
+            "name": "Uranus",
+            "id": 10
+          }
+        ],
+        "begin": {
+          "val": 47.189371507213636,
+          "val_dms": "47:11:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 94.98978082564956,
+          "val_dms": "94:59:23"
+        },
+        "id": 12,
+        "grahas": [
+          {
+            "name": "Sukra",
+            "id": 3
+          },
+          {
+            "name": "Sani",
+            "id": 6
+          },
+          {
+            "name": "Pluto",
+            "id": 12
+          },
+          {
+            "name": "Maandi",
+            "id": 13
+          }
+        ],
+        "begin": {
+          "val": 79.05631105283759,
+          "val_dms": "79:3:23"
+        }
+      }
+    ],
+    "kunda_lagn_diff": {
+      "val": 0.527230757582729,
+      "val_dms": "0:31:38"
+    },
+    "Soorya": {
+      "rasi_saayana": {
+        "rasi_deg": 22.944404397625323,
+        "rasi_deg_dms": "22:56:40",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "rasi_niryana": {
+        "rasi_deg": 29.835718558544936,
+        "rasi_deg_dms": "29:50:9",
+        "rasi_name": "Vrisha",
+        "rasi_id": 2
+      },
+      "ras": {
+        "val": 1,
+        "name": "Vrisha"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 82.94440439762532,
+        "deg": 82.94440439762532
+      },
+      "nak": {
+        "val": 4,
+        "name": "Makayiryam"
+      },
+      "id": 1,
+      "pos_nirayana": {
+        "deg_dms": 59.83571855854494,
+        "deg": 59.83571855854494
+      }
+    },
+    "Dwadasaamsa": {
+      "11": [
+        "Uran",
+        "Nept"
+      ],
+      "12": [],
+      "1": [
+        "Ravi",
+        "Rahu"
+      ],
+      "2": [],
+      "3": ["Guru"],
+      "4": ["Sani"],
+      "5": ["Sukr"],
+      "6": ["Kuja"],
+      "7": [
+        "Lagn",
+        "Chan",
+        "Ketu",
+        "Maan"
+      ],
+      "8": [],
+      "9": ["Budh"],
+      "10": ["Plut"]
+    },
+    "Ketu": {
+      "rasi_saayana": {
+        "rasi_deg": 20.7591023008872,
+        "rasi_deg_dms": "20:45:33",
+        "rasi_name": "Dhanus",
+        "rasi_id": 9
+      },
+      "rasi_niryana": {
+        "rasi_deg": 27.650416461806834,
+        "rasi_deg_dms": "27:39:1",
+        "rasi_name": "Vriscika",
+        "rasi_id": 8
+      },
+      "ras": {
+        "val": 7,
+        "name": "Vriscika"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 260.7591023008872,
+        "deg": 260.7591023008872
+      },
+      "nak": {
+        "val": 17,
+        "name": "Trikketta"
+      },
+      "id": 9,
+      "pos_nirayana": {
+        "deg_dms": 237.65041646180683,
+        "deg": 237.65041646180683
+      }
+    },
+    "ganam": {
+      "val": 17,
+      "name": "Aasura",
+      "id": 2
+    },
+    "sun_rise": {
+      "val": 5.384101052250006,
+      "val_hms": "5:23:03 AM"
+    },
+    "day_of_week": "Friday",
+    "sapta_varga": [
+      {"arr_hdg": [
+        "graham",
+        "x1",
+        "x3",
+        "x7",
+        "x9",
+        "Div10",
+        "x12",
+        "x16",
+        "x30",
+        "x60",
+        "81"
+      ]},
+      {
+        "vargas": [
+          5,
+          5,
+          6,
+          3,
+          7,
+          7,
+          8,
+          7,
+          6,
+          7
+        ],
+        "graha": "Lagna"
+      },
+      {
+        "vargas": [
+          2,
+          10,
+          2,
+          6,
+          7,
+          1,
+          8,
+          12,
+          1,
+          6
+        ],
+        "graha": "Soorya"
+      },
+      {
+        "vargas": [
+          3,
+          7,
+          6,
+          11,
+          8,
+          9,
+          5,
+          4,
+          10,
+          1
+        ],
+        "graha": "Budha"
+      },
+      {
+        "vargas": [
+          4,
+          4,
+          10,
+          4,
+          12,
+          5,
+          2,
+          9,
+          9,
+          11
+        ],
+        "graha": "Sukra"
+      },
+      {
+        "vargas": [
+          5,
+          5,
+          5,
+          2,
+          6,
+          6,
+          6,
+          4,
+          12,
+          10
+        ],
+        "graha": "Kuja"
+      },
+      {
+        "vargas": [
+          6,
+          2,
+          5,
+          5,
+          10,
+          3,
+          9,
+          7,
+          6,
+          3
+        ],
+        "graha": "Guru"
+      },
+      {
+        "vargas": [
+          4,
+          4,
+          10,
+          4,
+          12,
+          4,
+          1,
+          7,
+          5,
+          5
+        ],
+        "graha": "Sani"
+      },
+      {
+        "vargas": [
+          8,
+          4,
+          8,
+          12,
+          1,
+          7,
+          7,
+          11,
+          4,
+          7
+        ],
+        "graha": "Chandra"
+      },
+      {
+        "vargas": [
+          2,
+          10,
+          2,
+          6,
+          7,
+          1,
+          7,
+          10,
+          9,
+          12
+        ],
+        "graha": "Rahu"
+      },
+      {
+        "vargas": [
+          8,
+          4,
+          8,
+          12,
+          1,
+          7,
+          7,
+          10,
+          3,
+          6
+        ],
+        "graha": "Ketu"
+      },
+      {
+        "vargas": [
+          2,
+          10,
+          1,
+          5,
+          6,
+          11,
+          6,
+          7,
+          3,
+          4
+        ],
+        "graha": "Uranus"
+      },
+      {
+        "vargas": [
+          6,
+          10,
+          2,
+          1,
+          6,
+          11,
+          3,
+          7,
+          7,
+          8
+        ],
+        "graha": "Neptune"
+      },
+      {
+        "vargas": [
+          4,
+          8,
+          1,
+          9,
+          5,
+          10,
+          10,
+          11,
+          1,
+          1
+        ],
+        "graha": "Pluto"
+      },
+      {
+        "vargas": [
+          4,
+          4,
+          11,
+          6,
+          2,
+          7,
+          5,
+          3,
+          8,
+          1
+        ],
+        "graha": "Maandi"
+      }
+    ],
+    "Kuja": {
+      "rasi_saayana": {
+        "rasi_deg": 26.787714676970992,
+        "rasi_deg_dms": "26:47:16",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 3.6790288378905966,
+        "rasi_deg_dms": "3:40:45",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "ras": {
+        "val": 4,
+        "name": "Simha"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 146.78771467697098,
+        "deg": 146.78771467697098
+      },
+      "nak": {
+        "val": 9,
+        "name": "Makam"
+      },
+      "id": 4,
+      "pos_nirayana": {
+        "deg_dms": 123.6790288378906,
+        "deg": 123.6790288378906
+      }
+    },
+    "hindu_day": {
+      "val": 5,
+      "day": "Friday"
+    },
+    "obliquity": {
+      "val": 23.446933697071266,
+      "val_dms": "23:26:49"
+    },
+    "sex": "M",
+    "yoni": {
+      "val": 17,
+      "name": "Purusha",
+      "id": 1
+    },
+    "Dasaamsa": {
+      "11": [],
+      "12": [
+        "Sukr",
+        "Sani"
+      ],
+      "1": [
+        "Chan",
+        "Ketu"
+      ],
+      "2": ["Maan"],
+      "3": [],
+      "4": [],
+      "5": ["Plut"],
+      "6": [
+        "Kuja",
+        "Uran",
+        "Nept"
+      ],
+      "7": [
+        "Lagn",
+        "Ravi",
+        "Rahu"
+      ],
+      "8": ["Budh"],
+      "9": [],
+      "10": ["Guru"]
+    },
+    "place_of_birth": "Jamaica",
+    "pakshi": {
+      "val": 3,
+      "name": "Kozhi"
+    },
+    "Guru": {
+      "rasi_saayana": {
+        "rasi_deg": 17.433879434202186,
+        "rasi_deg_dms": "17:26:2",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "rasi_niryana": {
+        "rasi_deg": 24.325193595121817,
+        "rasi_deg_dms": "24:19:31",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "ras": {
+        "val": 5,
+        "name": "Kanya"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 197.4338794342022,
+        "deg": 197.4338794342022
+      },
+      "nak": {
+        "val": 13,
+        "name": "Chitra"
+      },
+      "id": 5,
+      "pos_nirayana": {
+        "deg_dms": 174.32519359512182,
+        "deg": 174.32519359512182
+      }
+    },
+    "tithi": {
+      "val": 14.86,
+      "name": "Purnima"
+    },
+    "dina_maanam": {
+      "val": 15.07003229926546,
+      "val_hms": "3:04:12 PM"
+    },
+    "Lagna": {
+      "rasi_saayana": {
+        "rasi_deg": 29.96540621035387,
+        "rasi_deg_dms": "29:57:55",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 6.856720371273504,
+        "rasi_deg_dms": "6:51:24",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "ras": {
+        "val": 4,
+        "name": "Simha"
+      },
+      "pos_saayana": {
+        "deg_dms": 149.96540621035388,
+        "deg": 149.96540621035388
+      },
+      "nak": {
+        "val": 9,
+        "name": "Makam"
+      },
+      "id": 0,
+      "pos_nirayana": {
+        "deg_dms": 126.8567203712735,
+        "deg": 126.8567203712735
+      }
+    }
+  },
+  {
+    "Navaamsa": {
+      "11": ["Ketu"],
+      "12": ["Plut"],
+      "1": ["Ravi"],
+      "2": ["Guru"],
+      "3": [],
+      "4": [],
+      "5": [
+        "Rahu",
+        "Uran"
+      ],
+      "6": [
+        "Budh",
+        "Chan"
+      ],
+      "7": ["Nept"],
+      "8": [
+        "Sukr",
+        "Sani"
+      ],
+      "9": [
+        "Lagn",
+        "Kuja"
+      ],
+      "10": ["Maan"]
+    },
+    "time_of_birth": "0:00:00 AM",
+    "paksham": {
+      "val": 1,
+      "name": "Shukla"
+    },
+    "ayana_opts": {
+      "name": "N.C.Lahiri",
+      "id": 0
+    },
+    "paapas_count": {
+      "Sukra": {
+        "Kuja": 0,
+        "total": 2,
+        "Soorya": 1,
+        "Ketu": 1,
+        "Rahu": 0,
+        "grand_total": 3,
+        "Sani": 1
+      },
+      "Lagna": {
+        "Kuja": 1,
+        "total": 3,
+        "Soorya": 1,
+        "Ketu": 1,
+        "Rahu": 0,
+        "grand_total": 4,
+        "Sani": 1
+      },
+      "Chandra": {
+        "Kuja": 1,
+        "total": 1,
+        "Soorya": 0,
+        "Ketu": 0,
+        "Rahu": 1,
+        "grand_total": 2,
+        "Sani": 0
+      }
+    },
+    "Shodasaamsa": {
+      "11": [
+        "Chan",
+        "Nept"
+      ],
+      "12": [],
+      "1": ["Plut"],
+      "2": [],
+      "3": [],
+      "4": [
+        "Rahu",
+        "Ketu"
+      ],
+      "5": [],
+      "6": [
+        "Budh",
+        "Kuja"
+      ],
+      "7": ["Lagn"],
+      "8": [
+        "Ravi",
+        "Maan"
+      ],
+      "9": [
+        "Sukr",
+        "Guru"
+      ],
+      "10": [
+        "Sani",
+        "Uran"
+      ]
+    },
+    "siderial_time": {
+      "val": 18.614575531005997,
+      "val_hms": "6:36:52 PM"
+    },
+    "vriksham": {
+      "val": 13,
+      "name": "Koovalam"
+    },
+    "Sani": {
+      "rasi_saayana": {
+        "rasi_deg": 26.998043903803858,
+        "rasi_deg_dms": "26:59:53",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "rasi_niryana": {
+        "rasi_deg": 3.5114323405142223,
+        "rasi_deg_dms": "3:30:41",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "ras": {
+        "val": 2,
+        "name": "Mithuna"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 86.99804390380386,
+        "deg": 86.99804390380386
+      },
+      "nak": {
+        "val": 4,
+        "name": "Makayiryam"
+      },
+      "id": 6,
+      "pos_nirayana": {
+        "deg_dms": 63.511432340514226,
+        "deg": 63.511432340514226
+      }
+    },
+    "Pluto": {
+      "rasi_saayana": {
+        "rasi_deg": 1.8469378535702674,
+        "rasi_deg_dms": "1:50:49",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "rasi_niryana": {
+        "rasi_deg": 8.36032629028062,
+        "rasi_deg_dms": "8:21:37",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "ras": {
+        "val": 5,
+        "name": "Kanya"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 181.84693785357027,
+        "deg": 181.84693785357027
+      },
+      "nak": {
+        "val": 11,
+        "name": "Uttram"
+      },
+      "id": 12,
+      "pos_nirayana": {
+        "deg_dms": 158.36032629028063,
+        "deg": 158.36032629028063
+      }
+    },
+    "abhijit": {
+      "fr_val2": 12.521632848674352,
+      "to_val1_hms": "12:29:18 PM",
+      "fr_val1": 12.104966182007685,
+      "fr_val1_hms": "12:06:18 PM",
+      "to_val1": 12.488299515341017,
+      "to_val2_hms": "12:54:18 PM",
+      "fr_val2_hms": "12:31:18 PM",
+      "to_val2": 12.904966182007685
+    },
+    "Neptune": {
+      "rasi_saayana": {
+        "rasi_deg": 5.031275184558499,
+        "rasi_deg_dms": "5:1:53",
+        "rasi_name": "Dhanus",
+        "rasi_id": 9
+      },
+      "rasi_niryana": {
+        "rasi_deg": 11.544663621268878,
+        "rasi_deg_dms": "11:32:41",
+        "rasi_name": "Vriscika",
+        "rasi_id": 8
+      },
+      "ras": {
+        "val": 7,
+        "name": "Vriscika"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 245.03127518455852,
+        "deg": 245.03127518455852
+      },
+      "nak": {
+        "val": 16,
+        "name": "Anizham"
+      },
+      "id": 11,
+      "pos_nirayana": {
+        "deg_dms": 221.54466362126888,
+        "deg": 221.54466362126888
+      }
+    },
+    "nakshatra": {
+      "val": 13.27,
+      "name": "Chitra",
+      "paada": 2
+    },
+    "Kundaamsa": {
+      "11": ["Nept"],
+      "12": [],
+      "1": [],
+      "2": [
+        "Kuja",
+        "Rahu"
+      ],
+      "3": [],
+      "4": [
+        "Sani",
+        "Maan"
+      ],
+      "5": [],
+      "6": [
+        "Ravi",
+        "Budh",
+        "Guru",
+        "Uran"
+      ],
+      "7": ["Lagn"],
+      "8": [
+        "Ketu",
+        "Plut"
+      ],
+      "9": ["Sukr"],
+      "10": ["Chan"]
+    },
+    "mrigam": {
+      "val": 13,
+      "name": "Aalpuli"
+    },
+    "Drekkana": {
+      "11": ["Ravi"],
+      "12": ["Nept"],
+      "1": ["Rahu"],
+      "2": [
+        "Guru",
+        "Chan",
+        "Uran"
+      ],
+      "3": ["Sani"],
+      "4": [
+        "Lagn",
+        "Budh",
+        "Kuja"
+      ],
+      "5": [],
+      "6": ["Plut"],
+      "7": ["Ketu"],
+      "8": [
+        "Sukr",
+        "Maan"
+      ],
+      "9": [],
+      "10": []
+    },
+    "Saptaamsa": {
+      "11": ["Maan"],
+      "12": [
+        "Budh",
+        "Rahu"
+      ],
+      "1": [
+        "Sukr",
+        "Plut"
+      ],
+      "2": [],
+      "3": ["Sani"],
+      "4": ["Nept"],
+      "5": ["Uran"],
+      "6": [
+        "Chan",
+        "Ketu"
+      ],
+      "7": ["Guru"],
+      "8": ["Ravi"],
+      "9": [],
+      "10": [
+        "Lagn",
+        "Kuja"
+      ]
+    },
+    "vimsottari_dasa": {
+      "Kuja": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "4 Yrs 2 mths 18 days",
+          "uptoDate_ymd": "1977-09-23",
+          "uptoDate": "23-Sep-1977"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "2 Yrs 7 mths 23 days",
+          "uptoDate_ymd": "1976-02-26",
+          "uptoDate": "26-Feb-1976"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "5 Yrs 1 mths 23 days",
+          "uptoDate_ymd": "1978-08-29",
+          "uptoDate": "29-Aug-1978"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "0 Yrs 6 mths 16 days",
+          "uptoDate_ymd": "1974-01-20",
+          "uptoDate": "20-Jan-1974"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "4 Yrs 6 mths 26 days",
+          "uptoDate_ymd": "1978-01-29",
+          "uptoDate": "29-Jan-1978"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "3 Yrs 0 mths 16 days",
+          "uptoDate_ymd": "1976-07-23",
+          "uptoDate": "23-Jul-1976"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "1 Yrs 7 mths 26 days",
+          "uptoDate_ymd": "1975-03-01",
+          "uptoDate": "01-Mar-1975"
+        }}
+      },
+      "Rahu": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "19 Yrs 8 mths 17 days",
+          "uptoDate_ymd": "1993-03-17",
+          "uptoDate": "17-Mar-1993"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "15 Yrs 8 mths 0 days",
+          "uptoDate_ymd": "1989-03-01",
+          "uptoDate": "01-Mar-1989"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "22 Yrs 1 mths 9 days",
+          "uptoDate_ymd": "1995-08-11",
+          "uptoDate": "11-Aug-1995"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "23 Yrs 1 mths 28 days",
+          "uptoDate_ymd": "1996-08-29",
+          "uptoDate": "29-Aug-1996"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "10 Yrs 3 mths 1 days",
+          "uptoDate_ymd": "1983-10-05",
+          "uptoDate": "05-Oct-1983"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "20 Yrs 7 mths 13 days",
+          "uptoDate_ymd": "1994-02-11",
+          "uptoDate": "11-Feb-1994"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "16 Yrs 8 mths 16 days",
+          "uptoDate_ymd": "1990-03-17",
+          "uptoDate": "17-Mar-1990"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "7 Yrs 10 mths 9 days",
+          "uptoDate_ymd": "1981-05-11",
+          "uptoDate": "11-May-1981"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "13 Yrs 1 mths 7 days",
+          "uptoDate_ymd": "1986-08-11",
+          "uptoDate": "11-Aug-1986"
+        }}
+      },
+      "Budha": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "64 Yrs 5 mths 4 days",
+          "uptoDate_ymd": "2037-11-23",
+          "uptoDate": "23-Nov-2037"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "60 Yrs 7 mths 7 days",
+          "uptoDate_ymd": "2034-01-26",
+          "uptoDate": "26-Jan-2034"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "66 Yrs 8 mths 13 days",
+          "uptoDate_ymd": "2040-03-01",
+          "uptoDate": "01-Mar-2040"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "67 Yrs 8 mths 10 days",
+          "uptoDate_ymd": "2041-02-26",
+          "uptoDate": "26-Feb-2041"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "72 Yrs 6 mths 3 days",
+          "uptoDate_ymd": "2045-12-20",
+          "uptoDate": "20-Dec-2045"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "65 Yrs 3 mths 9 days",
+          "uptoDate_ymd": "2038-09-29",
+          "uptoDate": "29-Sep-2038"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "61 Yrs 7 mths 4 days",
+          "uptoDate_ymd": "2035-01-23",
+          "uptoDate": "23-Jan-2035"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "70 Yrs 2 mths 25 days",
+          "uptoDate_ymd": "2043-09-14",
+          "uptoDate": "14-Sep-2043"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "75 Yrs 2 mths 11 days",
+          "uptoDate_ymd": "2048-08-29",
+          "uptoDate": "29-Aug-2048"
+        }}
+      },
+      "Guru": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "33 Yrs 8 mths 14 days",
+          "uptoDate_ymd": "2007-03-11",
+          "uptoDate": "11-Mar-2007"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "30 Yrs 1 mths 5 days",
+          "uptoDate_ymd": "2003-08-05",
+          "uptoDate": "05-Aug-2003"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "35 Yrs 10 mths 4 days",
+          "uptoDate_ymd": "2009-04-29",
+          "uptoDate": "29-Apr-2009"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "36 Yrs 9 mths 10 days",
+          "uptoDate_ymd": "2010-04-05",
+          "uptoDate": "05-Apr-2010"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "25 Yrs 3 mths 17 days",
+          "uptoDate_ymd": "1998-10-17",
+          "uptoDate": "17-Oct-1998"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "34 Yrs 6 mths 2 days",
+          "uptoDate_ymd": "2007-12-29",
+          "uptoDate": "29-Dec-2007"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "31 Yrs 0 mths 11 days",
+          "uptoDate_ymd": "2004-07-11",
+          "uptoDate": "11-Jul-2004"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "39 Yrs 2 mths 2 days",
+          "uptoDate_ymd": "2012-08-29",
+          "uptoDate": "29-Aug-2012"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "27 Yrs 10 mths 2 days",
+          "uptoDate_ymd": "2001-04-29",
+          "uptoDate": "29-Apr-2001"
+        }}
+      },
+      "Sani": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "49 Yrs 1 mths 25 days",
+          "uptoDate_ymd": "2022-08-20",
+          "uptoDate": "20-Aug-2022"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "44 Yrs 10 mths 18 days",
+          "uptoDate_ymd": "2018-05-11",
+          "uptoDate": "11-May-2018"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "51 Yrs 8 mths 10 days",
+          "uptoDate_ymd": "2025-03-02",
+          "uptoDate": "02-Mar-2025"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "52 Yrs 9 mths 20 days",
+          "uptoDate_ymd": "2026-04-11",
+          "uptoDate": "11-Apr-2026"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "58 Yrs 2 mths 6 days",
+          "uptoDate_ymd": "2031-08-29",
+          "uptoDate": "29-Aug-2031"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "50 Yrs 1 mths 7 days",
+          "uptoDate_ymd": "2023-08-02",
+          "uptoDate": "02-Aug-2023"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "45 Yrs 11 mths 28 days",
+          "uptoDate_ymd": "2019-06-20",
+          "uptoDate": "20-Jun-2019"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "55 Yrs 7 mths 28 days",
+          "uptoDate_ymd": "2029-02-17",
+          "uptoDate": "17-Feb-2029"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "42 Yrs 2 mths 6 days",
+          "uptoDate_ymd": "2015-09-02",
+          "uptoDate": "02-Sep-2015"
+        }}
+      }
+    },
+    "raasi": {
+      "val": "5S 26:52:34",
+      "name": "Kanya"
+    },
+    "longitude": {
+      "ew": "E",
+      "deg": 25.966666666666665,
+      "dms": "25:58:0"
+    },
+    "actual_lagnam": {
+      "val": 348.85032244088126,
+      "val_dms": "348:51:1"
+    },
+    "sun_set": {
+      "val": 19.349464610764304,
+      "val_hms": "7:20:58 PM"
+    },
+    "Chandra": {
+      "rasi_saayana": {
+        "rasi_deg": 20.36272927467237,
+        "rasi_deg_dms": "20:21:46",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "rasi_niryana": {
+        "rasi_deg": 26.876117711382747,
+        "rasi_deg_dms": "26:52:34",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "ras": {
+        "val": 5,
+        "name": "Kanya"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 200.36272927467238,
+        "deg": 200.36272927467238
+      },
+      "nak": {
+        "val": 13,
+        "name": "Chitra"
+      },
+      "id": 7,
+      "pos_nirayana": {
+        "deg_dms": 176.87611771138273,
+        "deg": 176.87611771138273
+      }
+    },
+    "kunda_lagnam": {
+      "val": 204.91683554781775,
+      "val_dms": "204:55:1"
+    },
+    "dob_ymd": "1973-07-08",
+    "noonA": {
+      "val": 12.505416666666665,
+      "val_hms": "12:30:19 PM"
+    },
+    "basic_detail": 1,
+    "timeZoneGMT": 5.5,
+    "devata": {
+      "val": 13,
+      "name": "Twashtav"
+    },
+    "dob": "08-Jul-1973",
+    "sun_setA": {
+      "val": 19.281388888888888,
+      "val_hms": "7:16:53 PM"
+    },
+    "name": "Vijay Shekhar Sharma",
+    "dina_maanamA": {
+      "val": 13.551944444444443,
+      "val_hms": "1:33:07 PM"
+    },
+    "Rahu": {
+      "rasi_saayana": {
+        "rasi_deg": 7.301697765548276,
+        "rasi_deg_dms": "7:18:6",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "rasi_niryana": {
+        "rasi_deg": 13.815086202258655,
+        "rasi_deg_dms": "13:48:54",
+        "rasi_name": "Dhanus",
+        "rasi_id": 9
+      },
+      "ras": {
+        "val": 8,
+        "name": "Dhanus"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 277.3016977655483,
+        "deg": 277.3016977655483
+      },
+      "nak": {
+        "val": 19,
+        "name": "Pooraadam"
+      },
+      "id": 8,
+      "pos_nirayana": {
+        "deg_dms": 253.81508620225864,
+        "deg": 253.81508620225864
+      }
+    },
+    "ayanamsa": {
+      "val": 23.486611563289635,
+      "val_dms": "23:29:12"
+    },
+    "karanam": {
+      "val": 15,
+      "name": "Vishti",
+      "id": 10
+    },
+    "Rasi": {
+      "11": [],
+      "12": [
+        "Lagn",
+        "Kuja",
+        "Maan"
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+        "Ravi",
+        "Sani",
+        "Ketu"
+      ],
+      "4": [
+        "Budh",
+        "Sukr"
+      ],
+      "5": [],
+      "6": [
+        "Chan",
+        "Uran",
+        "Plut"
+      ],
+      "7": [],
+      "8": ["Nept"],
+      "9": ["Rahu"],
+      "10": ["Guru"]
+    },
+    "tob": 0,
+    "latitude": {
+      "ns": "N",
+      "deg": 25.966666666666665,
+      "dms": "25:58:0"
+    },
+    "yoga": {
+      "val": 19.42,
+      "name": "Siva"
+    },
+    "abhijitA": {
+      "fr_val2": 12.522083333333333,
+      "to_val1_hms": "12:29:19 PM",
+      "fr_val1": 12.105416666666665,
+      "fr_val1_hms": "12:06:19 PM",
+      "to_val1": 12.488749999999998,
+      "to_val2_hms": "12:54:19 PM",
+      "fr_val2_hms": "12:31:19 PM",
+      "to_val2": 12.905416666666666
+    },
+    "Uranus": {
+      "rasi_saayana": {
+        "rasi_deg": 18.948838105390333,
+        "rasi_deg_dms": "18:56:56",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "rasi_niryana": {
+        "rasi_deg": 25.462226542100687,
+        "rasi_deg_dms": "25:27:44",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "ras": {
+        "val": 5,
+        "name": "Kanya"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 198.94883810539034,
+        "deg": 198.94883810539034
+      },
+      "nak": {
+        "val": 13,
+        "name": "Chitra"
+      },
+      "id": 10,
+      "pos_nirayana": {
+        "deg_dms": 175.4622265421007,
+        "deg": 175.4622265421007
+      }
+    },
+    "ashtaka_varga": {
+      "Chandra": {
+        "11": 2,
+        "1": 6,
+        "12": 3,
+        "2": 4,
+        "3": 1,
+        "4": 4,
+        "5": 5,
+        "6": 3,
+        "7": 4,
+        "8": 7,
+        "9": 4,
+        "10": 6
+      },
+      "Guru   ": {
+        "11": 2,
+        "1": 6,
+        "12": 7,
+        "2": 4,
+        "3": 3,
+        "4": 5,
+        "5": 6,
+        "6": 3,
+        "7": 5,
+        "8": 5,
+        "9": 5,
+        "10": 5
+      },
+      "total": {
+        "11": 21,
+        "1": 33,
+        "12": 30,
+        "2": 29,
+        "3": 28,
+        "4": 24,
+        "5": 25,
+        "6": 24,
+        "7": 24,
+        "8": 34,
+        "9": 35,
+        "10": 30
+      },
+      "Kuja   ": {
+        "11": 3,
+        "1": 3,
+        "12": 4,
+        "2": 3,
+        "3": 4,
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 4,
+        "9": 6,
+        "10": 3
+      },
+      "Soorya ": {
+        "11": 4,
+        "1": 4,
+        "12": 4,
+        "2": 3,
+        "3": 8,
+        "4": 3,
+        "5": 1,
+        "6": 5,
+        "7": 1,
+        "8": 4,
+        "9": 6,
+        "10": 5
+      },
+      "Sukra  ": {
+        "11": 3,
+        "1": 5,
+        "12": 4,
+        "2": 7,
+        "3": 1,
+        "4": 4,
+        "5": 5,
+        "6": 5,
+        "7": 5,
+        "8": 6,
+        "9": 2,
+        "10": 5
+      },
+      "Budha  ": {
+        "11": 4,
+        "1": 6,
+        "12": 5,
+        "2": 3,
+        "3": 6,
+        "4": 4,
+        "5": 3,
+        "6": 4,
+        "7": 5,
+        "8": 5,
+        "9": 6,
+        "10": 3
+      },
+      "Sani   ": {
+        "11": 3,
+        "1": 3,
+        "12": 3,
+        "2": 5,
+        "3": 5,
+        "4": 3,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "8": 3,
+        "9": 6,
+        "10": 3
+      }
+    },
+    "sun_riseA": {
+      "val": 5.729444444444445,
+      "val_hms": "5:43:46 AM"
+    },
+    "dow": 0,
+    "Maandi": {
+      "rasi_saayana": {
+        "rasi_deg": 15.917023439113276,
+        "rasi_deg_dms": "15:55:1",
+        "rasi_name": "Mesha",
+        "rasi_id": 1
+      },
+      "rasi_niryana": {
+        "rasi_deg": 22.430411875823655,
+        "rasi_deg_dms": "22:25:49",
+        "rasi_name": "Meena",
+        "rasi_id": 12
+      },
+      "ras": {
+        "val": 11,
+        "name": "Meena"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 15.91702343911328,
+        "deg": 15.91702343911328
+      },
+      "nak": {
+        "val": 26,
+        "name": "Revati"
+      },
+      "id": 13,
+      "pos_nirayana": {
+        "deg_dms": 352.43041187582367,
+        "deg": 352.43041187582367
+      }
+    },
+    "Sukra": {
+      "rasi_saayana": {
+        "rasi_deg": 9.011371012094394,
+        "rasi_deg_dms": "9:0:41",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 15.524759448804758,
+        "rasi_deg_dms": "15:31:29",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 129.0113710120944,
+        "deg": 129.0113710120944
+      },
+      "nak": {
+        "val": 7,
+        "name": "Pooyam"
+      },
+      "id": 3,
+      "pos_nirayana": {
+        "deg_dms": 105.52475944880476,
+        "deg": 105.52475944880476
+      }
+    },
+    "bhootam": {
+      "val": 2,
+      "name": "Agni"
+    },
+    "Budha": {
+      "rasi_saayana": {
+        "rasi_deg": 3.3018121703035863,
+        "rasi_deg_dms": "3:18:7",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 9.815200607013939,
+        "rasi_deg_dms": "9:48:55",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 123.30181217030358,
+        "deg": 123.30181217030358
+      },
+      "nak": {
+        "val": 7,
+        "name": "Pooyam"
+      },
+      "id": 2,
+      "pos_nirayana": {
+        "deg_dms": 99.81520060701394,
+        "deg": 99.81520060701394
+      }
+    },
+    "noon": {
+      "val": 12.504966182007685,
+      "val_hms": "12:30:18 PM"
+    },
+    "bhava": [
+      {
+        "mid": {
+          "val": 349.19650414256563,
+          "val_dms": "349:11:47"
+        },
+        "id": 1,
+        "grahas": [
+          {
+            "name": "Kuja",
+            "id": 4
+          },
+          {
+            "name": "Maandi",
+            "id": 13
+          }
+        ],
+        "begin": {
+          "val": 333.49418413697936,
+          "val_dms": "333:29:39"
+        }
+      },
+      {
+        "mid": {
+          "val": 17.79186413139297,
+          "val_dms": "17:47:31"
+        },
+        "id": 2,
+        "grahas": [],
+        "begin": {
+          "val": 3.4941841369792996,
+          "val_dms": "3:29:39"
+        }
+      },
+      {
+        "mid": {
+          "val": 46.38722412022037,
+          "val_dms": "46:23:14"
+        },
+        "id": 3,
+        "grahas": [],
+        "begin": {
+          "val": 32.08954412580667,
+          "val_dms": "32:5:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 74.9825841090477,
+          "val_dms": "74:58:57"
+        },
+        "id": 4,
+        "grahas": [
+          {
+            "name": "Soorya",
+            "id": 1
+          },
+          {
+            "name": "Sani",
+            "id": 6
+          },
+          {
+            "name": "Ketu",
+            "id": 9
+          }
+        ],
+        "begin": {
+          "val": 60.68490411463404,
+          "val_dms": "60:41:6"
+        }
+      },
+      {
+        "mid": {
+          "val": 106.38722412022037,
+          "val_dms": "106:23:14"
+        },
+        "id": 5,
+        "grahas": [
+          {
+            "name": "Budha",
+            "id": 2
+          },
+          {
+            "name": "Sukra",
+            "id": 3
+          }
+        ],
+        "begin": {
+          "val": 90.68490411463404,
+          "val_dms": "90:41:6"
+        }
+      },
+      {
+        "mid": {
+          "val": 137.79186413139297,
+          "val_dms": "137:47:31"
+        },
+        "id": 6,
+        "grahas": [],
+        "begin": {
+          "val": 122.08954412580667,
+          "val_dms": "122:5:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 169.19650414256557,
+          "val_dms": "169:11:47"
+        },
+        "id": 7,
+        "grahas": [
+          {
+            "name": "Chandra",
+            "id": 7
+          },
+          {
+            "name": "Uranus",
+            "id": 10
+          },
+          {
+            "name": "Pluto",
+            "id": 12
+          }
+        ],
+        "begin": {
+          "val": 153.49418413697927,
+          "val_dms": "153:29:39"
+        }
+      },
+      {
+        "mid": {
+          "val": 197.7918641313929,
+          "val_dms": "197:47:31"
+        },
+        "id": 8,
+        "grahas": [],
+        "begin": {
+          "val": 183.49418413697924,
+          "val_dms": "183:29:39"
+        }
+      },
+      {
+        "mid": {
+          "val": 226.38722412022025,
+          "val_dms": "226:23:14"
+        },
+        "id": 9,
+        "grahas": [{
+          "name": "Neptune",
+          "id": 11
+        }],
+        "begin": {
+          "val": 212.08954412580658,
+          "val_dms": "212:5:22"
+        }
+      },
+      {
+        "mid": {
+          "val": 254.98258410904774,
+          "val_dms": "254:58:57"
+        },
+        "id": 10,
+        "grahas": [{
+          "name": "Rahu",
+          "id": 8
+        }],
+        "begin": {
+          "val": 240.68490411463398,
+          "val_dms": "240:41:6"
+        }
+      },
+      {
+        "mid": {
+          "val": 286.38722412022037,
+          "val_dms": "286:23:14"
+        },
+        "id": 11,
+        "grahas": [{
+          "name": "Guru",
+          "id": 5
+        }],
+        "begin": {
+          "val": 270.68490411463404,
+          "val_dms": "270:41:6"
+        }
+      },
+      {
+        "mid": {
+          "val": 317.791864131393,
+          "val_dms": "317:47:31"
+        },
+        "id": 12,
+        "grahas": [],
+        "begin": {
+          "val": 302.0895441258067,
+          "val_dms": "302:5:22"
+        }
+      }
+    ],
+    "kunda_lagn_diff": {
+      "val": -0.346181701684383,
+      "val_dms": "-0:20:46"
+    },
+    "Soorya": {
+      "rasi_saayana": {
+        "rasi_deg": 15.480950654705502,
+        "rasi_deg_dms": "15:28:51",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "rasi_niryana": {
+        "rasi_deg": 21.994339091415867,
+        "rasi_deg_dms": "21:59:40",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "ras": {
+        "val": 2,
+        "name": "Mithuna"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 105.48095065470551,
+        "deg": 105.48095065470551
+      },
+      "nak": {
+        "val": 6,
+        "name": "Punartam"
+      },
+      "id": 1,
+      "pos_nirayana": {
+        "deg_dms": 81.99433909141587,
+        "deg": 81.99433909141587
+      }
+    },
+    "Dwadasaamsa": {
+      "11": ["Ravi"],
+      "12": ["Nept"],
+      "1": [],
+      "2": ["Rahu"],
+      "3": [],
+      "4": [
+        "Guru",
+        "Sani",
+        "Chan",
+        "Uran"
+      ],
+      "5": [],
+      "6": ["Kuja"],
+      "7": [
+        "Lagn",
+        "Budh"
+      ],
+      "8": [
+        "Ketu",
+        "Maan"
+      ],
+      "9": ["Plut"],
+      "10": ["Sukr"]
+    },
+    "Ketu": {
+      "rasi_saayana": {
+        "rasi_deg": 7.301697765548316,
+        "rasi_deg_dms": "7:18:6",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "rasi_niryana": {
+        "rasi_deg": 13.81508620225867,
+        "rasi_deg_dms": "13:48:54",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "ras": {
+        "val": 2,
+        "name": "Mithuna"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 97.30169776554831,
+        "deg": 97.30169776554831
+      },
+      "nak": {
+        "val": 5,
+        "name": "Tiruvatira"
+      },
+      "id": 9,
+      "pos_nirayana": {
+        "deg_dms": 73.81508620225867,
+        "deg": 73.81508620225867
+      }
+    },
+    "ganam": {
+      "val": 13,
+      "name": "Aasura",
+      "id": 2
+    },
+    "sun_rise": {
+      "val": 5.6604677532510665,
+      "val_hms": "5:39:38 AM"
+    },
+    "day_of_week": "Sunday",
+    "sapta_varga": [
+      {"arr_hdg": [
+        "graham",
+        "x1",
+        "x3",
+        "x7",
+        "x9",
+        "Div10",
+        "x12",
+        "x16",
+        "x30",
+        "x60",
+        "81"
+      ]},
+      {
+        "vargas": [
+          12,
+          4,
+          10,
+          9,
+          2,
+          7,
+          7,
+          2,
+          2,
+          7
+        ],
+        "graha": "Lagna"
+      },
+      {
+        "vargas": [
+          3,
+          11,
+          8,
+          1,
+          10,
+          11,
+          8,
+          10,
+          10,
+          6
+        ],
+        "graha": "Soorya"
+      },
+      {
+        "vargas": [
+          4,
+          4,
+          12,
+          6,
+          3,
+          7,
+          6,
+          4,
+          11,
+          6
+        ],
+        "graha": "Budha"
+      },
+      {
+        "vargas": [
+          4,
+          8,
+          1,
+          8,
+          5,
+          10,
+          9,
+          10,
+          11,
+          9
+        ],
+        "graha": "Sukra"
+      },
+      {
+        "vargas": [
+          12,
+          4,
+          10,
+          9,
+          1,
+          6,
+          6,
+          12,
+          10,
+          2
+        ],
+        "graha": "Kuja"
+      },
+      {
+        "vargas": [
+          10,
+          2,
+          7,
+          2,
+          11,
+          4,
+          9,
+          11,
+          7,
+          6
+        ],
+        "graha": "Guru"
+      },
+      {
+        "vargas": [
+          3,
+          3,
+          3,
+          8,
+          4,
+          4,
+          10,
+          4,
+          10,
+          4
+        ],
+        "graha": "Sani"
+      },
+      {
+        "vargas": [
+          6,
+          2,
+          6,
+          6,
+          10,
+          4,
+          11,
+          9,
+          11,
+          10
+        ],
+        "graha": "Chandra"
+      },
+      {
+        "vargas": [
+          9,
+          1,
+          12,
+          5,
+          1,
+          2,
+          4,
+          2,
+          12,
+          2
+        ],
+        "graha": "Rahu"
+      },
+      {
+        "vargas": [
+          3,
+          7,
+          6,
+          11,
+          7,
+          8,
+          4,
+          2,
+          6,
+          8
+        ],
+        "graha": "Ketu"
+      },
+      {
+        "vargas": [
+          6,
+          2,
+          5,
+          5,
+          10,
+          4,
+          10,
+          8,
+          8,
+          6
+        ],
+        "graha": "Uranus"
+      },
+      {
+        "vargas": [
+          8,
+          12,
+          4,
+          7,
+          7,
+          12,
+          11,
+          6,
+          7,
+          11
+        ],
+        "graha": "Neptune"
+      },
+      {
+        "vargas": [
+          6,
+          6,
+          1,
+          12,
+          4,
+          9,
+          1,
+          3,
+          10,
+          8
+        ],
+        "graha": "Pluto"
+      },
+      {
+        "vargas": [
+          12,
+          8,
+          11,
+          10,
+          3,
+          8,
+          8,
+          5,
+          8,
+          4
+        ],
+        "graha": "Maandi"
+      }
+    ],
+    "Kuja": {
+      "rasi_saayana": {
+        "rasi_deg": 10.753817167371711,
+        "rasi_deg_dms": "10:45:14",
+        "rasi_name": "Mesha",
+        "rasi_id": 1
+      },
+      "rasi_niryana": {
+        "rasi_deg": 17.26720560408209,
+        "rasi_deg_dms": "17:16:2",
+        "rasi_name": "Meena",
+        "rasi_id": 12
+      },
+      "ras": {
+        "val": 11,
+        "name": "Meena"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 10.753817167371722,
+        "deg": 10.753817167371722
+      },
+      "nak": {
+        "val": 26,
+        "name": "Revati"
+      },
+      "id": 4,
+      "pos_nirayana": {
+        "deg_dms": 347.2672056040821,
+        "deg": 347.2672056040821
+      }
+    },
+    "hindu_day": {
+      "val": 6,
+      "day": "Saturday"
+    },
+    "obliquity": {
+      "val": 23.44326931060497,
+      "val_dms": "23:26:36"
+    },
+    "sex": "M",
+    "yoni": {
+      "val": 13,
+      "name": "Stree",
+      "id": 0
+    },
+    "Dasaamsa": {
+      "11": ["Guru"],
+      "12": [],
+      "1": [
+        "Kuja",
+        "Rahu"
+      ],
+      "2": ["Lagn"],
+      "3": [
+        "Budh",
+        "Maan"
+      ],
+      "4": [
+        "Sani",
+        "Plut"
+      ],
+      "5": ["Sukr"],
+      "6": [],
+      "7": [
+        "Ketu",
+        "Nept"
+      ],
+      "8": [],
+      "9": [],
+      "10": [
+        "Ravi",
+        "Chan",
+        "Uran"
+      ]
+    },
+    "place_of_birth": "Aligarh",
+    "pakshi": {
+      "val": 2,
+      "name": "Kaakka"
+    },
+    "Guru": {
+      "rasi_saayana": {
+        "rasi_deg": 9.988733572816457,
+        "rasi_deg_dms": "9:59:19",
+        "rasi_name": "Kumbha",
+        "rasi_id": 11
+      },
+      "rasi_niryana": {
+        "rasi_deg": 16.502122009526836,
+        "rasi_deg_dms": "16:30:8",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "ras": {
+        "val": 9,
+        "name": "Makara"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 309.98873357281644,
+        "deg": 309.98873357281644
+      },
+      "nak": {
+        "val": 21,
+        "name": "Tiruvonam"
+      },
+      "id": 5,
+      "pos_nirayana": {
+        "deg_dms": 286.50212200952683,
+        "deg": 286.50212200952683
+      }
+    },
+    "tithi": {
+      "val": 7.91,
+      "name": "Ashtami"
+    },
+    "dina_maanam": {
+      "val": 13.688996857513239,
+      "val_hms": "1:41:20 PM"
+    },
+    "Lagna": {
+      "rasi_saayana": {
+        "rasi_deg": 12.683115705855226,
+        "rasi_deg_dms": "12:40:59",
+        "rasi_name": "Mesha",
+        "rasi_id": 1
+      },
+      "rasi_niryana": {
+        "rasi_deg": 19.196504142565605,
+        "rasi_deg_dms": "19:11:47",
+        "rasi_name": "Meena",
+        "rasi_id": 12
+      },
+      "ras": {
+        "val": 11,
+        "name": "Meena"
+      },
+      "pos_saayana": {
+        "deg_dms": 12.683115705855244,
+        "deg": 12.683115705855244
+      },
+      "nak": {
+        "val": 26,
+        "name": "Revati"
+      },
+      "id": 0,
+      "pos_nirayana": {
+        "deg_dms": 349.19650414256563,
+        "deg": 349.19650414256563
+      }
+    }
+  },
+  {
+    "Navaamsa": {
+      "11": [
+        "Ravi",
+        "Ketu"
+      ],
+      "12": ["Nept"],
+      "1": [
+        "Budh",
+        "Sukr",
+        "Uran"
+      ],
+      "2": ["Chan"],
+      "3": [],
+      "4": [],
+      "5": [
+        "Lagn",
+        "Rahu",
+        "Plut"
+      ],
+      "6": [],
+      "7": [],
+      "8": [
+        "Guru",
+        "Maan"
+      ],
+      "9": [
+        "Kuja",
+        "Sani"
+      ],
+      "10": []
+    },
+    "time_of_birth": "0:00:00 AM",
+    "paksham": {
+      "val": 1,
+      "name": "Shukla"
+    },
+    "ayana_opts": {
+      "name": "N.C.Lahiri",
+      "id": 0
+    },
+    "paapas_count": {
+      "Sukra": {
+        "Kuja": 0,
+        "total": 2,
+        "Soorya": 1,
+        "Ketu": 1,
+        "Rahu": 1,
+        "grand_total": 3,
+        "Sani": 0
+      },
+      "Lagna": {
+        "Kuja": 0,
+        "total": 0,
+        "Soorya": 0,
+        "Ketu": 0,
+        "Rahu": 1,
+        "grand_total": 2,
+        "Sani": 1
+      },
+      "Chandra": {
+        "Kuja": 0,
+        "total": 2,
+        "Soorya": 1,
+        "Ketu": 1,
+        "Rahu": 1,
+        "grand_total": 4,
+        "Sani": 1
+      }
+    },
+    "Shodasaamsa": {
+      "11": [],
+      "12": [
+        "Sani",
+        "Plut"
+      ],
+      "1": [
+        "Kuja",
+        "Rahu",
+        "Ketu"
+      ],
+      "2": [],
+      "3": ["Ravi"],
+      "4": ["Sukr"],
+      "5": ["Uran"],
+      "6": [],
+      "7": ["Budh"],
+      "8": [],
+      "9": [
+        "Chan",
+        "Maan"
+      ],
+      "10": [
+        "Lagn",
+        "Guru",
+        "Nept"
+      ]
+    },
+    "siderial_time": {
+      "val": 7.416476691672164,
+      "val_hms": "7:24:59 AM"
+    },
+    "vriksham": {
+      "val": 21,
+      "name": "Erukku"
+    },
+    "Sani": {
+      "rasi_saayana": {
+        "rasi_deg": 21.558365428959743,
+        "rasi_deg_dms": "21:33:30",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "rasi_niryana": {
+        "rasi_deg": 28.245866464407516,
+        "rasi_deg_dms": "28:14:45",
+        "rasi_name": "Dhanus",
+        "rasi_id": 9
+      },
+      "ras": {
+        "val": 8,
+        "name": "Dhanus"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 291.55836542895975,
+        "deg": 291.55836542895975
+      },
+      "nak": {
+        "val": 20,
+        "name": "Utraadam"
+      },
+      "id": 6,
+      "pos_nirayana": {
+        "deg_dms": 268.2458664644075,
+        "deg": 268.2458664644075
+      }
+    },
+    "Pluto": {
+      "rasi_saayana": {
+        "rasi_deg": 7.7310228626852595,
+        "rasi_deg_dms": "7:43:52",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "rasi_niryana": {
+        "rasi_deg": 14.418523898133033,
+        "rasi_deg_dms": "14:25:7",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "ras": {
+        "val": 4,
+        "name": "Simha"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 157.73102286268525,
+        "deg": 157.73102286268525
+      },
+      "nak": {
+        "val": 10,
+        "name": "Pooram"
+      },
+      "id": 12,
+      "pos_nirayana": {
+        "deg_dms": 134.41852389813303,
+        "deg": 134.41852389813303
+      }
+    },
+    "abhijit": {
+      "fr_val2": 12.572514973112026,
+      "to_val1_hms": "12:32:21 PM",
+      "fr_val1": 12.155848306445359,
+      "fr_val1_hms": "12:09:21 PM",
+      "to_val1": 12.539181639778691,
+      "to_val2_hms": "12:57:21 PM",
+      "fr_val2_hms": "12:34:21 PM",
+      "to_val2": 12.95584830644536
+    },
+    "Neptune": {
+      "rasi_saayana": {
+        "rasi_deg": 11.131120734049604,
+        "rasi_deg_dms": "11:7:52",
+        "rasi_name": "Vriscika",
+        "rasi_id": 8
+      },
+      "rasi_niryana": {
+        "rasi_deg": 17.818621769497376,
+        "rasi_deg_dms": "17:49:7",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "ras": {
+        "val": 6,
+        "name": "Tula"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 221.1311207340496,
+        "deg": 221.1311207340496
+      },
+      "nak": {
+        "val": 14,
+        "name": "Choti"
+      },
+      "id": 11,
+      "pos_nirayana": {
+        "deg_dms": 197.81862176949738,
+        "deg": 197.81862176949738
+      }
+    },
+    "nakshatra": {
+      "val": 21.49,
+      "name": "Tiruvonam",
+      "paada": 2
+    },
+    "Kundaamsa": {
+      "11": ["Ketu"],
+      "12": [],
+      "1": [],
+      "2": ["Sukr"],
+      "3": ["Plut"],
+      "4": ["Uran"],
+      "5": [
+        "Lagn",
+        "Budh",
+        "Sani",
+        "Rahu"
+      ],
+      "6": ["Chan"],
+      "7": [
+        "Kuja",
+        "Guru",
+        "Nept"
+      ],
+      "8": [],
+      "9": [
+        "Ravi",
+        "Maan"
+      ],
+      "10": []
+    },
+    "mrigam": {
+      "val": 21,
+      "name": "Vaanaram"
+    },
+    "Drekkana": {
+      "11": ["Nept"],
+      "12": [],
+      "1": [],
+      "2": [
+        "Lagn",
+        "Budh",
+        "Chan"
+      ],
+      "3": [
+        "Kuja",
+        "Ketu"
+      ],
+      "4": [],
+      "5": [
+        "Guru",
+        "Sani",
+        "Uran"
+      ],
+      "6": [],
+      "7": ["Sukr"],
+      "8": ["Maan"],
+      "9": [
+        "Rahu",
+        "Plut"
+      ],
+      "10": ["Ravi"]
+    },
+    "Saptaamsa": {
+      "11": ["Nept"],
+      "12": [],
+      "1": ["Maan"],
+      "2": [
+        "Guru",
+        "Ketu"
+      ],
+      "3": [
+        "Sukr",
+        "Sani"
+      ],
+      "4": ["Ravi"],
+      "5": [
+        "Lagn",
+        "Kuja",
+        "Uran"
+      ],
+      "6": ["Budh"],
+      "7": ["Chan"],
+      "8": [
+        "Rahu",
+        "Plut"
+      ],
+      "9": [],
+      "10": []
+    },
+    "vimsottari_dasa": {
+      "Chandra": {
+        "Ketu": {"Budha": {
+          "uptoAge": "2 Yrs 10 mths 25 days",
+          "uptoDate_ymd": "1963-12-09",
+          "uptoDate": "09-Dec-1963"
+        }},
+        "Sukra": {"Ketu": {
+          "uptoAge": "4 Yrs 6 mths 24 days",
+          "uptoDate_ymd": "1965-08-09",
+          "uptoDate": "09-Aug-1965"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "2 Yrs 3 mths 21 days",
+          "uptoDate_ymd": "1963-05-09",
+          "uptoDate": "09-May-1963"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "5 Yrs 0 mths 23 days",
+          "uptoDate_ymd": "1966-02-09",
+          "uptoDate": "09-Feb-1966"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "0 Yrs 10 mths 25 days",
+          "uptoDate_ymd": "1961-12-09",
+          "uptoDate": "09-Dec-1961"
+        }}
+      },
+      "Kuja": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "11 Yrs 1 mths 17 days",
+          "uptoDate_ymd": "1972-03-03",
+          "uptoDate": "03-Mar-1972"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "5 Yrs 5 mths 20 days",
+          "uptoDate_ymd": "1966-07-06",
+          "uptoDate": "06-Jul-1966"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "9 Yrs 6 mths 22 days",
+          "uptoDate_ymd": "1970-08-06",
+          "uptoDate": "06-Aug-1970"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "12 Yrs 0 mths 25 days",
+          "uptoDate_ymd": "1973-02-09",
+          "uptoDate": "09-Feb-1973"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "7 Yrs 5 mths 15 days",
+          "uptoDate_ymd": "1968-06-30",
+          "uptoDate": "30-Jun-1968"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "11 Yrs 5 mths 25 days",
+          "uptoDate_ymd": "1972-07-09",
+          "uptoDate": "09-Jul-1972"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "9 Yrs 11 mths 22 days",
+          "uptoDate_ymd": "1971-01-03",
+          "uptoDate": "03-Jan-1971"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "6 Yrs 6 mths 8 days",
+          "uptoDate_ymd": "1967-07-24",
+          "uptoDate": "24-Jul-1967"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "8 Yrs 6 mths 25 days",
+          "uptoDate_ymd": "1969-08-09",
+          "uptoDate": "09-Aug-1969"
+        }}
+      },
+      "Rahu": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "26 Yrs 7 mths 17 days",
+          "uptoDate_ymd": "1987-08-27",
+          "uptoDate": "27-Aug-1987"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "22 Yrs 6 mths 28 days",
+          "uptoDate_ymd": "1983-08-09",
+          "uptoDate": "09-Aug-1983"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "29 Yrs 0 mths 10 days",
+          "uptoDate_ymd": "1990-01-21",
+          "uptoDate": "21-Jan-1990"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "30 Yrs 0 mths 29 days",
+          "uptoDate_ymd": "1991-02-09",
+          "uptoDate": "09-Feb-1991"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "17 Yrs 2 mths 0 days",
+          "uptoDate_ymd": "1978-03-15",
+          "uptoDate": "15-Mar-1978"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "27 Yrs 6 mths 11 days",
+          "uptoDate_ymd": "1988-07-21",
+          "uptoDate": "21-Jul-1988"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "23 Yrs 7 mths 17 days",
+          "uptoDate_ymd": "1984-08-27",
+          "uptoDate": "27-Aug-1984"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "14 Yrs 9 mths 9 days",
+          "uptoDate_ymd": "1975-10-21",
+          "uptoDate": "21-Oct-1975"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "20 Yrs 0 mths 8 days",
+          "uptoDate_ymd": "1981-01-21",
+          "uptoDate": "21-Jan-1981"
+        }}
+      },
+      "Budha": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "71 Yrs 4 mths 3 days",
+          "uptoDate_ymd": "2032-05-03",
+          "uptoDate": "03-May-2032"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "67 Yrs 6 mths 6 days",
+          "uptoDate_ymd": "2028-07-06",
+          "uptoDate": "06-Jul-2028"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "73 Yrs 7 mths 11 days",
+          "uptoDate_ymd": "2034-08-09",
+          "uptoDate": "09-Aug-2034"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "74 Yrs 7 mths 8 days",
+          "uptoDate_ymd": "2035-08-06",
+          "uptoDate": "06-Aug-2035"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "79 Yrs 5 mths 2 days",
+          "uptoDate_ymd": "2040-05-30",
+          "uptoDate": "30-May-2040"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "72 Yrs 2 mths 8 days",
+          "uptoDate_ymd": "2033-03-09",
+          "uptoDate": "09-Mar-2033"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "68 Yrs 6 mths 3 days",
+          "uptoDate_ymd": "2029-07-03",
+          "uptoDate": "03-Jul-2029"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "77 Yrs 1 mths 26 days",
+          "uptoDate_ymd": "2038-02-24",
+          "uptoDate": "24-Feb-2038"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "82 Yrs 1 mths 12 days",
+          "uptoDate_ymd": "2043-02-09",
+          "uptoDate": "09-Feb-2043"
+        }}
+      },
+      "Guru": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "40 Yrs 7 mths 15 days",
+          "uptoDate_ymd": "2001-08-21",
+          "uptoDate": "21-Aug-2001"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "37 Yrs 0 mths 6 days",
+          "uptoDate_ymd": "1998-01-15",
+          "uptoDate": "15-Jan-1998"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "42 Yrs 9 mths 4 days",
+          "uptoDate_ymd": "2003-10-09",
+          "uptoDate": "09-Oct-2003"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "43 Yrs 8 mths 11 days",
+          "uptoDate_ymd": "2004-09-15",
+          "uptoDate": "15-Sep-2004"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "32 Yrs 2 mths 16 days",
+          "uptoDate_ymd": "1993-03-27",
+          "uptoDate": "27-Mar-1993"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "41 Yrs 5 mths 2 days",
+          "uptoDate_ymd": "2002-06-09",
+          "uptoDate": "09-Jun-2002"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "37 Yrs 11 mths 16 days",
+          "uptoDate_ymd": "1998-12-21",
+          "uptoDate": "21-Dec-1998"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "46 Yrs 1 mths 3 days",
+          "uptoDate_ymd": "2007-02-09",
+          "uptoDate": "09-Feb-2007"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "34 Yrs 9 mths 2 days",
+          "uptoDate_ymd": "1995-10-09",
+          "uptoDate": "09-Oct-1995"
+        }}
+      },
+      "Sani": {
+        "Sukra": {"Ketu": {
+          "uptoAge": "56 Yrs 0 mths 26 days",
+          "uptoDate_ymd": "2017-01-30",
+          "uptoDate": "30-Jan-2017"
+        }},
+        "Budha": {"Sani": {
+          "uptoAge": "51 Yrs 9 mths 19 days",
+          "uptoDate_ymd": "2012-10-21",
+          "uptoDate": "21-Oct-2012"
+        }},
+        "Chandra": {"Soorya": {
+          "uptoAge": "58 Yrs 7 mths 10 days",
+          "uptoDate_ymd": "2019-08-12",
+          "uptoDate": "12-Aug-2019"
+        }},
+        "Kuja": {"Chandra": {
+          "uptoAge": "59 Yrs 8 mths 21 days",
+          "uptoDate_ymd": "2020-09-21",
+          "uptoDate": "21-Sep-2020"
+        }},
+        "Guru": {"Rahu": {
+          "uptoAge": "65 Yrs 1 mths 8 days",
+          "uptoDate_ymd": "2026-02-09",
+          "uptoDate": "09-Feb-2026"
+        }},
+        "Soorya": {"Sukra": {
+          "uptoAge": "57 Yrs 0 mths 8 days",
+          "uptoDate_ymd": "2018-01-12",
+          "uptoDate": "12-Jan-2018"
+        }},
+        "Ketu": {"Budha": {
+          "uptoAge": "52 Yrs 10 mths 29 days",
+          "uptoDate_ymd": "2013-11-30",
+          "uptoDate": "30-Nov-2013"
+        }},
+        "Rahu": {"Kuja": {
+          "uptoAge": "62 Yrs 6 mths 25 days",
+          "uptoDate_ymd": "2023-07-27",
+          "uptoDate": "27-Jul-2023"
+        }},
+        "Sani": {"Guru": {
+          "uptoAge": "49 Yrs 1 mths 7 days",
+          "uptoDate_ymd": "2010-02-12",
+          "uptoDate": "12-Feb-2010"
+        }}
+      }
+    },
+    "raasi": {
+      "val": "9S 16:35:20",
+      "name": "Makara"
+    },
+    "longitude": {
+      "ew": "E",
+      "deg": 30.316666666666666,
+      "dms": "30:19:0"
+    },
+    "actual_lagnam": {
+      "val": 176.87146938604684,
+      "val_dms": "176:52:17"
+    },
+    "sun_set": {
+      "val": 17.7826626610491,
+      "val_hms": "5:46:58 PM"
+    },
+    "Chandra": {
+      "rasi_saayana": {
+        "rasi_deg": 9.901519234346328,
+        "rasi_deg_dms": "9:54:5",
+        "rasi_name": "Kumbha",
+        "rasi_id": 11
+      },
+      "rasi_niryana": {
+        "rasi_deg": 16.5890202697941,
+        "rasi_deg_dms": "16:35:20",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "ras": {
+        "val": 9,
+        "name": "Makara"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 309.9015192343463,
+        "deg": 309.9015192343463
+      },
+      "nak": {
+        "val": 21,
+        "name": "Tiruvonam"
+      },
+      "id": 7,
+      "pos_nirayana": {
+        "deg_dms": 286.5890202697941,
+        "deg": 286.5890202697941
+      }
+    },
+    "kunda_lagnam": {
+      "val": 144.22386101321536,
+      "val_dms": "144:13:26"
+    },
+    "dob_ymd": "1961-01-18",
+    "noonA": {
+      "val": 12.555555555555555,
+      "val_hms": "12:33:20 PM"
+    },
+    "basic_detail": 1,
+    "timeZoneGMT": 5.5,
+    "devata": {
+      "val": 21,
+      "name": "Vishnu"
+    },
+    "dob": "18-Jan-1961",
+    "sun_setA": {
+      "val": 17.711666666666666,
+      "val_hms": "5:42:42 PM"
+    },
+    "name": "Jay Mehta",
+    "dina_maanamA": {
+      "val": 10.312222222222221,
+      "val_hms": "10:18:44 AM"
+    },
+    "Rahu": {
+      "rasi_saayana": {
+        "rasi_deg": 8.45382644812517,
+        "rasi_deg_dms": "8:27:14",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "rasi_niryana": {
+        "rasi_deg": 15.141327483572944,
+        "rasi_deg_dms": "15:8:29",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "ras": {
+        "val": 4,
+        "name": "Simha"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 158.45382644812517,
+        "deg": 158.45382644812517
+      },
+      "nak": {
+        "val": 10,
+        "name": "Pooram"
+      },
+      "id": 8,
+      "pos_nirayana": {
+        "deg_dms": 135.14132748357295,
+        "deg": 135.14132748357295
+      }
+    },
+    "ayanamsa": {
+      "val": 23.312498964552216,
+      "val_dms": "23:18:45"
+    },
+    "karanam": {
+      "val": 2,
+      "name": "Simham",
+      "id": 4
+    },
+    "Rasi": {
+      "11": [
+        "Sukr",
+        "Ketu"
+      ],
+      "12": [],
+      "1": [],
+      "2": [],
+      "3": ["Kuja"],
+      "4": ["Maan"],
+      "5": [
+        "Rahu",
+        "Uran",
+        "Plut"
+      ],
+      "6": ["Lagn"],
+      "7": ["Nept"],
+      "8": [],
+      "9": [
+        "Guru",
+        "Sani"
+      ],
+      "10": [
+        "Ravi",
+        "Budh",
+        "Chan"
+      ]
+    },
+    "tob": 0,
+    "latitude": {
+      "ns": "N",
+      "deg": 30.316666666666666,
+      "dms": "30:19:0"
+    },
+    "yoga": {
+      "val": 15.05,
+      "name": "Siddhi"
+    },
+    "abhijitA": {
+      "fr_val2": 12.572222222222223,
+      "to_val1_hms": "12:32:20 PM",
+      "fr_val1": 12.155555555555555,
+      "fr_val1_hms": "12:09:20 PM",
+      "to_val1": 12.538888888888888,
+      "to_val2_hms": "12:57:20 PM",
+      "fr_val2_hms": "12:34:20 PM",
+      "to_val2": 12.955555555555556
+    },
+    "Uranus": {
+      "rasi_saayana": {
+        "rasi_deg": 24.759373973783738,
+        "rasi_deg_dms": "24:45:34",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 1.446875009231512,
+        "rasi_deg_dms": "1:26:49",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "ras": {
+        "val": 4,
+        "name": "Simha"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 144.75937397378374,
+        "deg": 144.75937397378374
+      },
+      "nak": {
+        "val": 9,
+        "name": "Makam"
+      },
+      "id": 10,
+      "pos_nirayana": {
+        "deg_dms": 121.44687500923152,
+        "deg": 121.44687500923152
+      }
+    },
+    "ashtaka_varga": {
+      "Chandra": {
+        "11": 3,
+        "1": 4,
+        "12": 5,
+        "2": 3,
+        "3": 5,
+        "4": 6,
+        "5": 4,
+        "6": 1,
+        "7": 7,
+        "8": 7,
+        "9": 2,
+        "10": 2
+      },
+      "Guru   ": {
+        "11": 6,
+        "1": 4,
+        "12": 5,
+        "2": 4,
+        "3": 5,
+        "4": 6,
+        "5": 1,
+        "6": 6,
+        "7": 5,
+        "8": 5,
+        "9": 4,
+        "10": 5
+      },
+      "total": {
+        "11": 24,
+        "1": 26,
+        "12": 29,
+        "2": 24,
+        "3": 33,
+        "4": 31,
+        "5": 21,
+        "6": 30,
+        "7": 36,
+        "8": 37,
+        "9": 26,
+        "10": 20
+      },
+      "Kuja   ": {
+        "11": 1,
+        "1": 1,
+        "12": 5,
+        "2": 3,
+        "3": 6,
+        "4": 4,
+        "5": 1,
+        "6": 5,
+        "7": 3,
+        "8": 5,
+        "9": 3,
+        "10": 2
+      },
+      "Soorya ": {
+        "11": 3,
+        "1": 3,
+        "12": 4,
+        "2": 2,
+        "3": 5,
+        "4": 5,
+        "5": 5,
+        "6": 4,
+        "7": 5,
+        "8": 4,
+        "9": 4,
+        "10": 4
+      },
+      "Sukra  ": {
+        "11": 4,
+        "1": 6,
+        "12": 4,
+        "2": 5,
+        "3": 2,
+        "4": 3,
+        "5": 5,
+        "6": 6,
+        "7": 5,
+        "8": 6,
+        "9": 4,
+        "10": 2
+      },
+      "Budha  ": {
+        "11": 4,
+        "1": 4,
+        "12": 4,
+        "2": 4,
+        "3": 7,
+        "4": 4,
+        "5": 2,
+        "6": 6,
+        "7": 6,
+        "8": 4,
+        "9": 6,
+        "10": 3
+      },
+      "Sani   ": {
+        "11": 3,
+        "1": 4,
+        "12": 2,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 5,
+        "8": 6,
+        "9": 3,
+        "10": 2
+      }
+    },
+    "sun_riseA": {
+      "val": 7.399444444444445,
+      "val_hms": "7:23:58 AM"
+    },
+    "dow": 3,
+    "Maandi": {
+      "rasi_saayana": {
+        "rasi_deg": 8.753861752910872,
+        "rasi_deg_dms": "8:45:14",
+        "rasi_name": "Simha",
+        "rasi_id": 5
+      },
+      "rasi_niryana": {
+        "rasi_deg": 15.441362788358646,
+        "rasi_deg_dms": "15:26:29",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "ras": {
+        "val": 3,
+        "name": "Karkata"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 128.75386175291086,
+        "deg": 128.75386175291086
+      },
+      "nak": {
+        "val": 7,
+        "name": "Pooyam"
+      },
+      "id": 13,
+      "pos_nirayana": {
+        "deg_dms": 105.44136278835865,
+        "deg": 105.44136278835865
+      }
+    },
+    "Sukra": {
+      "rasi_saayana": {
+        "rasi_deg": 13.994599985205216,
+        "rasi_deg_dms": "13:59:41",
+        "rasi_name": "Meena",
+        "rasi_id": 12
+      },
+      "rasi_niryana": {
+        "rasi_deg": 20.682101020653043,
+        "rasi_deg_dms": "20:40:56",
+        "rasi_name": "Kumbha",
+        "rasi_id": 11
+      },
+      "ras": {
+        "val": 10,
+        "name": "Kumbha"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 343.99459998520524,
+        "deg": 343.99459998520524
+      },
+      "nak": {
+        "val": 24,
+        "name": "Puroruttati"
+      },
+      "id": 3,
+      "pos_nirayana": {
+        "deg_dms": 320.682101020653,
+        "deg": 320.682101020653
+      }
+    },
+    "bhootam": {
+      "val": 3,
+      "name": "Vayu"
+    },
+    "Budha": {
+      "rasi_saayana": {
+        "rasi_deg": 5.061914145812256,
+        "rasi_deg_dms": "5:3:43",
+        "rasi_name": "Kumbha",
+        "rasi_id": 11
+      },
+      "rasi_niryana": {
+        "rasi_deg": 11.74941518126003,
+        "rasi_deg_dms": "11:44:58",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "ras": {
+        "val": 9,
+        "name": "Makara"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 305.06191414581224,
+        "deg": 305.06191414581224
+      },
+      "nak": {
+        "val": 21,
+        "name": "Tiruvonam"
+      },
+      "id": 2,
+      "pos_nirayana": {
+        "deg_dms": 281.74941518126,
+        "deg": 281.74941518126
+      }
+    },
+    "noon": {
+      "val": 12.555848306445359,
+      "val_hms": "12:33:21 PM"
+    },
+    "bhava": [
+      {
+        "mid": {
+          "val": 175.11387482732366,
+          "val_dms": "175:6:50"
+        },
+        "id": 1,
+        "grahas": [],
+        "begin": {
+          "val": 160.3149848300386,
+          "val_dms": "160:18:54"
+        }
+      },
+      {
+        "mid": {
+          "val": 205.51609483275357,
+          "val_dms": "205:30:58"
+        },
+        "id": 2,
+        "grahas": [{
+          "name": "Neptune",
+          "id": 11
+        }],
+        "begin": {
+          "val": 190.3149848300386,
+          "val_dms": "190:18:54"
+        }
+      },
+      {
+        "mid": {
+          "val": 235.9183148381835,
+          "val_dms": "235:55:6"
+        },
+        "id": 3,
+        "grahas": [],
+        "begin": {
+          "val": 220.71720483546852,
+          "val_dms": "220:43:2"
+        }
+      },
+      {
+        "mid": {
+          "val": 266.3205348436134,
+          "val_dms": "266:19:14"
+        },
+        "id": 4,
+        "grahas": [
+          {
+            "name": "Soorya",
+            "id": 1
+          },
+          {
+            "name": "Guru",
+            "id": 5
+          },
+          {
+            "name": "Sani",
+            "id": 6
+          }
+        ],
+        "begin": {
+          "val": 251.11942484089846,
+          "val_dms": "251:7:10"
+        }
+      },
+      {
+        "mid": {
+          "val": 295.9183148381835,
+          "val_dms": "295:55:6"
+        },
+        "id": 5,
+        "grahas": [
+          {
+            "name": "Budha",
+            "id": 2
+          },
+          {
+            "name": "Chandra",
+            "id": 7
+          }
+        ],
+        "begin": {
+          "val": 281.11942484089843,
+          "val_dms": "281:7:10"
+        }
+      },
+      {
+        "mid": {
+          "val": 325.5160948327536,
+          "val_dms": "325:30:58"
+        },
+        "id": 6,
+        "grahas": [
+          {
+            "name": "Sukra",
+            "id": 3
+          },
+          {
+            "name": "Ketu",
+            "id": 9
+          }
+        ],
+        "begin": {
+          "val": 310.7172048354686,
+          "val_dms": "310:43:2"
+        }
+      },
+      {
+        "mid": {
+          "val": 355.1138748273237,
+          "val_dms": "355:6:50"
+        },
+        "id": 7,
+        "grahas": [],
+        "begin": {
+          "val": 340.3149848300386,
+          "val_dms": "340:18:54"
+        }
+      },
+      {
+        "mid": {
+          "val": 25.516094832753595,
+          "val_dms": "25:30:58"
+        },
+        "id": 8,
+        "grahas": [],
+        "begin": {
+          "val": 10.314984830038611,
+          "val_dms": "10:18:54"
+        }
+      },
+      {
+        "mid": {
+          "val": 55.918314838183505,
+          "val_dms": "55:55:6"
+        },
+        "id": 9,
+        "grahas": [{
+          "name": "Kuja",
+          "id": 4
+        }],
+        "begin": {
+          "val": 40.71720483546855,
+          "val_dms": "40:43:2"
+        }
+      },
+      {
+        "mid": {
+          "val": 86.3205348436134,
+          "val_dms": "86:19:14"
+        },
+        "id": 10,
+        "grahas": [],
+        "begin": {
+          "val": 71.11942484089846,
+          "val_dms": "71:7:10"
+        }
+      },
+      {
+        "mid": {
+          "val": 115.91831483818348,
+          "val_dms": "115:55:6"
+        },
+        "id": 11,
+        "grahas": [
+          {
+            "name": "Uranus",
+            "id": 10
+          },
+          {
+            "name": "Maandi",
+            "id": 13
+          }
+        ],
+        "begin": {
+          "val": 101.11942484089843,
+          "val_dms": "101:7:10"
+        }
+      },
+      {
+        "mid": {
+          "val": 145.51609483275357,
+          "val_dms": "145:30:58"
+        },
+        "id": 12,
+        "grahas": [
+          {
+            "name": "Rahu",
+            "id": 8
+          },
+          {
+            "name": "Pluto",
+            "id": 12
+          }
+        ],
+        "begin": {
+          "val": 130.71720483546852,
+          "val_dms": "130:43:2"
+        }
+      }
+    ],
+    "kunda_lagn_diff": {
+      "val": 1.7575945587231945,
+      "val_dms": "1:45:27"
+    },
+    "Soorya": {
+      "rasi_saayana": {
+        "rasi_deg": 27.439818359933188,
+        "rasi_deg_dms": "27:26:23",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "rasi_niryana": {
+        "rasi_deg": 4.127319395381015,
+        "rasi_deg_dms": "4:7:38",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "ras": {
+        "val": 9,
+        "name": "Makara"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 297.4398183599332,
+        "deg": 297.4398183599332
+      },
+      "nak": {
+        "val": 20,
+        "name": "Utraadam"
+      },
+      "id": 1,
+      "pos_nirayana": {
+        "deg_dms": 274.127319395381,
+        "deg": 274.127319395381
+      }
+    },
+    "Dwadasaamsa": {
+      "11": [
+        "Ravi",
+        "Rahu"
+      ],
+      "12": [],
+      "1": [],
+      "2": [
+        "Budh",
+        "Nept"
+      ],
+      "3": [],
+      "4": [
+        "Lagn",
+        "Chan"
+      ],
+      "5": [
+        "Ketu",
+        "Uran"
+      ],
+      "6": [
+        "Kuja",
+        "Guru"
+      ],
+      "7": ["Sukr"],
+      "8": ["Sani"],
+      "9": [],
+      "10": [
+        "Plut",
+        "Maan"
+      ]
+    },
+    "Ketu": {
+      "rasi_saayana": {
+        "rasi_deg": 8.453826448125117,
+        "rasi_deg_dms": "8:27:14",
+        "rasi_name": "Meena",
+        "rasi_id": 12
+      },
+      "rasi_niryana": {
+        "rasi_deg": 15.141327483572944,
+        "rasi_deg_dms": "15:8:29",
+        "rasi_name": "Kumbha",
+        "rasi_id": 11
+      },
+      "ras": {
+        "val": 10,
+        "name": "Kumbha"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 338.45382644812514,
+        "deg": 338.45382644812514
+      },
+      "nak": {
+        "val": 23,
+        "name": "Chatayam"
+      },
+      "id": 9,
+      "pos_nirayana": {
+        "deg_dms": 315.1413274835729,
+        "deg": 315.1413274835729
+      }
+    },
+    "ganam": {
+      "val": 21,
+      "name": "Deva",
+      "id": 0
+    },
+    "sun_rise": {
+      "val": 7.329033951841618,
+      "val_hms": "7:19:45 AM"
+    },
+    "day_of_week": "Wednesday",
+    "sapta_varga": [
+      {"arr_hdg": [
+        "graham",
+        "x1",
+        "x3",
+        "x7",
+        "x9",
+        "Div10",
+        "x12",
+        "x16",
+        "x30",
+        "x60",
+        "81"
+      ]},
+      {
+        "vargas": [
+          6,
+          2,
+          5,
+          5,
+          10,
+          4,
+          10,
+          8,
+          8,
+          5
+        ],
+        "graha": "Lagna"
+      },
+      {
+        "vargas": [
+          10,
+          10,
+          4,
+          11,
+          7,
+          11,
+          3,
+          11,
+          6,
+          9
+        ],
+        "graha": "Soorya"
+      },
+      {
+        "vargas": [
+          10,
+          2,
+          6,
+          1,
+          9,
+          2,
+          7,
+          6,
+          9,
+          5
+        ],
+        "graha": "Budha"
+      },
+      {
+        "vargas": [
+          11,
+          7,
+          3,
+          1,
+          5,
+          7,
+          4,
+          9,
+          4,
+          2
+        ],
+        "graha": "Sukra"
+      },
+      {
+        "vargas": [
+          3,
+          3,
+          5,
+          9,
+          6,
+          6,
+          1,
+          10,
+          9,
+          7
+        ],
+        "graha": "Kuja"
+      },
+      {
+        "vargas": [
+          9,
+          5,
+          2,
+          8,
+          5,
+          6,
+          10,
+          1,
+          10,
+          7
+        ],
+        "graha": "Guru"
+      },
+      {
+        "vargas": [
+          9,
+          5,
+          3,
+          9,
+          6,
+          8,
+          12,
+          5,
+          5,
+          5
+        ],
+        "graha": "Sani"
+      },
+      {
+        "vargas": [
+          10,
+          2,
+          7,
+          2,
+          11,
+          4,
+          9,
+          11,
+          7,
+          6
+        ],
+        "graha": "Chandra"
+      },
+      {
+        "vargas": [
+          5,
+          9,
+          8,
+          5,
+          10,
+          11,
+          1,
+          4,
+          11,
+          5
+        ],
+        "graha": "Rahu"
+      },
+      {
+        "vargas": [
+          11,
+          3,
+          2,
+          11,
+          4,
+          5,
+          1,
+          4,
+          5,
+          11
+        ],
+        "graha": "Ketu"
+      },
+      {
+        "vargas": [
+          5,
+          5,
+          5,
+          1,
+          5,
+          5,
+          5,
+          2,
+          7,
+          4
+        ],
+        "graha": "Uranus"
+      },
+      {
+        "vargas": [
+          7,
+          11,
+          11,
+          12,
+          12,
+          2,
+          10,
+          6,
+          6,
+          7
+        ],
+        "graha": "Neptune"
+      },
+      {
+        "vargas": [
+          5,
+          9,
+          8,
+          5,
+          9,
+          10,
+          12,
+          3,
+          9,
+          3
+        ],
+        "graha": "Pluto"
+      },
+      {
+        "vargas": [
+          4,
+          8,
+          1,
+          8,
+          5,
+          10,
+          9,
+          10,
+          10,
+          9
+        ],
+        "graha": "Maandi"
+      }
+    ],
+    "Kuja": {
+      "rasi_saayana": {
+        "rasi_deg": 2.4511564768080207,
+        "rasi_deg_dms": "2:27:4",
+        "rasi_name": "Karkata",
+        "rasi_id": 4
+      },
+      "rasi_niryana": {
+        "rasi_deg": 9.138657512255808,
+        "rasi_deg_dms": "9:8:19",
+        "rasi_name": "Mithuna",
+        "rasi_id": 3
+      },
+      "ras": {
+        "val": 2,
+        "name": "Mithuna"
+      },
+      "transit": "RET",
+      "pos_saayana": {
+        "deg_dms": 92.45115647680802,
+        "deg": 92.45115647680802
+      },
+      "nak": {
+        "val": 5,
+        "name": "Tiruvatira"
+      },
+      "id": 4,
+      "pos_nirayana": {
+        "deg_dms": 69.1386575122558,
+        "deg": 69.1386575122558
+      }
+    },
+    "hindu_day": {
+      "val": 2,
+      "day": "Tuesday"
+    },
+    "obliquity": {
+      "val": 23.440387991774394,
+      "val_dms": "23:26:25"
+    },
+    "sex": "M",
+    "yoni": {
+      "val": 21,
+      "name": "Purusha",
+      "id": 1
+    },
+    "Dasaamsa": {
+      "11": ["Chan"],
+      "12": ["Nept"],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": ["Ketu"],
+      "5": [
+        "Sukr",
+        "Guru",
+        "Uran",
+        "Maan"
+      ],
+      "6": [
+        "Kuja",
+        "Sani"
+      ],
+      "7": ["Ravi"],
+      "8": [],
+      "9": [
+        "Budh",
+        "Plut"
+      ],
+      "10": [
+        "Lagn",
+        "Rahu"
+      ]
+    },
+    "place_of_birth": "Ambala",
+    "pakshi": {
+      "val": 3,
+      "name": "Kozhi"
+    },
+    "Guru": {
+      "rasi_saayana": {
+        "rasi_deg": 18.021519598735605,
+        "rasi_deg_dms": "18:1:17",
+        "rasi_name": "Makara",
+        "rasi_id": 10
+      },
+      "rasi_niryana": {
+        "rasi_deg": 24.70902063418338,
+        "rasi_deg_dms": "24:42:32",
+        "rasi_name": "Dhanus",
+        "rasi_id": 9
+      },
+      "ras": {
+        "val": 8,
+        "name": "Dhanus"
+      },
+      "transit": "DIR",
+      "pos_saayana": {
+        "deg_dms": 288.0215195987356,
+        "deg": 288.0215195987356
+      },
+      "nak": {
+        "val": 19,
+        "name": "Pooraadam"
+      },
+      "id": 5,
+      "pos_nirayana": {
+        "deg_dms": 264.7090206341834,
+        "deg": 264.7090206341834
+      }
+    },
+    "tithi": {
+      "val": 1.04,
+      "name": "Dvitiya"
+    },
+    "dina_maanam": {
+      "val": 10.45362870920748,
+      "val_hms": "10:27:13 AM"
+    },
+    "Lagna": {
+      "rasi_saayana": {
+        "rasi_deg": 18.42637379187589,
+        "rasi_deg_dms": "18:25:35",
+        "rasi_name": "Tula",
+        "rasi_id": 7
+      },
+      "rasi_niryana": {
+        "rasi_deg": 25.113874827323663,
+        "rasi_deg_dms": "25:6:50",
+        "rasi_name": "Kanya",
+        "rasi_id": 6
+      },
+      "ras": {
+        "val": 5,
+        "name": "Kanya"
+      },
+      "pos_saayana": {
+        "deg_dms": 198.42637379187587,
+        "deg": 198.42637379187587
+      },
+      "nak": {
+        "val": 13,
+        "name": "Chitra"
+      },
+      "id": 0,
+      "pos_nirayana": {
+        "deg_dms": 175.11387482732366,
+        "deg": 175.11387482732366
+      }
+    }
+  }
+]

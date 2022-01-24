@@ -14,11 +14,32 @@ public class DMS {
   DMS (double d) {
     deg = d;
   }
+
   public static String dms(double d) {
+    int dms[] = _dms(d);   
+    String sgn = ""; 
+    if (dms[0] < 0) {
+      sgn = "-"; 
+    }
+    return (sgn.trim() + dms[1] + (html ? "&deg":"\u00B0") + dms[2] + "'" + dms[3] + "\"");
+  }
+
+  public static String DMS(double d) {
+    int dms[] = _dms(d);   
+    String sgn = ""; 
+    if (dms[0] < 0) {
+      sgn = "-"; 
+    }
+    return (sgn.trim() + dms[1] + ':' + dms[2] + ":" + dms[3]);
+  }
+
+  public static int[] _dms(double d) {
     int dd, mm, ss;
-    String sgn = "";
+    int sgn = 1;
+    //String sgn = "";
     if (d < 0) {
-      sgn = "-";
+      //sgn = "-";
+      sgn = -1;
       d = -d;
     }
     deg = d;
@@ -36,7 +57,8 @@ public class DMS {
       dd++;
     }
     if (dd >= 360) dd -= 360;
-    return (sgn.trim() + dd + (html ? "&deg":"\u00B0") + mm + "'" + ss + "\"");
+    return (new int[]{sgn, dd, mm, ss});
+    //return (sgn.trim() + dd + (html ? "&deg":"\u00B0") + mm + "'" + ss + "\"");
   }
 }
 /*-------------------------- For Horoscope -----------------------*/

@@ -176,13 +176,15 @@ public class snJDataEx {
         JSONObject jsObj = jsonArr.getJSONObject(i);
         String[] chartArgs = getCSV2Args(jsObj);
         snJDataEx snJD = new snJDataEx(chartArgs);
-        jsonAll.put(snJD.jsonObj.toString());
+        //jsonAll.put(snJD.jsonObj.toString());
+        jsonAll.put(snJD.jsonObj);
+        //new JSONObject(jsonString).toString(spacesToIndentEachLevel);
       }
     } catch (Exception ee) {
       System.out.println(ee);
     } finally {
       if (pw != null) {
-        pw.write(jsonAll.toString());
+        pw.write(jsonAll.toString(2));
         pw.flush();
         pw.close();
       }
