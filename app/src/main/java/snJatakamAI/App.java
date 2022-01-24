@@ -4,7 +4,7 @@
 package snJatakamAI;
 
 import snJatakamAI.snJatakam.sn_Jatakam.snJDataEx;
-import snJatakamAI.snJatakam.sn_Jatakam.snMatch;
+//import snJatakamAI.snJatakam.sn_Jatakam.snMatch;
 
 public class App {
 
