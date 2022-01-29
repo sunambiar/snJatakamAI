@@ -2989,6 +2989,7 @@ public class snJatak {
         + snExchange.gn() + " " + versionNo
         + " </TITLE>";
     htmlfooter = "</BODY></HTML>";
+    String segment = "";
 
     ret = 0;
     page = 1;
@@ -3291,6 +3292,8 @@ public class snJatak {
           aya_sec = Double.valueOf(nxtline).doubleValue();
           aya_val = (double) aya_deg
               + ((double) aya_mts + (double) aya_sec / 60.0) / 60.0;
+        } else {
+          segment = args[argc++ + 3];
         }
         //System.out.print(" "+name+ " " + place);
         //System.out.print(" "+round(longt,2)+ " " + ns +
@@ -3618,6 +3621,7 @@ public class snJatak {
     } catch (IOException e) {
       return;
     }
+    jObj.put("segment", segment);
     hWrite("</H2>");
     hWrite(htmlfooter);
     if (outOpt == 'F') {

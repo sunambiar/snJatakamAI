@@ -235,6 +235,7 @@
       "9": [],
       "10": ["Kuja"]
     },
+    "segment": "businessman",
     "mrigam": {
       "val": 17,
       "name": "Kezha"
@@ -1979,6 +1980,7 @@
       "9": ["Sukr"],
       "10": ["Chan"]
     },
+    "segment": "businessman",
     "mrigam": {
       "val": 13,
       "name": "Aalpuli"
@@ -3603,6 +3605,7 @@
       ],
       "10": []
     },
+    "segment": "businessman",
     "mrigam": {
       "val": 21,
       "name": "Vaanaram"
