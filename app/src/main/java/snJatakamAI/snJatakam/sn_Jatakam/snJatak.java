@@ -1389,6 +1389,15 @@ public class snJatak {
     } else if (lagnS < 0.0) {
       lagnS += 360.0;
     }
+    mapJsonA = new LinkedHashMap(2);
+    mapJsonB = new LinkedHashMap(2);
+    mapJsonB.put("lagnam", lagn);
+    mapJsonA.put("nirayana", mapJsonB); 
+    mapJsonB = new LinkedHashMap(2);
+    mapJsonB.put("lagnam", lagnS); 
+    mapJsonA.put("sayana", mapJsonB);
+    jObj.put("sphutam_lagnam", mapJsonA);
+
     for (i = 0; i <= nplnt; i++) {
       mapJson = new LinkedHashMap(9);
 
@@ -1462,7 +1471,7 @@ public class snJatak {
       hWrite(sTDTDc);
       mapJsonA = new LinkedHashMap(2);
       mapJsonA.put("deg", aa);
-      mapJsonA.put("deg_dms", aa);
+      mapJsonA.put("deg_dms", DMS.DMS(aa));
       mapJson.put("pos_nirayana", mapJsonA);
       if (!html) {
         pS.print(" (");
@@ -1475,7 +1484,7 @@ public class snJatak {
       pS.print(DMS.dms(aaS));
       mapJsonA = new LinkedHashMap(2);
       mapJsonA.put("deg", aaS);
-      mapJsonA.put("deg_dms", aaS);
+      mapJsonA.put("deg_dms", DMS.DMS(aaS));
       mapJson.put("pos_saayana", mapJsonA);
       hWrite(sTDTDc);
       if (!html) {
@@ -2409,7 +2418,7 @@ public class snJatak {
     if (!html) {
       pS.println();
     }
-    mapJson.put(x1, mapJsonA);
+    mapJson.put(x1.trim(), mapJsonA);
     hWrite("</TD></TR>");
   }
 
@@ -3428,6 +3437,26 @@ public class snJatak {
       setSayana(lahiri_ayan);
       plnt[0][0] = applyAyan(ayan(ayana_opt, y, m, d, h, mt, sec, aya_val));// Apply Specified Ayana
       ayanamsa = plnt[0][0];
+
+      String plntNames[] = {"ayanamsa", "soorya", "budha", "shukra", "kuja", "guru", 
+          "sani", "chandra", "rahu", "ketu", "uranus", "neptune", "pluto", "gulikan"}; 
+      mapJson = new LinkedHashMap(3); 
+      mapJsonA = new LinkedHashMap(nplnt+1);
+      for (int ii = 0; ii < plntNames.length; ii++) {
+        mapJsonA.put(plntNames[ii], plnt[0][ii]);
+      }
+      mapJson.put("nirayana", mapJsonA);
+      mapJsonA = new LinkedHashMap(nplnt+1);
+      for (int ii = 0; ii < plntNames.length; ii++) {
+        mapJsonA.put(plntNames[ii], plnt[1][ii]);
+      }
+      mapJson.put("sayana", mapJsonA); 
+      mapJsonA = new LinkedHashMap(nplnt+1);
+      for (int ii = 0; ii < plntNames.length; ii++) {
+        mapJsonA.put(plntNames[ii], plnt[2][ii]);
+      }
+      mapJson.put("other", mapJsonA);
+      jObj.put("sphutam", mapJson);
 
       hWrite("<TABLE><TR><TD width=\"60%\" align=right rowspan=3>");
       hWrite("<H2>");
