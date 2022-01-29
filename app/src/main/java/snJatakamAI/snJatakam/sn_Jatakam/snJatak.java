@@ -3439,7 +3439,7 @@ public class snJatak {
       ayanamsa = plnt[0][0];
 
       String plntNames[] = {"ayanamsa", "soorya", "budha", "shukra", "kuja", "guru", 
-          "sani", "chandra", "rahu", "ketu", "uranus", "neptune", "pluto", "gulikan"}; 
+          "sani", "chandra", "rahu", "ketu", "uranus", "neptune", "pluto", "maandi"}; 
       mapJson = new LinkedHashMap(3); 
       mapJsonA = new LinkedHashMap(nplnt+1);
       for (int ii = 0; ii < plntNames.length; ii++) {
