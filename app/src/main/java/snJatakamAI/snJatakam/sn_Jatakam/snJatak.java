@@ -1411,11 +1411,11 @@ public class snJatak {
       } else {
         if (plnt[1][i] < aaS) {
           pp = (html ? "<STRONG>RET<STRONG>" : "RET");
-          mapJson.put("transit", "RET");
+          mapJson.put("gati", "RET");
         } else {
           pp = (html ? "<I>dir</I>" : "dir");
           //pp = ">>+>>";  &uml;&macr;&middot;&shy;&divide;
-          mapJson.put("transit", "DIR");
+          mapJson.put("gati", "DIR");
         }
         /*
            bb = plnt[1][i];    // plnt[i+nplnt+1];
@@ -1506,7 +1506,7 @@ public class snJatak {
       mapJson.put("nak", mapJsonA);
       hWrite(sTDTDc);
       pS.println(pp);
-      //mapJson.put("transit", pp);
+      //mapJson.put("gati", pp);
       hWrite("</TD></TR>");
       jObj.put(V.grahalong[i].trim(), mapJson);
     }
