@@ -4,10 +4,14 @@
 /*--------------------------------------------------------*/
 //package snJatakam;
 package snJatakamAI.snJatakam.sn_Jatakam.sn_Jatak.snClasses.snBasic;
+
+import java.text.DecimalFormat;
+
 /*--------------------------------------------------------*/
 public class DMS {
   public static double deg = 0.0;
   public static boolean html = false;
+  private final static DecimalFormat fmt = new DecimalFormat("00");
   public DMS (boolean htm) {
     html = htm;
   }
@@ -21,7 +25,8 @@ public class DMS {
     if (dms[0] < 0) {
       sgn = "-"; 
     }
-    return (sgn.trim() + dms[1] + (html ? "&deg":"\u00B0") + dms[2] + "'" + dms[3] + "\"");
+    return (sgn.trim() + fmt.format(dms[1]) + (html ? "&deg":"\u00B0") + 
+          fmt.format(dms[2]) + "'" + fmt.format(dms[3]) + "\"");
   }
 
   public static String DMS(double d) {
@@ -30,7 +35,7 @@ public class DMS {
     if (dms[0] < 0) {
       sgn = "-"; 
     }
-    return (sgn.trim() + dms[1] + ':' + dms[2] + ":" + dms[3]);
+    return (sgn.trim() + fmt.format(dms[1]) + ':' + fmt.format(dms[2]) + ":" + fmt.format(dms[3]));
   }
 
   public static int[] _dms(double d) {

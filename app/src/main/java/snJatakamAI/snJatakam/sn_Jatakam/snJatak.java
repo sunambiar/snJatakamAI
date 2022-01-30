@@ -1494,7 +1494,7 @@ public class snJatak {
         pS.print(V.ras[a]);   //       hWrite(sTDTDc);
       }
       mapJsonA = new LinkedHashMap(2);
-      mapJsonA.put("val", a);
+      mapJsonA.put("val", a+1);
       mapJsonA.put("name", V.ras[a].trim());
       mapJson.put("ras", mapJsonA);
       pS.print(" (" + c + ") ");

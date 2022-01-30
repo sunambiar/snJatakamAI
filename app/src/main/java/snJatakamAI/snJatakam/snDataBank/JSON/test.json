@@ -113,12 +113,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 0.704796857207568,
-        "rasi_deg_dms": "0:42:17",
+        "rasi_deg_dms": "00:42:17",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "DIR",
@@ -139,7 +139,7 @@
     "Pluto": {
       "rasi_saayana": {
         "rasi_deg": 10.005642621216904,
-        "rasi_deg_dms": "10:0:20",
+        "rasi_deg_dms": "10:00:20",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
@@ -150,12 +150,12 @@
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "130:0:20",
+        "deg_dms": "130:00:20",
         "deg": 130.0056426212169
       },
       "nak": {
@@ -181,7 +181,7 @@
     "Neptune": {
       "rasi_saayana": {
         "rasi_deg": 5.865175650886956,
-        "rasi_deg_dms": "5:51:55",
+        "rasi_deg_dms": "05:51:55",
         "rasi_name": "Tula",
         "rasi_id": 7
       },
@@ -192,7 +192,7 @@
         "rasi_id": 6
       },
       "ras": {
-        "val": 5,
+        "val": 6,
         "name": "Kanya"
       },
       "transit": "RET",
@@ -642,17 +642,17 @@
       }
     },
     "raasi": {
-      "val": "7S 28:6:0",
+      "val": "7S 28:06:00",
       "name": "Vriscika"
     },
     "longitude": {
       "ew": "W",
       "deg": 40.68333333333333,
-      "dms": "40:41:0"
+      "dms": "40:41:00"
     },
     "actual_lagnam": {
       "val": 127.38395112885622,
-      "val_dms": "127:23:2"
+      "val_dms": "127:23:02"
     },
     "sun_set": {
       "val": 20.454133351515466,
@@ -667,12 +667,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 28.100041437353998,
-        "rasi_deg_dms": "28:6:0",
+        "rasi_deg_dms": "28:06:00",
         "rasi_name": "Vriscika",
         "rasi_id": 8
       },
       "ras": {
-        "val": 7,
+        "val": 8,
         "name": "Vriscika"
       },
       "transit": "DIR",
@@ -686,7 +686,7 @@
       },
       "id": 7,
       "pos_nirayana": {
-        "deg_dms": "238:6:0",
+        "deg_dms": "238:06:00",
         "deg": 238.100041437354
       }
     },
@@ -724,12 +724,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 27.650416461806852,
-        "rasi_deg_dms": "27:39:1",
+        "rasi_deg_dms": "27:39:01",
         "rasi_name": "Vrisha",
         "rasi_id": 2
       },
       "ras": {
-        "val": 1,
+        "val": 2,
         "name": "Vrisha"
       },
       "transit": "RET",
@@ -743,13 +743,13 @@
       },
       "id": 8,
       "pos_nirayana": {
-        "deg_dms": "57:39:1",
+        "deg_dms": "57:39:01",
         "deg": 57.650416461806856
       }
     },
     "ayanamsa": {
       "val": 23.108685839080376,
-      "val_dms": "23:6:31"
+      "val_dms": "23:06:31"
     },
     "karanam": {
       "val": 29,
@@ -792,7 +792,7 @@
     "latitude": {
       "ns": "N",
       "deg": 40.68333333333333,
-      "dms": "40:41:0"
+      "dms": "40:41:00"
     },
     "yoga": {
       "val": 22.35,
@@ -822,7 +822,7 @@
         "rasi_id": 2
       },
       "ras": {
-        "val": 1,
+        "val": 2,
         "name": "Vrisha"
       },
       "transit": "DIR",
@@ -1012,23 +1012,23 @@
     "Maandi": {
       "rasi_saayana": {
         "rasi_deg": 1.1316895996492526,
-        "rasi_deg_dms": "1:7:54",
+        "rasi_deg_dms": "01:07:54",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "rasi_niryana": {
         "rasi_deg": 8.023003760568885,
-        "rasi_deg_dms": "8:1:23",
+        "rasi_deg_dms": "08:01:23",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "121:7:54",
+        "deg_dms": "121:07:54",
         "deg": 121.13168959964926
       },
       "nak": {
@@ -1037,7 +1037,7 @@
       },
       "id": 13,
       "pos_nirayana": {
-        "deg_dms": "98:1:23",
+        "deg_dms": "98:01:23",
         "deg": 98.02300376056888
       }
     },
@@ -1050,12 +1050,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 2.645451202981426,
-        "rasi_deg_dms": "2:38:44",
+        "rasi_deg_dms": "02:38:44",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "DIR",
@@ -1080,7 +1080,7 @@
     "Budha": {
       "rasi_saayana": {
         "rasi_deg": 8.879796173770513,
-        "rasi_deg_dms": "8:52:47",
+        "rasi_deg_dms": "08:52:47",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
@@ -1091,7 +1091,7 @@
         "rasi_id": 3
       },
       "ras": {
-        "val": 2,
+        "val": 3,
         "name": "Mithuna"
       },
       "transit": "DIR",
@@ -1147,7 +1147,7 @@
       {
         "mid": {
           "val": 183.1228412800256,
-          "val_dms": "183:7:22"
+          "val_dms": "183:07:22"
         },
         "id": 3,
         "grahas": [{
@@ -1156,7 +1156,7 @@
         }],
         "begin": {
           "val": 169.05631105283757,
-          "val_dms": "169:3:23"
+          "val_dms": "169:03:23"
         }
       },
       {
@@ -1174,7 +1174,7 @@
       {
         "mid": {
           "val": 243.1228412800256,
-          "val_dms": "243:7:22"
+          "val_dms": "243:07:22"
         },
         "id": 5,
         "grahas": [
@@ -1201,7 +1201,7 @@
         "grahas": [],
         "begin": {
           "val": 259.05631105283754,
-          "val_dms": "259:3:23"
+          "val_dms": "259:03:23"
         }
       },
       {
@@ -1231,13 +1231,13 @@
       {
         "mid": {
           "val": 3.1228412800255683,
-          "val_dms": "3:7:22"
+          "val_dms": "03:07:22"
         },
         "id": 9,
         "grahas": [],
         "begin": {
           "val": 349.05631105283754,
-          "val_dms": "349:3:23"
+          "val_dms": "349:03:23"
         }
       },
       {
@@ -1255,7 +1255,7 @@
       {
         "mid": {
           "val": 63.12284128002561,
-          "val_dms": "63:7:22"
+          "val_dms": "63:07:22"
         },
         "id": 11,
         "grahas": [
@@ -1307,13 +1307,13 @@
         ],
         "begin": {
           "val": 79.05631105283759,
-          "val_dms": "79:3:23"
+          "val_dms": "79:03:23"
         }
       }
     ],
     "kunda_lagn_diff": {
       "val": 0.527230757582729,
-      "val_dms": "0:31:38"
+      "val_dms": "00:31:38"
     },
     "Soorya": {
       "rasi_saayana": {
@@ -1324,12 +1324,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 29.835718558544936,
-        "rasi_deg_dms": "29:50:9",
+        "rasi_deg_dms": "29:50:09",
         "rasi_name": "Vrisha",
         "rasi_id": 2
       },
       "ras": {
-        "val": 1,
+        "val": 2,
         "name": "Vrisha"
       },
       "transit": "DIR",
@@ -1343,7 +1343,7 @@
       },
       "id": 1,
       "pos_nirayana": {
-        "deg_dms": "59:50:9",
+        "deg_dms": "59:50:09",
         "deg": 59.83571855854494
       }
     },
@@ -1381,12 +1381,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 27.650416461806834,
-        "rasi_deg_dms": "27:39:1",
+        "rasi_deg_dms": "27:39:01",
         "rasi_name": "Vriscika",
         "rasi_id": 8
       },
       "ras": {
-        "val": 7,
+        "val": 8,
         "name": "Vriscika"
       },
       "transit": "RET",
@@ -1400,7 +1400,7 @@
       },
       "id": 9,
       "pos_nirayana": {
-        "deg_dms": "237:39:1",
+        "deg_dms": "237:39:01",
         "deg": 237.65041646180683
       }
     },
@@ -1648,12 +1648,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 3.6790288378905966,
-        "rasi_deg_dms": "3:40:45",
+        "rasi_deg_dms": "03:40:45",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "ras": {
-        "val": 4,
+        "val": 5,
         "name": "Simha"
       },
       "transit": "DIR",
@@ -1721,7 +1721,7 @@
     "Guru": {
       "rasi_saayana": {
         "rasi_deg": 17.433879434202186,
-        "rasi_deg_dms": "17:26:2",
+        "rasi_deg_dms": "17:26:02",
         "rasi_name": "Tula",
         "rasi_id": 7
       },
@@ -1732,12 +1732,12 @@
         "rasi_id": 6
       },
       "ras": {
-        "val": 5,
+        "val": 6,
         "name": "Kanya"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "197:26:2",
+        "deg_dms": "197:26:02",
         "deg": 197.4338794342022
       },
       "nak": {
@@ -1767,12 +1767,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 6.856720371273504,
-        "rasi_deg_dms": "6:51:24",
+        "rasi_deg_dms": "06:51:24",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "ras": {
-        "val": 4,
+        "val": 5,
         "name": "Simha"
       },
       "pos_saayana": {
@@ -1908,12 +1908,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 3.5114323405142223,
-        "rasi_deg_dms": "3:30:41",
+        "rasi_deg_dms": "03:30:41",
         "rasi_name": "Mithuna",
         "rasi_id": 3
       },
       "ras": {
-        "val": 2,
+        "val": 3,
         "name": "Mithuna"
       },
       "transit": "DIR",
@@ -1934,18 +1934,18 @@
     "Pluto": {
       "rasi_saayana": {
         "rasi_deg": 1.8469378535702674,
-        "rasi_deg_dms": "1:50:49",
+        "rasi_deg_dms": "01:50:49",
         "rasi_name": "Tula",
         "rasi_id": 7
       },
       "rasi_niryana": {
         "rasi_deg": 8.36032629028062,
-        "rasi_deg_dms": "8:21:37",
+        "rasi_deg_dms": "08:21:37",
         "rasi_name": "Kanya",
         "rasi_id": 6
       },
       "ras": {
-        "val": 5,
+        "val": 6,
         "name": "Kanya"
       },
       "transit": "DIR",
@@ -1976,7 +1976,7 @@
     "Neptune": {
       "rasi_saayana": {
         "rasi_deg": 5.031275184558499,
-        "rasi_deg_dms": "5:1:53",
+        "rasi_deg_dms": "05:01:53",
         "rasi_name": "Dhanus",
         "rasi_id": 9
       },
@@ -1987,12 +1987,12 @@
         "rasi_id": 8
       },
       "ras": {
-        "val": 7,
+        "val": 8,
         "name": "Vriscika"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "245:1:53",
+        "deg_dms": "245:01:53",
         "deg": 245.03127518455852
       },
       "nak": {
@@ -2328,11 +2328,11 @@
     "longitude": {
       "ew": "E",
       "deg": 25.966666666666665,
-      "dms": "25:58:0"
+      "dms": "25:58:00"
     },
     "actual_lagnam": {
       "val": 348.85032244088126,
-      "val_dms": "348:51:1"
+      "val_dms": "348:51:01"
     },
     "sun_set": {
       "val": 19.349464610764304,
@@ -2352,7 +2352,7 @@
         "rasi_id": 6
       },
       "ras": {
-        "val": 5,
+        "val": 6,
         "name": "Kanya"
       },
       "transit": "DIR",
@@ -2372,7 +2372,7 @@
     },
     "kunda_lagnam": {
       "val": 204.91683554781775,
-      "val_dms": "204:55:1"
+      "val_dms": "204:55:01"
     },
     "dob_ymd": "1973-07-08",
     "noonA": {
@@ -2398,7 +2398,7 @@
     "Rahu": {
       "rasi_saayana": {
         "rasi_deg": 7.301697765548276,
-        "rasi_deg_dms": "7:18:6",
+        "rasi_deg_dms": "07:18:06",
         "rasi_name": "Makara",
         "rasi_id": 10
       },
@@ -2409,12 +2409,12 @@
         "rasi_id": 9
       },
       "ras": {
-        "val": 8,
+        "val": 9,
         "name": "Dhanus"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "277:18:6",
+        "deg_dms": "277:18:06",
         "deg": 277.3016977655483
       },
       "nak": {
@@ -2469,7 +2469,7 @@
     "latitude": {
       "ns": "N",
       "deg": 25.966666666666665,
-      "dms": "25:58:0"
+      "dms": "25:58:00"
     },
     "yoga": {
       "val": 19.42,
@@ -2499,7 +2499,7 @@
         "rasi_id": 6
       },
       "ras": {
-        "val": 5,
+        "val": 6,
         "name": "Kanya"
       },
       "transit": "DIR",
@@ -2689,7 +2689,7 @@
     "Maandi": {
       "rasi_saayana": {
         "rasi_deg": 15.917023439113276,
-        "rasi_deg_dms": "15:55:1",
+        "rasi_deg_dms": "15:55:01",
         "rasi_name": "Mesha",
         "rasi_id": 1
       },
@@ -2700,12 +2700,12 @@
         "rasi_id": 12
       },
       "ras": {
-        "val": 11,
+        "val": 12,
         "name": "Meena"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "15:55:1",
+        "deg_dms": "15:55:01",
         "deg": 15.91702343911328
       },
       "nak": {
@@ -2721,7 +2721,7 @@
     "Sukra": {
       "rasi_saayana": {
         "rasi_deg": 9.011371012094394,
-        "rasi_deg_dms": "9:0:41",
+        "rasi_deg_dms": "09:00:41",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
@@ -2732,12 +2732,12 @@
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "129:0:41",
+        "deg_dms": "129:00:41",
         "deg": 129.0113710120944
       },
       "nak": {
@@ -2757,23 +2757,23 @@
     "Budha": {
       "rasi_saayana": {
         "rasi_deg": 3.3018121703035863,
-        "rasi_deg_dms": "3:18:7",
+        "rasi_deg_dms": "03:18:07",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "rasi_niryana": {
         "rasi_deg": 9.815200607013939,
-        "rasi_deg_dms": "9:48:55",
+        "rasi_deg_dms": "09:48:55",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "123:18:7",
+        "deg_dms": "123:18:07",
         "deg": 123.30181217030358
       },
       "nak": {
@@ -2821,7 +2821,7 @@
         "grahas": [],
         "begin": {
           "val": 3.4941841369792996,
-          "val_dms": "3:29:39"
+          "val_dms": "03:29:39"
         }
       },
       {
@@ -2833,7 +2833,7 @@
         "grahas": [],
         "begin": {
           "val": 32.08954412580667,
-          "val_dms": "32:5:22"
+          "val_dms": "32:05:22"
         }
       },
       {
@@ -2858,7 +2858,7 @@
         ],
         "begin": {
           "val": 60.68490411463404,
-          "val_dms": "60:41:6"
+          "val_dms": "60:41:06"
         }
       },
       {
@@ -2879,7 +2879,7 @@
         ],
         "begin": {
           "val": 90.68490411463404,
-          "val_dms": "90:41:6"
+          "val_dms": "90:41:06"
         }
       },
       {
@@ -2891,7 +2891,7 @@
         "grahas": [],
         "begin": {
           "val": 122.08954412580667,
-          "val_dms": "122:5:22"
+          "val_dms": "122:05:22"
         }
       },
       {
@@ -2943,7 +2943,7 @@
         }],
         "begin": {
           "val": 212.08954412580658,
-          "val_dms": "212:5:22"
+          "val_dms": "212:05:22"
         }
       },
       {
@@ -2958,7 +2958,7 @@
         }],
         "begin": {
           "val": 240.68490411463398,
-          "val_dms": "240:41:6"
+          "val_dms": "240:41:06"
         }
       },
       {
@@ -2973,7 +2973,7 @@
         }],
         "begin": {
           "val": 270.68490411463404,
-          "val_dms": "270:41:6"
+          "val_dms": "270:41:06"
         }
       },
       {
@@ -2985,13 +2985,13 @@
         "grahas": [],
         "begin": {
           "val": 302.0895441258067,
-          "val_dms": "302:5:22"
+          "val_dms": "302:05:22"
         }
       }
     ],
     "kunda_lagn_diff": {
       "val": -0.346181701684383,
-      "val_dms": "-0:20:46"
+      "val_dms": "-00:20:46"
     },
     "Soorya": {
       "rasi_saayana": {
@@ -3007,7 +3007,7 @@
         "rasi_id": 3
       },
       "ras": {
-        "val": 2,
+        "val": 3,
         "name": "Mithuna"
       },
       "transit": "DIR",
@@ -3053,7 +3053,7 @@
     "Ketu": {
       "rasi_saayana": {
         "rasi_deg": 7.301697765548316,
-        "rasi_deg_dms": "7:18:6",
+        "rasi_deg_dms": "07:18:06",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
@@ -3064,12 +3064,12 @@
         "rasi_id": 3
       },
       "ras": {
-        "val": 2,
+        "val": 3,
         "name": "Mithuna"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "97:18:6",
+        "deg_dms": "97:18:06",
         "deg": 97.30169776554831
       },
       "nak": {
@@ -3326,12 +3326,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 17.26720560408209,
-        "rasi_deg_dms": "17:16:2",
+        "rasi_deg_dms": "17:16:02",
         "rasi_name": "Meena",
         "rasi_id": 12
       },
       "ras": {
-        "val": 11,
+        "val": 12,
         "name": "Meena"
       },
       "transit": "DIR",
@@ -3345,7 +3345,7 @@
       },
       "id": 4,
       "pos_nirayana": {
-        "deg_dms": "347:16:2",
+        "deg_dms": "347:16:02",
         "deg": 347.2672056040821
       }
     },
@@ -3401,18 +3401,18 @@
     "Guru": {
       "rasi_saayana": {
         "rasi_deg": 9.988733572816457,
-        "rasi_deg_dms": "9:59:19",
+        "rasi_deg_dms": "09:59:19",
         "rasi_name": "Kumbha",
         "rasi_id": 11
       },
       "rasi_niryana": {
         "rasi_deg": 16.502122009526836,
-        "rasi_deg_dms": "16:30:8",
+        "rasi_deg_dms": "16:30:08",
         "rasi_name": "Makara",
         "rasi_id": 10
       },
       "ras": {
-        "val": 9,
+        "val": 10,
         "name": "Makara"
       },
       "transit": "RET",
@@ -3426,7 +3426,7 @@
       },
       "id": 5,
       "pos_nirayana": {
-        "deg_dms": "286:30:8",
+        "deg_dms": "286:30:08",
         "deg": 286.50212200952683
       }
     },
@@ -3452,7 +3452,7 @@
         "rasi_id": 12
       },
       "ras": {
-        "val": 11,
+        "val": 12,
         "name": "Meena"
       },
       "pos_saayana": {
@@ -3594,7 +3594,7 @@
         "rasi_id": 9
       },
       "ras": {
-        "val": 8,
+        "val": 9,
         "name": "Dhanus"
       },
       "transit": "DIR",
@@ -3615,18 +3615,18 @@
     "Pluto": {
       "rasi_saayana": {
         "rasi_deg": 7.7310228626852595,
-        "rasi_deg_dms": "7:43:52",
+        "rasi_deg_dms": "07:43:52",
         "rasi_name": "Kanya",
         "rasi_id": 6
       },
       "rasi_niryana": {
         "rasi_deg": 14.418523898133033,
-        "rasi_deg_dms": "14:25:7",
+        "rasi_deg_dms": "14:25:07",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "ras": {
-        "val": 4,
+        "val": 5,
         "name": "Simha"
       },
       "transit": "RET",
@@ -3640,7 +3640,7 @@
       },
       "id": 12,
       "pos_nirayana": {
-        "deg_dms": "134:25:7",
+        "deg_dms": "134:25:07",
         "deg": 134.41852389813303
       }
     },
@@ -3657,23 +3657,23 @@
     "Neptune": {
       "rasi_saayana": {
         "rasi_deg": 11.131120734049604,
-        "rasi_deg_dms": "11:7:52",
+        "rasi_deg_dms": "11:07:52",
         "rasi_name": "Vriscika",
         "rasi_id": 8
       },
       "rasi_niryana": {
         "rasi_deg": 17.818621769497376,
-        "rasi_deg_dms": "17:49:7",
+        "rasi_deg_dms": "17:49:07",
         "rasi_name": "Tula",
         "rasi_id": 7
       },
       "ras": {
-        "val": 6,
+        "val": 7,
         "name": "Tula"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "221:7:52",
+        "deg_dms": "221:07:52",
         "deg": 221.1311207340496
       },
       "nak": {
@@ -3682,7 +3682,7 @@
       },
       "id": 11,
       "pos_nirayana": {
-        "deg_dms": "197:49:7",
+        "deg_dms": "197:49:07",
         "deg": 197.81862176949738
       }
     },
@@ -4048,7 +4048,7 @@
     "longitude": {
       "ew": "E",
       "deg": 30.316666666666666,
-      "dms": "30:19:0"
+      "dms": "30:19:00"
     },
     "actual_lagnam": {
       "val": 176.87146938604684,
@@ -4061,7 +4061,7 @@
     "Chandra": {
       "rasi_saayana": {
         "rasi_deg": 9.901519234346328,
-        "rasi_deg_dms": "9:54:5",
+        "rasi_deg_dms": "09:54:05",
         "rasi_name": "Kumbha",
         "rasi_id": 11
       },
@@ -4072,12 +4072,12 @@
         "rasi_id": 10
       },
       "ras": {
-        "val": 9,
+        "val": 10,
         "name": "Makara"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "309:54:5",
+        "deg_dms": "309:54:05",
         "deg": 309.9015192343463
       },
       "nak": {
@@ -4118,18 +4118,18 @@
     "Rahu": {
       "rasi_saayana": {
         "rasi_deg": 8.45382644812517,
-        "rasi_deg_dms": "8:27:14",
+        "rasi_deg_dms": "08:27:14",
         "rasi_name": "Kanya",
         "rasi_id": 6
       },
       "rasi_niryana": {
         "rasi_deg": 15.141327483572944,
-        "rasi_deg_dms": "15:8:29",
+        "rasi_deg_dms": "15:08:29",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "ras": {
-        "val": 4,
+        "val": 5,
         "name": "Simha"
       },
       "transit": "RET",
@@ -4143,7 +4143,7 @@
       },
       "id": 8,
       "pos_nirayana": {
-        "deg_dms": "135:8:29",
+        "deg_dms": "135:08:29",
         "deg": 135.14132748357295
       }
     },
@@ -4188,7 +4188,7 @@
     "latitude": {
       "ns": "N",
       "deg": 30.316666666666666,
-      "dms": "30:19:0"
+      "dms": "30:19:00"
     },
     "yoga": {
       "val": 15.05,
@@ -4213,12 +4213,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 1.446875009231512,
-        "rasi_deg_dms": "1:26:49",
+        "rasi_deg_dms": "01:26:49",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
       "ras": {
-        "val": 4,
+        "val": 5,
         "name": "Simha"
       },
       "transit": "RET",
@@ -4408,7 +4408,7 @@
     "Maandi": {
       "rasi_saayana": {
         "rasi_deg": 8.753861752910872,
-        "rasi_deg_dms": "8:45:14",
+        "rasi_deg_dms": "08:45:14",
         "rasi_name": "Simha",
         "rasi_id": 5
       },
@@ -4419,7 +4419,7 @@
         "rasi_id": 4
       },
       "ras": {
-        "val": 3,
+        "val": 4,
         "name": "Karkata"
       },
       "transit": "RET",
@@ -4451,7 +4451,7 @@
         "rasi_id": 11
       },
       "ras": {
-        "val": 10,
+        "val": 11,
         "name": "Kumbha"
       },
       "transit": "DIR",
@@ -4476,7 +4476,7 @@
     "Budha": {
       "rasi_saayana": {
         "rasi_deg": 5.061914145812256,
-        "rasi_deg_dms": "5:3:43",
+        "rasi_deg_dms": "05:03:43",
         "rasi_name": "Kumbha",
         "rasi_id": 11
       },
@@ -4487,12 +4487,12 @@
         "rasi_id": 10
       },
       "ras": {
-        "val": 9,
+        "val": 10,
         "name": "Makara"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "305:3:43",
+        "deg_dms": "305:03:43",
         "deg": 305.06191414581224
       },
       "nak": {
@@ -4513,7 +4513,7 @@
       {
         "mid": {
           "val": 175.11387482732366,
-          "val_dms": "175:6:50"
+          "val_dms": "175:06:50"
         },
         "id": 1,
         "grahas": [],
@@ -4540,13 +4540,13 @@
       {
         "mid": {
           "val": 235.9183148381835,
-          "val_dms": "235:55:6"
+          "val_dms": "235:55:06"
         },
         "id": 3,
         "grahas": [],
         "begin": {
           "val": 220.71720483546852,
-          "val_dms": "220:43:2"
+          "val_dms": "220:43:02"
         }
       },
       {
@@ -4571,13 +4571,13 @@
         ],
         "begin": {
           "val": 251.11942484089846,
-          "val_dms": "251:7:10"
+          "val_dms": "251:07:10"
         }
       },
       {
         "mid": {
           "val": 295.9183148381835,
-          "val_dms": "295:55:6"
+          "val_dms": "295:55:06"
         },
         "id": 5,
         "grahas": [
@@ -4592,7 +4592,7 @@
         ],
         "begin": {
           "val": 281.11942484089843,
-          "val_dms": "281:7:10"
+          "val_dms": "281:07:10"
         }
       },
       {
@@ -4613,13 +4613,13 @@
         ],
         "begin": {
           "val": 310.7172048354686,
-          "val_dms": "310:43:2"
+          "val_dms": "310:43:02"
         }
       },
       {
         "mid": {
           "val": 355.1138748273237,
-          "val_dms": "355:6:50"
+          "val_dms": "355:06:50"
         },
         "id": 7,
         "grahas": [],
@@ -4643,7 +4643,7 @@
       {
         "mid": {
           "val": 55.918314838183505,
-          "val_dms": "55:55:6"
+          "val_dms": "55:55:06"
         },
         "id": 9,
         "grahas": [{
@@ -4652,7 +4652,7 @@
         }],
         "begin": {
           "val": 40.71720483546855,
-          "val_dms": "40:43:2"
+          "val_dms": "40:43:02"
         }
       },
       {
@@ -4664,13 +4664,13 @@
         "grahas": [],
         "begin": {
           "val": 71.11942484089846,
-          "val_dms": "71:7:10"
+          "val_dms": "71:07:10"
         }
       },
       {
         "mid": {
           "val": 115.91831483818348,
-          "val_dms": "115:55:6"
+          "val_dms": "115:55:06"
         },
         "id": 11,
         "grahas": [
@@ -4685,7 +4685,7 @@
         ],
         "begin": {
           "val": 101.11942484089843,
-          "val_dms": "101:7:10"
+          "val_dms": "101:07:10"
         }
       },
       {
@@ -4706,13 +4706,13 @@
         ],
         "begin": {
           "val": 130.71720483546852,
-          "val_dms": "130:43:2"
+          "val_dms": "130:43:02"
         }
       }
     ],
     "kunda_lagn_diff": {
       "val": 1.7575945587231945,
-      "val_dms": "1:45:27"
+      "val_dms": "01:45:27"
     },
     "Soorya": {
       "rasi_saayana": {
@@ -4723,12 +4723,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 4.127319395381015,
-        "rasi_deg_dms": "4:7:38",
+        "rasi_deg_dms": "04:07:38",
         "rasi_name": "Makara",
         "rasi_id": 10
       },
       "ras": {
-        "val": 9,
+        "val": 10,
         "name": "Makara"
       },
       "transit": "DIR",
@@ -4742,7 +4742,7 @@
       },
       "id": 1,
       "pos_nirayana": {
-        "deg_dms": "274:7:38",
+        "deg_dms": "274:07:38",
         "deg": 274.127319395381
       }
     },
@@ -4781,18 +4781,18 @@
     "Ketu": {
       "rasi_saayana": {
         "rasi_deg": 8.453826448125117,
-        "rasi_deg_dms": "8:27:14",
+        "rasi_deg_dms": "08:27:14",
         "rasi_name": "Meena",
         "rasi_id": 12
       },
       "rasi_niryana": {
         "rasi_deg": 15.141327483572944,
-        "rasi_deg_dms": "15:8:29",
+        "rasi_deg_dms": "15:08:29",
         "rasi_name": "Kumbha",
         "rasi_id": 11
       },
       "ras": {
-        "val": 10,
+        "val": 11,
         "name": "Kumbha"
       },
       "transit": "RET",
@@ -4806,7 +4806,7 @@
       },
       "id": 9,
       "pos_nirayana": {
-        "deg_dms": "315:8:29",
+        "deg_dms": "315:08:29",
         "deg": 315.1413274835729
       }
     },
@@ -5048,23 +5048,23 @@
     "Kuja": {
       "rasi_saayana": {
         "rasi_deg": 2.4511564768080207,
-        "rasi_deg_dms": "2:27:4",
+        "rasi_deg_dms": "02:27:04",
         "rasi_name": "Karkata",
         "rasi_id": 4
       },
       "rasi_niryana": {
         "rasi_deg": 9.138657512255808,
-        "rasi_deg_dms": "9:8:19",
+        "rasi_deg_dms": "09:08:19",
         "rasi_name": "Mithuna",
         "rasi_id": 3
       },
       "ras": {
-        "val": 2,
+        "val": 3,
         "name": "Mithuna"
       },
       "transit": "RET",
       "pos_saayana": {
-        "deg_dms": "92:27:4",
+        "deg_dms": "92:27:04",
         "deg": 92.45115647680802
       },
       "nak": {
@@ -5073,7 +5073,7 @@
       },
       "id": 4,
       "pos_nirayana": {
-        "deg_dms": "69:8:19",
+        "deg_dms": "69:08:19",
         "deg": 69.1386575122558
       }
     },
@@ -5127,7 +5127,7 @@
     "Guru": {
       "rasi_saayana": {
         "rasi_deg": 18.021519598735605,
-        "rasi_deg_dms": "18:1:17",
+        "rasi_deg_dms": "18:01:17",
         "rasi_name": "Makara",
         "rasi_id": 10
       },
@@ -5138,12 +5138,12 @@
         "rasi_id": 9
       },
       "ras": {
-        "val": 8,
+        "val": 9,
         "name": "Dhanus"
       },
       "transit": "DIR",
       "pos_saayana": {
-        "deg_dms": "288:1:17",
+        "deg_dms": "288:01:17",
         "deg": 288.0215195987356
       },
       "nak": {
@@ -5173,12 +5173,12 @@
       },
       "rasi_niryana": {
         "rasi_deg": 25.113874827323663,
-        "rasi_deg_dms": "25:6:50",
+        "rasi_deg_dms": "25:06:50",
         "rasi_name": "Kanya",
         "rasi_id": 6
       },
       "ras": {
-        "val": 5,
+        "val": 6,
         "name": "Kanya"
       },
       "pos_saayana": {
@@ -5191,7 +5191,7 @@
       },
       "id": 0,
       "pos_nirayana": {
-        "deg_dms": "175:6:50",
+        "deg_dms": "175:06:50",
         "deg": 175.11387482732366
       }
     }
